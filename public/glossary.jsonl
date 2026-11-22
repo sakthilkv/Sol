@@ -1,0 +1,2864 @@
+{"engword": "Clock wise", "tamilword": "வலஞ்சுழி"}
+{"engword": "Anti Clock wise", "tamilword": "இடஞ்சுழி"}
+{"engword": "Internet", "tamilword": "இணையம்"}
+{"engword": "Voice Search", "tamilword": "குரல்தேடல்"}
+{"engword": "Search engine", "tamilword": "தேடுபொறி"}
+{"engword": "Touch Screen", "tamilword": "தொடுதிரை"}
+{"engword": "Continent", "tamilword": "கண்டம்"}
+{"engword": "Climate", "tamilword": "தட்பவெப்பநிலை"}
+{"engword": "Weather", "tamilword": "வானிலை"}
+{"engword": "Migration", "tamilword": "வலசை"}
+{"engword": "Sanctuary", "tamilword": "புகலிடம்"}
+{"engword": "Gravitational Field", "tamilword": "புவிஈர்ப்புப்புலம்"}
+{"engword": "Artificial Intelligence", "tamilword": "செயற்கை நுண்ணறிவு"}
+{"engword": "Research", "tamilword": "ஆய்வு"}
+{"engword": "Super Computer", "tamilword": "மீத்திறன் கணினி"}
+{"engword": "Planet", "tamilword": "கோள்"}
+{"engword": "Medicine", "tamilword": "ஔடதம்"}
+{"engword": "Robot", "tamilword": "எந்திர மனிதன்"}
+{"engword": "Satellite", "tamilword": "செயற்கைக் கோள்"}
+{"engword": "Intelligence", "tamilword": "நுண்ணறிவு"}
+{"engword": "Education", "tamilword": "கல்வி"}
+{"engword": "Mail", "tamilword": "அஞ்சல்"}
+{"engword": "Primary school", "tamilword": "ஆரம்ப பள்ளி"}
+{"engword": "Compact disk(CD)", "tamilword": "குறுந்தகடு"}
+{"engword": "Higher Secondary School", "tamilword": "மேல்நிலைப்பள்ளி"}
+{"engword": "E-Library", "tamilword": "மின் நூலகம்"}
+{"engword": "Library", "tamilword": "நூலகம்"}
+{"engword": "E-Book", "tamilword": "மின் புத்தகம்"}
+{"engword": "Escalator", "tamilword": "மின்படிக்கட்டு"}
+{"engword": "E-Magazine", "tamilword": "மின் இதழ்கள்"}
+{"engword": "Lift", "tamilword": "மின்தூக்கி"}
+{"engword": "Welcome", "tamilword": "நல்வரவு"}
+{"engword": "Readymade Dress", "tamilword": "ஆயத்த ஆடை"}
+{"engword": "Sculptures", "tamilword": "சிற்பங்கள்"}
+{"engword": "Makeup", "tamilword": "ஒப்பனை"}
+{"engword": "Chips", "tamilword": "சில்லுகள்"}
+{"engword": "Tiffin", "tamilword": "சிற்றுண்டி"}
+{"engword": "Commodity", "tamilword": "பண்டம்"}
+{"engword": "Voyage", "tamilword": "கடற்பயணம்"}
+{"engword": "Ferries", "tamilword": "பயணப்படகுகள்"}
+{"engword": "Entrepreneur", "tamilword": "தொழில்முனைவோர்"}
+{"engword": "Heritage", "tamilword": "பாரம்பரியம்"}
+{"engword": "Adulteration", "tamilword": "கலப்படம்"}
+{"engword": "Consumer", "tamilword": "நுகர்வோர்"}
+{"engword": "Merchant", "tamilword": "வணிகர்"}
+{"engword": "Patriotism", "tamilword": "நட்டுப்பற்று"}
+{"engword": "Literature", "tamilword": "இலக்கியம்"}
+{"engword": "Art Gallery", "tamilword": "கலைக்கூடம்"}
+{"engword": "Knowledge of Reality", "tamilword": "மெய்யுணர்வு"}
+{"engword": "Trust", "tamilword": "அறக்கட்டளை"}
+{"engword": "Volunteer", "tamilword": "தன்னார்வலர்"}
+{"engword": "Junior Red Cross", "tamilword": "இளம் செஞ்சிலுவைச் சங்கம்"}
+{"engword": "Scouts & Guides", "tamilword": "சாரண சாரணியர்"}
+{"engword": "Social Worker", "tamilword": "சமூகப்பணியாளர்"}
+{"engword": "Humanity", "tamilword": "மனிதநேயம்"}
+{"engword": "Mercy", "tamilword": "கருணை"}
+{"engword": "Transplantation", "tamilword": "உறுப்பு மாற்று அறுவைசிகிச்சை"}
+{"engword": "Nobel Prize", "tamilword": "நாேபல் பரிசு"}
+{"engword": "Lorry", "tamilword": "சரக்குந்து"}
+{"engword": "Media", "tamilword": "ஊடகம்"}
+{"engword": "Magazine", "tamilword": "பருவ இதழ்"}
+{"engword": "Linguistics", "tamilword": "மொழியியல்"}
+{"engword": "Puppetry", "tamilword": "பொம்மலாட்டம்"}
+{"engword": "Phonology", "tamilword": "ஒலியியல்"}
+{"engword": "Orthography", "tamilword": "எழுத்திலக்கணம்"}
+{"engword": "Journalism", "tamilword": "இதழியல்"}
+{"engword": "Dialogue", "tamilword": "உரையாடல்"}
+{"engword": "Island", "tamilword": "தீவு"}
+{"engword": "Parable", "tamilword": "உவமை"}
+{"engword": "Natural Resource", "tamilword": "இயற்கை வளம்"}
+{"engword": "Jungle", "tamilword": "காடு"}
+{"engword": "Wild Animals", "tamilword": "வன விலங்குகள்"}
+{"engword": "Forestry", "tamilword": "வனவியல்"}
+{"engword": "Forest Conservator", "tamilword": "வனப் பாதுகாவலர்"}
+{"engword": "Bio Diversity", "tamilword": "பல்லுயிர் மண்டலம்"}
+{"engword": "Ballad", "tamilword": "கதைப்பாடல்"}
+{"engword": "Elocution", "tamilword": "பேச்சாற்றல்"}
+{"engword": "Courage", "tamilword": "துணிவு"}
+{"engword": "Unity", "tamilword": "ஒற்றுமை"}
+{"engword": "Sacrifice", "tamilword": "தியாகம்"}
+{"engword": "Slogan", "tamilword": "முழக்கம்"}
+{"engword": "Political Genius", "tamilword": "அரசியல் மேதை"}
+{"engword": "Equality", "tamilword": "சமத்துவம்"}
+{"engword": "Light house", "tamilword": "கலங்கரை விளக்கம்"}
+{"engword": "Harbour", "tamilword": "துறைமுகம்"}
+{"engword": "Ocean", "tamilword": "பெருங்கடல்"}
+{"engword": "Storm", "tamilword": "புயல்"}
+{"engword": "Marine technology", "tamilword": "கப்பல் தொழில்நுட்பம்"}
+{"engword": "Sailor", "tamilword": "மாலுமி"}
+{"engword": "Marine creature", "tamilword": "கடல்வாழ் உயிரினம்"}
+{"engword": "Anchor", "tamilword": "நங்கூரம்"}
+{"engword": "Submarine", "tamilword": "நீர்மூழ்கிக்கப்பல்"}
+{"engword": "Shipyard", "tamilword": "கப்பல்தளம்"}
+{"engword": "Summer Vacation", "tamilword": "கோடை விடுமுறை"}
+{"engword": "Moral", "tamilword": "நீதி"}
+{"engword": "Child Labour", "tamilword": "குழந்தைத்தொழிலாளர்"}
+{"engword": "Uniform", "tamilword": "சீருடை"}
+{"engword": "Degree", "tamilword": "பட்டம்"}
+{"engword": "Guidance", "tamilword": "வழிகாட்டுதல்"}
+{"engword": "Literacy", "tamilword": "கல்வியறிவு"}
+{"engword": "Discipline", "tamilword": "ஒழுக்கம்"}
+{"engword": "Creator", "tamilword": "படைப்பாளர்"}
+{"engword": "Aesthetics", "tamilword": "அழகியல்"}
+{"engword": "Sculpture", "tamilword": "சிற்பம்"}
+{"engword": "Brush", "tamilword": "தூரிகை"}
+{"engword": "Artist", "tamilword": "கலைஞர்"}
+{"engword": "Cartoon", "tamilword": "கருத்துப்படம்"}
+{"engword": "Inscriptions", "tamilword": "கல்வெட்டு"}
+{"engword": "Cave paintings", "tamilword": "குகை ஓவியங்கள்"}
+{"engword": "Manuscripts", "tamilword": "கையெழுத்துப்படி"}
+{"engword": "Modern Art", "tamilword": "நவீன ஓவியம்"}
+{"engword": "Civilization", "tamilword": "நாகரிகம்"}
+{"engword": "Agriculture", "tamilword": "வேளாண்மை"}
+{"engword": "Folklore", "tamilword": "நாட்டுப்புறவியல்"}
+{"engword": "Poet", "tamilword": "கவிஞர்"}
+{"engword": "Harvest", "tamilword": "அறுவடை"}
+{"engword": "Foreigner", "tamilword": "அயல்நாட்டினர்"}
+{"engword": "Paddy", "tamilword": "நெற்பயிர்"}
+{"engword": "Irrigation", "tamilword": "நீர்ப்பாசனம்"}
+{"engword": "Cultivation", "tamilword": "பயிரிடுதல்"}
+{"engword": "Agronomy", "tamilword": "உழவியல்"}
+{"engword": "Objective", "tamilword": "குறிக்கோள்"}
+{"engword": "Poverty", "tamilword": "வறுமை"}
+{"engword": "Wealth", "tamilword": "செல்வம்"}
+{"engword": "Responsiblity", "tamilword": "கடமை"}
+{"engword": "Reciprocity", "tamilword": "ஒப்புரவுநெறி"}
+{"engword": "Ambition", "tamilword": "லட்சியம்"}
+{"engword": "Neighbour", "tamilword": "அயலவர்"}
+{"engword": "Courtesy", "tamilword": "நற்பண்பு"}
+{"engword": "Communism", "tamilword": "பொதுவுடைமை"}
+{"engword": "Religion", "tamilword": "சமயம்"}
+{"engword": "Philosophy", "tamilword": "தத்துவம்"}
+{"engword": "Simplicity", "tamilword": "எளிமை"}
+{"engword": "Integrity", "tamilword": "நேர்மை"}
+{"engword": "Charity", "tamilword": "ஈகை"}
+{"engword": "Sincerity", "tamilword": "வாய்மை"}
+{"engword": "Dignity", "tamilword": "கண்ணியம்"}
+{"engword": "Preaching", "tamilword": "உபதேசம்"}
+{"engword": "Doctrine", "tamilword": "கொள்கை"}
+{"engword": "Astronomy", "tamilword": "வானியல்"}
+{"engword": "Articulatory phonetics", "tamilword": "ஒலிப்பிறப்பியல்"}
+{"engword": "Vowel", "tamilword": "உயிரொலி"}
+{"engword": "Consonant", "tamilword": "மெய்யொலி"}
+{"engword": "Epigraph", "tamilword": "கல்வெட்டு"}
+{"engword": "Nasal consonant sound", "tamilword": "மூக்கொலி"}
+{"engword": "Lexicography", "tamilword": "அகராதியியல்"}
+{"engword": "Pictograph", "tamilword": "சித்திர எழுத்து"}
+{"engword": "Phoneme", "tamilword": "ஒலியன்"}
+{"engword": "Tribes", "tamilword": "பழங்குடியினர்"}
+{"engword": "Ridge", "tamilword": "மலைமுகடு"}
+{"engword": "Plain", "tamilword": "சமவெளி"}
+{"engword": "Locust", "tamilword": "வெட்டுக்கிளி"}
+{"engword": "Valley", "tamilword": "பள்ளத்தாக்கு"}
+{"engword": "Leopard", "tamilword": "சிறுத்தை"}
+{"engword": "Thicket", "tamilword": "புதர்"}
+{"engword": "Bud", "tamilword": "மொட்டு"}
+{"engword": "Disease", "tamilword": "நோய்"}
+{"engword": "Side Effect", "tamilword": "பக்கவிளைவு"}
+{"engword": "Antibiotic", "tamilword": "நுண்ணுயிர் முறி"}
+{"engword": "Herbs", "tamilword": "மூலிகை"}
+{"engword": "Millets", "tamilword": "சிறுதானியங்கள்"}
+{"engword": "Gene", "tamilword": "மரபணு"}
+{"engword": "Auditor", "tamilword": "பட்டயக் கணக்கர்"}
+{"engword": "Allergy", "tamilword": "ஒவ்வாமை"}
+{"engword": "Punctuation", "tamilword": "நிறுத்தக்குறி"}
+{"engword": "Talent", "tamilword": "திறமை"}
+{"engword": "Translation", "tamilword": "மொழிபெயர்ப்பு"}
+{"engword": "Ornament", "tamilword": "அணிகலன்"}
+{"engword": "Awareness", "tamilword": "விழிப்புணர்வு"}
+{"engword": "Reform", "tamilword": "சீர்திருத்தம்"}
+{"engword": "Crafts", "tamilword": "கைவினைப் பொருள்கள்"}
+{"engword": "Knitting", "tamilword": "பின்னுதல்"}
+{"engword": "Flute", "tamilword": "புல்லாங்குழல்"}
+{"engword": "Horn", "tamilword": "கொம்பு"}
+{"engword": "Drum", "tamilword": "முரசு"}
+{"engword": "Artisan", "tamilword": "கைவினைஞர்"}
+{"engword": "Basketry", "tamilword": "கூடைமுடைதல்"}
+{"engword": "Rite", "tamilword": "சடங்கு"}
+{"engword": "Thread", "tamilword": "நூல்"}
+{"engword": "Dairy farm", "tamilword": "பால்பண்ணை"}
+{"engword": "Loom", "tamilword": "தறி"}
+{"engword": "Dyeing", "tamilword": "சாயம் ஏற்றுதல்"}
+{"engword": "Stitch", "tamilword": "தையல்"}
+{"engword": "Tanning", "tamilword": "தோல் பதனிடுதல்"}
+{"engword": "Factory", "tamilword": "ஆலை"}
+{"engword": "Readymade Dress", "tamilword": "ஆயத்த ஆடை"}
+{"engword": "Equestrian", "tamilword": "குதிரையேற்றம்"}
+{"engword": "Chief Minister", "tamilword": "முதலமைச்சர்"}
+{"engword": "Support", "tamilword": "ஆதரவு"}
+{"engword": "Leadership", "tamilword": "தலைமைப்பண்பு"}
+{"engword": "The Hero", "tamilword": "கதாநாயகன்"}
+{"engword": "Victory", "tamilword": "வெற்றி"}
+{"engword": "Tax", "tamilword": "வரி"}
+{"engword": "Member of Legislative Assembly", "tamilword": "சட்ட மன்ற உறுப்பினர்"}
+{"engword": "Charity", "tamilword": "தொண்டு"}
+{"engword": "Rational", "tamilword": "பகுத்தறிவு"}
+{"engword": "Integrity", "tamilword": "நேர்மை"}
+{"engword": "Philosophy", "tamilword": "தத்துவம்"}
+{"engword": "Saint", "tamilword": "ஞானி"}
+{"engword": "Reform", "tamilword": "சீர்திருத்தம்"}
+{"engword": "Objective", "tamilword": "குறிக்கோள்"}
+{"engword": "Doctorate", "tamilword": "முனைவர் பட்டம்"}
+{"engword": "University", "tamilword": "பல்கலைக்கழகம்"}
+{"engword": "Constitution", "tamilword": "அரசியலமைப்பு"}
+{"engword": "Confidence", "tamilword": "நம்பிக்கை"}
+{"engword": "Double voting", "tamilword": "இரட்டை வாக்குரிமை"}
+{"engword": "Agreement", "tamilword": "ஒப்பந்தம்"}
+{"engword": "Round Table Conference", "tamilword": "வட்ட மேசை மாநாடு"}
+{"engword": "Morpheme", "tamilword": "உருபன்"}
+{"engword": "Phoneme", "tamilword": "ஒலியன்"}
+{"engword": "Comparative Grammar", "tamilword": "ஒப்பிலக்கணம்"}
+{"engword": "Lexicon", "tamilword": "பேரகராதி"}
+{"engword": "Conical Stone", "tamilword": "குமிழிக் கல்"}
+{"engword": "Water Management", "tamilword": "நீர் மேலாண்மை"}
+{"engword": "Irrigation Technology", "tamilword": "பாசனத் தொழில்நுட்பம்"}
+{"engword": "Tropical Zone", "tamilword": "வெப்ப மண்டலம்"}
+{"engword": "Launch Vehicle", "tamilword": "ஏவு ஊர்தி"}
+{"engword": "Download", "tamilword": "பதிவிறக்கம்"}
+{"engword": "Missile", "tamilword": "ஏவுகணை"}
+{"engword": "Electronic devices", "tamilword": "மின்னணுக் கருவிகள்"}
+{"engword": "Nautical Mile", "tamilword": "கடல்மைல்"}
+{"engword": "Video Conference", "tamilword": "காணொலிக் கூட்டம்"}
+{"engword": "Passenger Name Record (PNR)", "tamilword": "பயணியர் பெயர்ப் பதிவு"}
+{"engword": "Social Reformer", "tamilword": "சமூக சீர்திருத்தவாதி"}
+{"engword": "Saline Soil", "tamilword": "களர்நிலம்"}
+{"engword": "Volunteer", "tamilword": "தன்னார்வலர்"}
+{"engword": "Sentence", "tamilword": "சொற்றொடர்"}
+{"engword": "Cave temple", "tamilword": "குடைவரைக் கோவில்"}
+{"engword": "Treasury", "tamilword": "கருவூலம்"}
+{"engword": "Honorary Doctorate", "tamilword": "மதிப்புறு முனைவர்"}
+{"engword": "Melody", "tamilword": "மெல்லிசை"}
+{"engword": "Document short film", "tamilword": "ஆவணக் குறும்படம்"}
+{"engword": "Combination", "tamilword": "புணர்ச்சி"}
+{"engword": "Classical Literature", "tamilword": "செவ்வியல் இலக்கியம்"}
+{"engword": "Sugarcane Juice", "tamilword": "கரும்புச் சாறு"}
+{"engword": "Commodity Exchange", "tamilword": "பண்டமாற்று முறை"}
+{"engword": "Vegetable Soup", "tamilword": "காய்கறி வடிசாறு"}
+{"engword": "Indian National Army", "tamilword": "இந்திய தேசிய இராணுவம்"}
+{"engword": "Font", "tamilword": "எழுத்துரு"}
+{"engword": "Philosophy", "tamilword": "மெய்யியல் (தத்துவம்)"}
+{"engword": "Syllable", "tamilword": "அசை"}
+{"engword": "Rhyme", "tamilword": "இயைபுத் தொடை"}
+{"engword": "Reforming the letters", "tamilword": "எழுத்துச் சீர்திருத்தம்"}
+{"engword": "Humane", "tamilword": "மனிதம்"}
+{"engword": "Free verse", "tamilword": "கட்டிலாக் கவிதை"}
+{"engword": "Personality", "tamilword": "ஆளுமை"}
+{"engword": "Metaphor", "tamilword": "உருவக அணி"}
+{"engword": "Cultural Academy", "tamilword": "பண்பாட்டுக் கழகம்"}
+{"engword": "Simile", "tamilword": "உவமையணி"}
+{"engword": "Vowel", "tamilword": "உயிரெழுத்து"}
+{"engword": "Consonant", "tamilword": "மெய்யெழுத்து"}
+{"engword": "Homograph", "tamilword": "ஒப்பெழுத்து"}
+{"engword": "Monolingual", "tamilword": "ஒரு மொழி"}
+{"engword": "Conversation", "tamilword": "உரையாடல்"}
+{"engword": "Discussion", "tamilword": "கலந்துரையாடல்"}
+{"engword": "Storm", "tamilword": "புயல்"}
+{"engword": "Breeze", "tamilword": "நிலக்காற்று"}
+{"engword": "Tornado", "tamilword": "சூறாவளி"}
+{"engword": "Sea Breeze", "tamilword": "கடற்காற்று"}
+{"engword": "Tempest", "tamilword": "பெருங்காற்று"}
+{"engword": "Whirlwind", "tamilword": "சுழல்காற்று"}
+{"engword": "Classical literature", "tamilword": "செவ்விலக்கியம்"}
+{"engword": "Epic literature", "tamilword": "காப்பிய இலக்கியம்"}
+{"engword": "Devotional literature", "tamilword": "பக்தி இலக்கியம்"}
+{"engword": "Ancient literature", "tamilword": "பண்டைய இலக்கியம்"}
+{"engword": "Regional literature", "tamilword": "வட்டார இலக்கியம்"}
+{"engword": "Folk literature", "tamilword": "நாட்டுப்புற இலக்கியம்"}
+{"engword": "Modern literature", "tamilword": "நவீன இலக்கியம்"}
+{"engword": "Nanotechnology", "tamilword": "மீநுண்தொழில்நுட்பம்"}
+{"engword": "Cosmic rays", "tamilword": "விண்வெளிக் கதிர்கள்"}
+{"engword": "Space Technology", "tamilword": "விண்வெளித் தொழில்நுட்பம்"}
+{"engword": "Ultraviolet rays", "tamilword": "புற ஊதாக் கதிர்கள்"}
+{"engword": "Biotechnology", "tamilword": "உயிரித் தொழில்நுட்பம்"}
+{"engword": "Infrared rays", "tamilword": "அகச்சிவப்புக் கதிர்கள்"}
+{"engword": "Emblem", "tamilword": "சின்னம்"}
+{"engword": "Intellectual", "tamilword": "அறிவாளர்"}
+{"engword": "Thesis", "tamilword": "ஆய்வேடு"}
+{"engword": "Symbolism", "tamilword": "குறியீட்டியல்"}
+{"engword": "Aesthetics", "tamilword": "அழகியல், முருகியல்"}
+{"engword": "Terminology", "tamilword": "கலைச்சொல்"}
+{"engword": "Artifacts", "tamilword": "கலைப் படைப்புகள்"}
+{"engword": "Myth", "tamilword": "தொன்மம்"}
+{"engword": "Consulate", "tamilword": "துணைத்தூதரகம்"}
+{"engword": "Patent", "tamilword": "காப்புரிமை"}
+{"engword": "Document", "tamilword": "ஆவணம்"}
+{"engword": "Guild", "tamilword": "வணிகக் குழு"}
+{"engword": "Irrigation", "tamilword": "பாசனம்"}
+{"engword": "Territory", "tamilword": "நிலப்பகுதி"}
+{"engword": "Belief", "tamilword": "நம்பிக்கை"}
+{"engword": "Philosopher", "tamilword": "மெய்யியலாளர்"}
+{"engword": "Renaissance", "tamilword": "மறுமலர்ச்சி"}
+{"engword": "Revivalism", "tamilword": "மீட்டுருவாக்கம்"}
+{"engword": "Humanism", "tamilword": "மனிதநேயம்"}
+{"engword": "Cultural Boundaries", "tamilword": "பண்பாட்டு எல்லை"}
+{"engword": "Cabinet", "tamilword": "அமைச்சரவை"}
+{"engword": "Cultural values", "tamilword": "பண்பாட்டு விழுமியங்கள்"}
+{"engword": "Aesthetics", "tamilword": "அழகியல்"}
+{"engword": "Journalist", "tamilword": "இதழாளர்"}
+{"engword": "Art Critic", "tamilword": "கலை விமர்சகர்"}
+{"engword": "Book Review", "tamilword": "புத்தக மதிப்புரை"}
+{"engword": "Migration", "tamilword": "புலம்பெயர்தல்"}
+{"engword": "Philosopher", "tamilword": "மெய்யியலாளர்"}
+{"engword": "Organic Farming", "tamilword": "இயற்கை வேளாண்மை"}
+{"engword": "Shell Seeds", "tamilword": "ஒட்டு விதை"}
+{"engword": "Value Added Product", "tamilword": "மதிப்புக்கூட்டுப் பொருள்"}
+{"engword": "Harvesting", "tamilword": "அறுவடை"}
+{"engword": "Chemical Fertilizers", "tamilword": "வேதி உரங்கள்"}
+{"engword": "Weaver Bird", "tamilword": "தூக்கணாங்குருவி"}
+{"engword": "Root Nodes", "tamilword": "வேர் முடிச்சுகள்"}
+{"engword": "Farmyard Manure", "tamilword": "தொழு உரம்"}
+{"engword": "Ethnic Group", "tamilword": "இனக்குழு"}
+{"engword": "Suffix", "tamilword": "பின்னொட்டு"}
+{"engword": "Prefix", "tamilword": "முன்னொட்டு"}
+{"engword": "Rootword Dictionary", "tamilword": "வேர்ச்சொல் அகராதி"}
+{"engword": "Earth Environment", "tamilword": "புவிச்சூழல்"}
+{"engword": "Cultural Elements", "tamilword": "பண்பாட்டு கூறுகள்"}
+{"engword": "Education Committee", "tamilword": "கல்விக்குழு"}
+{"engword": "Ancestor", "tamilword": "மூதாதையர்"}
+{"engword": "Infrastructure", "tamilword": "உள்கட்டமைப்பு"}
+{"engword": "Value Education", "tamilword": "மதிப்புக் கல்வி"}
+{"engword": "Classical Language", "tamilword": "செம்மொழி"}
+{"engword": "Mental Ability", "tamilword": "மனஆற்றல்"}
+{"engword": "Document", "tamilword": "ஆவணம்"}
+{"engword": "Backwater", "tamilword": "உப்பங்கழி"}
+{"engword": "Agreement", "tamilword": "ஒப்பந்தம்"}
+{"engword": "Invasion", "tamilword": "படையெடுப்பு"}
+{"engword": "Culture", "tamilword": "பண்பாடு"}
+{"engword": "Sailor", "tamilword": "மாலுமி"}
+{"engword": "Fine Arts", "tamilword": "நுண்கலை"}
+{"engword": "Grain Warehouse", "tamilword": "தானியக் கிடங்கு"}
+{"engword": "Documentary", "tamilword": "ஆவணப்படம்"}
+{"engword": "Disaster", "tamilword": "பேரழிவு"}
+{"engword": "Inscription / Epigraph", "tamilword": "கல்வெட்டு"}
+{"engword": "Myth", "tamilword": "தொன்மம்"}
+{"engword": "Strategies", "tamilword": "உத்திகள்"}
+{"engword": "Debate", "tamilword": "பட்டிமன்றம்"}
+{"engword": "Equality", "tamilword": "சமத்துவம்"}
+{"engword": "Multiple Personality", "tamilword": "பன்முக ஆளுமை"}
+{"engword": "Trade Union", "tamilword": "தொழிற்சங்கம்"}
+{"engword": "Pseudonym", "tamilword": "புனைபெயர்"}
+{"engword": "Earthworm", "tamilword": "நாங்கூழ்ப்புழு"}
+{"engword": "Globalisation", "tamilword": "உலகமயமாக்கல்"}
+{"engword": "Doctor of Philosophy (Ph.D)", "tamilword": "முனைவர் பட்டம்"}
+{"engword": "Passport", "tamilword": "கடவுச்சீட்டு"}
+{"engword": "Awareness", "tamilword": "விழிப்புணர்வு"}
+{"engword": "Materialism", "tamilword": "பொருள் முதல் வாதம்"}
+{"engword": "Subscription", "tamilword": "உறுப்பினர் கட்டணம்"}
+{"engword": "Archive", "tamilword": "காப்பகம்"}
+{"engword": "Fiction", "tamilword": "புனைவு"}
+{"engword": "Manuscript", "tamilword": "கையெழுத்துப் பிரதி"}
+{"engword": "Biography", "tamilword": "வாழ்க்கை வரலாறு"}
+{"engword": "Bibliography", "tamilword": "நூல் நிரல்"}
+{"engword": "Platform", "tamilword": "நடைமேடை"}
+{"engword": "Ticket Inspector", "tamilword": "பயணச்சீட்டு ஆய்வர்"}
+{"engword": "Train Track", "tamilword": "இருப்புப்பாதை"}
+{"engword": "Level Crossing", "tamilword": "இருப்புப்பாதையைக் கடக்குமிடம்"}
+{"engword": "Railway Signal", "tamilword": "தொடர்வண்டி வழிக்குறி"}
+{"engword": "Metro Train", "tamilword": "மாநகரத் தொடர்வண்டி"}
+{"engword": "Lobby", "tamilword": "ஓய்வறை"}
+{"engword": "Checkout", "tamilword": "வெளியேறுதல்"}
+{"engword": "Tips", "tamilword": "சிற்றீகை"}
+{"engword": "Mini meals", "tamilword": "சிற்றுணவு"}
+{"engword": "Arrival", "tamilword": "வருகை"}
+{"engword": "Visa", "tamilword": "நுழைவு இசைவு"}
+{"engword": "Passport", "tamilword": "கடவுச்சீட்டு"}
+{"engword": "Conveyor Belt", "tamilword": "ஊர்திப்பட்டை"}
+{"engword": "Departure", "tamilword": "புறப்பாடு"}
+{"engword": "Take Off", "tamilword": "வானூர்தி கிளம்புதல்"}
+{"engword": "Domestic Flight", "tamilword": "உள்நாட்டு வானூர்தி"}
+{"engword": "Affidavit", "tamilword": "ஆணையுறுதி ஆவணம்"}
+{"engword": "Allegation", "tamilword": "சாட்டுரை"}
+{"engword": "Jurisdiction", "tamilword": "அதிகார எல்லை"}
+{"engword": "Conviction", "tamilword": "தண்டனை"}
+{"engword": "Plaintiff", "tamilword": "வாதி"}
+{"engword": "Artist", "tamilword": "கவின்கலைஞர்"}
+{"engword": "Cinematography", "tamilword": "ஒளிப்பதிவு"}
+{"engword": "Animation", "tamilword": "இயங்குபடம்"}
+{"engword": "Sound Effect", "tamilword": "ஒலிவிளைவு"}
+{"engword": "Newsreel", "tamilword": "செய்திப்படம்"}
+{"engword": "Multiplex Complex", "tamilword": "ஒருங்கிணைந்த திரையரங்க வளாகம்"}
+{"engword": "Debit Card", "tamilword": "பற்று அட்டை"}
+{"engword": "Demand Draft", "tamilword": "கேட்பு வரைவோலை"}
+{"engword": "Withdrawal Slip", "tamilword": "திரும்பப் பெறல் படிவம்"}
+{"engword": "Mobile Banking", "tamilword": "அலைபேசி வழி வங்கி முறை"}
+{"engword": "Internet Banking", "tamilword": "இணையவங்கி முறை"}
+{"engword": "Teller", "tamilword": "விரைவுக் காசாளர்"}
+{"engword": "Stamp pad", "tamilword": "மை பொதி"}
+{"engword": "Eraser", "tamilword": "அழிப்பான்"}
+{"engword": "Folder", "tamilword": "மடிப்புத்தாள்"}
+{"engword": "Rubber Stamp", "tamilword": "இழுவை முத்திரை"}
+{"engword": "File", "tamilword": "கோப்பு"}
+{"engword": "Stapler", "tamilword": "கம்பி தைப்புக் கருவி"}
+{"engword": "Mass", "tamilword": "நிறை"}
+{"engword": "Weight", "tamilword": "எடை"}
+{"engword": "Distance", "tamilword": "தொலைவு"}
+{"engword": "Matter", "tamilword": "பருப்பொருள்"}
+{"engword": "Atom", "tamilword": "அணு"}
+{"engword": "Molecule", "tamilword": "மூலக்கூறு"}
+{"engword": "Habitat", "tamilword": "வாழிடம்"}
+{"engword": "Adaptation", "tamilword": "தகவமைப்பு"}
+{"engword": "Nutrition", "tamilword": "ஊட்டச்சத்து"}
+{"engword": "Carbohydrates", "tamilword": "கார்போஹைட்ரேட்டுகள்"}
+{"engword": "Proteins", "tamilword": "புரதங்கள்"}
+{"engword": "Vitamins", "tamilword": "வைட்டமின்கள்"}
+{"engword": "Minerals", "tamilword": "தாது உப்புக்கள்"}
+{"engword": "Magnet", "tamilword": "காந்தம்"}
+{"engword": "Magnetic Field", "tamilword": "காந்தப்புலம்"}
+{"engword": "Evaporation", "tamilword": "ஆவியாதல்"}
+{"engword": "Condensation", "tamilword": "ஆவி சுருங்குதல்"}
+{"engword": "Filtration", "tamilword": "வடிகட்டுதல்"}
+{"engword": "Decantation", "tamilword": "தெளியவைத்து இறுத்தல்"}
+{"engword": "Skeleton", "tamilword": "எலும்புக்கூடு"}
+{"engword": "Joint", "tamilword": "மூட்டு"}
+{"engword": "Muscle", "tamilword": "தசை"}
+{"engword": "Cell", "tamilword": "செல்"}
+{"engword": "Unicellular", "tamilword": "ஒரு செல் உயிரி"}
+{"engword": "Multicellular", "tamilword": "பல செல் உயிரி"}
+{"engword": "Photosynthesis", "tamilword": "ஒளிச்சேர்க்கை"}
+{"engword": "Respiration", "tamilword": "சுவாசம்"}
+{"engword": "Germination", "tamilword": "முளைத்தல்"}
+{"engword": "Pollination", "tamilword": "மகரந்தச் சேர்க்கை"}
+{"engword": "Fertilizer", "tamilword": "உரம்"}
+{"engword": "Speed", "tamilword": "வேகம்"}
+{"engword": "Velocity", "tamilword": "திசைவேகம்"}
+{"engword": "Acceleration", "tamilword": "முடுக்கம்"}
+{"engword": "Heat", "tamilword": "வெப்பம்"}
+{"engword": "Temperature", "tamilword": "வெப்பநிலை"}
+{"engword": "Conduction", "tamilword": "வெப்பக்கடத்தல்"}
+{"engword": "Convection", "tamilword": "வெப்பச்சலனம்"}
+{"engword": "Radiation", "tamilword": "வெப்பக்கதிர்வீச்சு"}
+{"engword": "Reflection", "tamilword": "எதிரொளிப்பு"}
+{"engword": "Refraction", "tamilword": "ஒளிவிலகல்"}
+{"engword": "Lens", "tamilword": "வில்லை"}
+{"engword": "Prism", "tamilword": "முப்பட்டகம்"}
+{"engword": "Element", "tamilword": "தனிமம்"}
+{"engword": "Compound", "tamilword": "சேர்மம்"}
+{"engword": "Mixture", "tamilword": "கலவை"}
+{"engword": "Acid", "tamilword": "அமிலம்"}
+{"engword": "Base", "tamilword": "காரம்"}
+{"engword": "Salt", "tamilword": "உப்பு"}
+{"engword": "Neutralization", "tamilword": "நடுநிலையாக்கல்"}
+{"engword": "Digestion", "tamilword": "செரிமானம்"}
+{"engword": "Circulation", "tamilword": "சுற்றோட்டம்"}
+{"engword": "Excretion", "tamilword": "கழிவுநீக்கம்"}
+{"engword": "Nervous System", "tamilword": "நரம்பு மண்டலம்"}
+{"engword": "Hormone", "tamilword": "ஹார்மோன்"}
+{"engword": "Biodiversity", "tamilword": "பல்லுயிர்த்தன்மை"}
+{"engword": "Ecosystem", "tamilword": "சூழல் மண்டலம்"}
+{"engword": "Species", "tamilword": "சிற்றினம்"}
+{"engword": "Genus", "tamilword": "பேரினம்"}
+{"engword": "Taxonomy", "tamilword": "வகைப்பாட்டியல்"}
+{"engword": "Fiber", "tamilword": "இழை"}
+{"engword": "Force", "tamilword": "விசை"}
+{"engword": "Pressure", "tamilword": "அழுத்தம்"}
+{"engword": "Friction", "tamilword": "உராய்வு"}
+{"engword": "Sound", "tamilword": "ஒலி"}
+{"engword": "Frequency", "tamilword": "அதிர்வெண்"}
+{"engword": "Amplitude", "tamilword": "வீச்சு"}
+{"engword": "Electricity", "tamilword": "மின்சாரம்"}
+{"engword": "Current", "tamilword": "மின்னோட்டம்"}
+{"engword": "Voltage", "tamilword": "மின்னழுத்தம்"}
+{"engword": "Resistance", "tamilword": "மின்தடை"}
+{"engword": "Combustion", "tamilword": "எரிதல்"}
+{"engword": "Ignition Temperature", "tamilword": "எரிவெப்பநிலை"}
+{"engword": "Microorganisms", "tamilword": "நுண்ணுயிரிகள்"}
+{"engword": "Bacteria", "tamilword": "பாக்டீரியா"}
+{"engword": "Virus", "tamilword": "வைரஸ்"}
+{"engword": "Fungi", "tamilword": "பூஞ்சை"}
+{"engword": "Algae", "tamilword": "பாசி"}
+{"engword": "Protozoa", "tamilword": "புரோட்டோசோவா"}
+{"engword": "Vaccine", "tamilword": "தடுப்பூசி"}
+{"engword": "Antibiotics", "tamilword": "உயிர் எதிர் மருந்துகள்"}
+{"engword": "Puberty", "tamilword": "பருவமடைதல்"}
+{"engword": "Adolescence", "tamilword": "வளரிளம் பருவம்"}
+{"engword": "Crop Production", "tamilword": "பயிர் பெருக்கம்"}
+{"engword": "Irrigation", "tamilword": "நீர்ப்பாசனம்"}
+{"engword": "Weeding", "tamilword": "களை எடுத்தல்"}
+{"engword": "Pesticides", "tamilword": "பூச்சிக்கொல்லிகள்"}
+{"engword": "Pollution", "tamilword": "மாசுபாடு"}
+{"engword": "Global Warming", "tamilword": "உலக வெப்பமயமாதல்"}
+{"engword": "Greenhouse Effect", "tamilword": "பசுமை இல்ல விளைவு"}
+{"engword": "Conservation", "tamilword": "பாதுகாப்பு"}
+{"engword": "Motion", "tamilword": "இயக்கம்"}
+{"engword": "Displacement", "tamilword": "இடப்பெயர்ச்சி"}
+{"engword": "Inertia", "tamilword": "நிலைமம்"}
+{"engword": "Momentum", "tamilword": "உந்தம்"}
+{"engword": "Gravitation", "tamilword": "ஈர்ப்பு"}
+{"engword": "Fluids", "tamilword": "பாய்மங்கள்"}
+{"engword": "Buoyancy", "tamilword": "மிதப்பு விசை"}
+{"engword": "Density", "tamilword": "அடர்த்தி"}
+{"engword": "Work", "tamilword": "வேலை"}
+{"engword": "Power", "tamilword": "திறன்"}
+{"engword": "Energy", "tamilword": "ஆற்றல்"}
+{"engword": "Kinetic Energy", "tamilword": "இயக்க ஆற்றல்"}
+{"engword": "Potential Energy", "tamilword": "நிலை ஆற்றல்"}
+{"engword": "Atomic Number", "tamilword": "அணு எண்"}
+{"engword": "Mass Number", "tamilword": "நிறை எண்"}
+{"engword": "Isotopes", "tamilword": "ஐசோடோப்புகள்"}
+{"engword": "Isomers", "tamilword": "மாற்றியங்கள்"}
+{"engword": "Valency", "tamilword": "இணைதிறன்"}
+{"engword": "Catalyst", "tamilword": "வினையூக்கி"}
+{"engword": "Solubility", "tamilword": "கரைதிறன்"}
+{"engword": "Solvent", "tamilword": "கரைப்பான்"}
+{"engword": "Solute", "tamilword": "கரைபொருள்"}
+{"engword": "Solution", "tamilword": "கரைசல்"}
+{"engword": "Tissue", "tamilword": "திசு"}
+{"engword": "Organ", "tamilword": "உறுப்பு"}
+{"engword": "Evolution", "tamilword": "பரிணாமம்"}
+{"engword": "Genetics", "tamilword": "மரபியல்"}
+{"engword": "Chromosome", "tamilword": "குரோமோசோம்"}
+{"engword": "DNA", "tamilword": "டி.என்.ஏ"}
+{"engword": "Gene", "tamilword": "மரபணு"}
+{"engword": "Mutation", "tamilword": "சடுதி மாற்றம்"}
+{"engword": "Symbiosis", "tamilword": "கூட்டுயிர் வாழ்க்கை"}
+{"engword": "Parasite", "tamilword": "ஒட்டுண்ணி"}
+{"engword": "Host", "tamilword": "விருந்தோம்பி"}
+{"engword": "Vector", "tamilword": "கடத்தி"}
+{"engword": "Fermentation", "tamilword": "நொதித்தல்"}
+{"engword": "Hydrocarbons", "tamilword": "ஹைட்ரோகார்பன்கள்"}
+{"engword": "Polymers", "tamilword": "பலபடிகள்"}
+{"engword": "Rubber", "tamilword": "ரப்பர்"}
+{"engword": "Plastic", "tamilword": "நெகிழி"}
+{"engword": "Laws of Motion", "tamilword": "இயக்க விதிகள்"}
+{"engword": "Torque", "tamilword": "திருப்புவிசை"}
+{"engword": "Refractive Index", "tamilword": "ஒளிவிலகல் எண்"}
+{"engword": "Dispersion", "tamilword": "நிறப்பிரிகை"}
+{"engword": "Spectrum", "tamilword": "நிறமாலை"}
+{"engword": "Ideal Gas", "tamilword": "நல்லியல்பு வாயு"}
+{"engword": "Thermodynamics", "tamilword": "வெப்ப இயக்கவியல்"}
+{"engword": "Radioactivity", "tamilword": "கதிரியக்கம்"}
+{"engword": "Nuclear Fission", "tamilword": "அணுக்கரு பிளவு"}
+{"engword": "Nuclear Fusion", "tamilword": "அணுக்கரு இணைவு"}
+{"engword": "Relative Atomic Mass", "tamilword": "ஒப்பு அணு நிறை"}
+{"engword": "Mole Concept", "tamilword": "மோல் கருத்துரு"}
+{"engword": "Avogadro Number", "tamilword": "அவகாட்ரோ எண்"}
+{"engword": "Periodic Table", "tamilword": "தனிம வரிசை அட்டவணை"}
+{"engword": "Metallurgy", "tamilword": "உலோகவியல்"}
+{"engword": "Alloy", "tamilword": "உலோகக்கலவை"}
+{"engword": "Corrosion", "tamilword": "அரிமானம்"}
+{"engword": "Reversible Reaction", "tamilword": "மீள் வினை"}
+{"engword": "Irreversible Reaction", "tamilword": "மீளா வினை"}
+{"engword": "Equilibrium", "tamilword": "சமநிலை"}
+{"engword": "pH Scale", "tamilword": "pH அளவீடு"}
+{"engword": "Plant Anatomy", "tamilword": "தாவர உள்அமைப்பியல்"}
+{"engword": "Transpiration", "tamilword": "நீராவிப்போக்கு"}
+{"engword": "Blood Pressure", "tamilword": "இரத்த அழுத்தம்"}
+{"engword": "Central Nervous System", "tamilword": "மைய நரம்பு மண்டலம்"}
+{"engword": "Reflex Action", "tamilword": "பின்னிணைப்பு செயல் / தூண்டல் வினை"}
+{"engword": "Endocrine Glands", "tamilword": "நாளமில்லாச் சுரப்பிகள்"}
+{"engword": "Fertilization", "tamilword": "கருவுறுதல்"}
+{"engword": "Heredity", "tamilword": "மரபுவழி"}
+{"engword": "Ethnobotany", "tamilword": "நாட்டுப்புற தாவரவியல்"}
+{"engword": "Biotechnology", "tamilword": "உயிரி தொழில்நுட்பவியல்"}
+{"engword": "Genetic Engineering", "tamilword": "மரபுப் பொறியியல்"}
+{"engword": "Stem Cell", "tamilword": "தண்டு செல்"}
+{"engword": "Hybridization", "tamilword": "கலப்பினமாக்கம்"}
+{"engword": "Sustainable Development", "tamilword": "நிலையான மேம்பாடு"}
+{"engword": "Fossil Fuel", "tamilword": "புதைபடிவ எரிபொருள்"}
+{"engword": "Solar Energy", "tamilword": "சூரிய ஆற்றல்"}
+{"engword": "Wind Energy", "tamilword": "காற்று ஆற்றல்"}
+{"engword": "Tidal Energy", "tamilword": "ஓத ஆற்றல்"}
+{"engword": "Rainwater Harvesting", "tamilword": "மழைநீர் சேகரிப்பு"}
+{"engword": "Quantum Mechanics", "tamilword": "குவாண்டம் எந்திரவியல்"}
+{"engword": "Relativity", "tamilword": "சார்பியல்"}
+{"engword": "Electronics", "tamilword": "மின்னணுவியல்"}
+{"engword": "Robotics", "tamilword": "ரோபோவியல்"}
+{"engword": "Nanotechnology", "tamilword": "மீநுண் தொழில்நுட்பம்"}
+{"engword": "Thermodynamics", "tamilword": "வெப்ப இயக்கவியல்"}
+{"engword": "Entropy", "tamilword": "என்ட்ரோபி"}
+{"engword": "Enthalpy", "tamilword": "என்தால்பி"}
+{"engword": "Oxidation", "tamilword": "ஆக்ஸிஜனேற்றம்"}
+{"engword": "Reduction", "tamilword": "ஒடுக்கம்"}
+{"engword": "Electrochemistry", "tamilword": "மின்வேதியியல்"}
+{"engword": "Organic Chemistry", "tamilword": "கரிம வேதியியல்"}
+{"engword": "Inorganic Chemistry", "tamilword": "கனிம வேதியியல்"}
+{"engword": "Biochemistry", "tamilword": "உயிரி வேதியியல்"}
+{"engword": "Polymerization", "tamilword": "பலபடியாக்கல்"}
+{"engword": "Stoichiometry", "tamilword": "வேதி வினைக்கூறு விகிதம்"}
+{"engword": "Resonance", "tamilword": "உடனிசைவு"}
+{"engword": "Hybridization", "tamilword": "இனக்கலப்பு"}
+{"engword": "Microbiology", "tamilword": "நுண்ணுயிரியல்"}
+{"engword": "Immunology", "tamilword": "நோய் எதிர்ப்பு இயல்"}
+{"engword": "Pharmacology", "tamilword": "மருந்தியல்"}
+{"engword": "Pathology", "tamilword": "நோயியல்"}
+{"engword": "Anatomy", "tamilword": "உடற்கூறியல்"}
+{"engword": "Physiology", "tamilword": "உடலியங்கியல்"}
+{"engword": "Cytology", "tamilword": "செல் உயிரியல்"}
+{"engword": "Ecology", "tamilword": "சூழலியல்"}
+{"engword": "Embryology", "tamilword": "கருவியல்"}
+{"engword": "Bioinformatics", "tamilword": "உயிரி தகவலியல்"}
+{"engword": "Acceleration due to gravity", "tamilword": "புவிஈர்ப்பு முடுக்கம்"}
+{"engword": "Angular Velocity", "tamilword": "கோணத் திசைவேகம்"}
+{"engword": "Centripetal Force", "tamilword": "மையநோக்கு விசை"}
+{"engword": "Centrifugal Force", "tamilword": "மையவிலக்கு விசை"}
+{"engword": "Surface Tension", "tamilword": "பரப்பு இழுவிசை"}
+{"engword": "Viscosity", "tamilword": "பாகுநிலை"}
+{"engword": "Elasticity", "tamilword": "மீட்சிப் பண்பு"}
+{"engword": "Doppler Effect", "tamilword": "டாப்ளர் விளைவு"}
+{"engword": "Ultrasonic", "tamilword": "மீயொலி"}
+{"engword": "Infrasonic", "tamilword": "குற்றொலி"}
+{"engword": "Magnetism", "tamilword": "காந்தவியல்"}
+{"engword": "Electromagnetic Induction", "tamilword": "மின்காந்தத் தூண்டல்"}
+{"engword": "Alternating Current", "tamilword": "மாறுதிசை மின்னோட்டம்"}
+{"engword": "Direct Current", "tamilword": "நேர்திசை மின்னோட்டம்"}
+{"engword": "Semiconductor", "tamilword": "குறைக்கடத்தி"}
+{"engword": "Superconductor", "tamilword": "மீக்கடத்தி"}
+{"engword": "Transistor", "tamilword": "டிரான்சிஸ்டர்"}
+{"engword": "Diode", "tamilword": "டையோடு"}
+{"engword": "Photon", "tamilword": "போட்டான்"}
+{"engword": "Radio Waves", "tamilword": "வானொலி அலைகள்"}
+{"engword": "X-rays", "tamilword": "எக்ஸ் கதிர்கள்"}
+{"engword": "Gamma rays", "tamilword": "காமா கதிர்கள்"}
+{"engword": "Cosmic rays", "tamilword": "விண்வெளிக் கதிர்கள்"}
+{"engword": "Fluorescence", "tamilword": "ஒளிர்தல்"}
+{"engword": "Phosphorescence", "tamilword": "பாஸ்பாரொளிர்வு"}
+{"engword": "Electrolysis", "tamilword": "மின்னாற்பகுப்பு"}
+{"engword": "Allotropy", "tamilword": "புறவேற்றுமை வடிவங்கள்"}
+{"engword": "Distillation", "tamilword": "வடித்தல்"}
+{"engword": "Sublimation", "tamilword": "பதங்கமாதல்"}
+{"engword": "Chromatography", "tamilword": "வண்ணப்பிரிகை முறை"}
+{"engword": "Titration", "tamilword": "தரம்பார்த்தல்"}
+{"engword": "Buffer Solution", "tamilword": "தாங்கல் கரைசல்"}
+{"engword": "Colloids", "tamilword": "கூழ்மங்கள்"}
+{"engword": "Emulsion", "tamilword": "பால்மம்"}
+{"engword": "Adsorption", "tamilword": "பரப்பீர்ப்பு"}
+{"engword": "Absorption", "tamilword": "உறிஞ்சுதல்"}
+{"engword": "Hydrolysis", "tamilword": "நீராற்பகுப்பு"}
+{"engword": "Coagulation", "tamilword": "திரட்டுதல்"}
+{"engword": "Calcination", "tamilword": "காற்றுமில்லாச் சூழலில் வறுத்தல்"}
+{"engword": "Roasting", "tamilword": "வறுத்தல்"}
+{"engword": "Smelting", "tamilword": "உருக்கிப் பிரித்தல்"}
+{"engword": "Ore", "tamilword": "தாது"}
+{"engword": "Mineral", "tamilword": "கனிமம்"}
+{"engword": "Gangue", "tamilword": "கனிமக் கழிவு"}
+{"engword": "Flux", "tamilword": "இளக்கி"}
+{"engword": "Slag", "tamilword": "கசடு"}
+{"engword": "Malleability", "tamilword": "தகடாக நீளும் தன்மை"}
+{"engword": "Ductility", "tamilword": "கம்பியாக நீளும் தன்மை"}
+{"engword": "Conductivity", "tamilword": "கடத்துதிறன்"}
+{"engword": "Insulator", "tamilword": "மின்கடத்தாப் பொருள்"}
+{"engword": "Metabolism", "tamilword": "வளர்சிதை மாற்றம்"}
+{"engword": "Anabolism", "tamilword": "வளர்ச்சி மாற்றம்"}
+{"engword": "Catabolism", "tamilword": "சிதைவு மாற்றம்"}
+{"engword": "Enzyme", "tamilword": "நொதி"}
+{"engword": "Coenzyme", "tamilword": "துணை நொதி"}
+{"engword": "Homeostasis", "tamilword": "தன்னிலை பராமரித்தல்"}
+{"engword": "Osmosis", "tamilword": "சவ்வூடுபரவல்"}
+{"engword": "Diffusion", "tamilword": "பரவல்"}
+{"engword": "Active Transport", "tamilword": "ஆற்றல் சார்ந்த கடத்தல்"}
+{"engword": "Mitosis", "tamilword": "மறைமுக செல் பிரிதல்"}
+{"engword": "Meiosis", "tamilword": "குன்றல் பிரிவு"}
+{"engword": "Aerobic Respiration", "tamilword": "காற்றுச் சுவாசம்"}
+{"engword": "Anaerobic Respiration", "tamilword": "காற்றிலாச் சுவாசம்"}
+{"engword": "Glycolysis", "tamilword": "கிளைக்காலிஸிஸ்"}
+{"engword": "ATP (Adenosine Triphosphate)", "tamilword": "ஏ.டி.பி"}
+{"engword": "Chlorophyll", "tamilword": "பச்சையம்"}
+{"engword": "Stomata", "tamilword": "இலைத்துளை"}
+{"engword": "Xylem", "tamilword": "சைலம்"}
+{"engword": "Phloem", "tamilword": "புளோயம்"}
+{"engword": "Cambium", "tamilword": "கேம்பியம்"}
+{"engword": "Translocation", "tamilword": "இடமாற்றம்"}
+{"engword": "Phototropism", "tamilword": "ஒளிச்சார்பு அசைவு"}
+{"engword": "Geotropism", "tamilword": "புவிச்சார்பு அசைவு"}
+{"engword": "Hydrotropism", "tamilword": "நீர்ச்சார்பு அசைவு"}
+{"engword": "Thigmotropism", "tamilword": "தொடுச்சார்பு அசைவு"}
+{"engword": "Nastic Movement", "tamilword": "திசைசாரா அசைவு"}
+{"engword": "Auxin", "tamilword": "ஆக்சின்"}
+{"engword": "Gibberellin", "tamilword": "ஜிப்ரெலின்"}
+{"engword": "Cytokinin", "tamilword": "சைட்டோகைனின்"}
+{"engword": "Ethylene", "tamilword": "எத்திலீன்"}
+{"engword": "Abscisic Acid", "tamilword": "அப்சிசிக் அமிலம்"}
+{"engword": "Monohybrid", "tamilword": "ஒரு பண்புக் கலப்பு"}
+{"engword": "Dihybrid", "tamilword": "இரு பண்புக் கலப்பு"}
+{"engword": "Phenotype", "tamilword": "புறத்தோற்றம்"}
+{"engword": "Genotype", "tamilword": "மரபணுத் தோற்றம்"}
+{"engword": "Dominant", "tamilword": "ஓங்கு பண்பு"}
+{"engword": "Recessive", "tamilword": "ஒடுங்கு பண்பு"}
+{"engword": "Allele", "tamilword": "அல்லீல்"}
+{"engword": "Linkage", "tamilword": "பிணைப்பு"}
+{"engword": "Crossing Over", "tamilword": "குறுக்கேற்றம்"}
+{"engword": "Cloning", "tamilword": "நகலாக்கம்"}
+{"engword": "Transgenic", "tamilword": "மரபணு மாற்றப்பட்ட"}
+{"engword": "Bioremediation", "tamilword": "உயிரி தீர்வு"}
+{"engword": "Biofertilizer", "tamilword": "உயிரி உரம்"}
+{"engword": "Biopiracy", "tamilword": "உயிரித் திருட்டு"}
+{"engword": "Bioprospecting", "tamilword": "உயிரி வளத் தேடல்"}
+{"engword": "Cryopreservation", "tamilword": "உறைநிலை பாதுகாப்பு"}
+{"engword": "Tissue Culture", "tamilword": "திசு வளர்ப்பு"}
+{"engword": "Totipotency", "tamilword": "முழுத்திறன்"}
+{"engword": "Callus", "tamilword": "காலஸ்"}
+{"engword": "Explant", "tamilword": "பிரித்தெடுக்கப்பட்ட திசு"}
+{"engword": "Biodiversity Hotspot", "tamilword": "பல்லுயிர்த்தன்மை மிகுதிடம்"}
+{"engword": "Endangered Species", "tamilword": "அழியும் நிலையில் உள்ள இனங்கள்"}
+{"engword": "Extinct Species", "tamilword": "அழிந்துபோன இனங்கள்"}
+{"engword": "Endemic Species", "tamilword": "ஒரு குறிப்பிட்ட இடத்திற்கே உரிய இனங்கள்"}
+{"engword": "Biosphere Reserve", "tamilword": "உயிர்க்கோளக் காப்பகம்"}
+{"engword": "National Park", "tamilword": "தேசியப் பூங்கா"}
+{"engword": "Wildlife Sanctuary", "tamilword": "வனவிலங்கு சரணாலயம்"}
+{"engword": "Ecological Pyramid", "tamilword": "சூழலியல் பிரமிடு"}
+{"engword": "Food Chain", "tamilword": "உணவுச் சங்கிலி"}
+{"engword": "Food Web", "tamilword": "உணவு வலை"}
+{"engword": "Trophic Level", "tamilword": "ஊட்ட நிலை"}
+{"engword": "Decomposition", "tamilword": "சிதைத்தல்"}
+{"engword": "Detritivore", "tamilword": "மட்குண்ணி"}
+{"engword": "Nitrogen Cycle", "tamilword": "நைட்ரஜன் சுழற்சி"}
+{"engword": "Carbon Cycle", "tamilword": "கார்பன் சுழற்சி"}
+{"engword": "Eutrophication", "tamilword": "நீர்நிலை ஊட்டச்சத்து மிகுதி"}
+{"engword": "Biomagnification", "tamilword": "உயிரிப் பெருக்கம்"}
+{"engword": "Acid Rain", "tamilword": "அமில மழை"}
+{"engword": "Ozone Depletion", "tamilword": "ஓசோன் படலச் சிதைவு"}
+{"engword": "Circular Motion", "tamilword": "வட்ட இயக்கம்"}
+{"engword": "Periodic Motion", "tamilword": "சீரான கால இயக்கம்"}
+{"engword": "Scalar", "tamilword": "ஸ்கேலார்"}
+{"engword": "Vector", "tamilword": "வெக்டார்"}
+{"engword": "Free Fall", "tamilword": "தடையின்றித் தானே விழும் பொருள்"}
+{"engword": "Terminal Velocity", "tamilword": "முற்றுத் திசைவேகம்"}
+{"engword": "Streamline Flow", "tamilword": "வரிசீர் ஓட்டம்"}
+{"engword": "Turbulent Flow", "tamilword": "சுழற்சி ஓட்டம்"}
+{"engword": "Bernoulli’s Principle", "tamilword": "பெர்னோலி தத்துவம்"}
+{"engword": "Pascal’s Law", "tamilword": "பாஸ்கல் விதி"}
+{"engword": "Archimedes Principle", "tamilword": "ஆர்க்கிமிடிஸ் தத்துவம்"}
+{"engword": "Absolute Zero", "tamilword": "தனிச்சுழி வெப்பநிலை"}
+{"engword": "Specific Heat Capacity", "tamilword": "தன்வெப்ப ஏற்புத்திறன்"}
+{"engword": "Latent Heat", "tamilword": "உள்ளுறை வெப்பம்"}
+{"engword": "Calorimetry", "tamilword": "வெப்ப அளவியல்"}
+{"engword": "Longitudinal Wave", "tamilword": "நெட்டலை"}
+{"engword": "Transverse Wave", "tamilword": "குறுக்கலை"}
+{"engword": "Resonance", "tamilword": "ஒத்ததிர்வு"}
+{"engword": "Echo", "tamilword": "எதிரொலி"}
+{"engword": "Reverberation", "tamilword": "எதிர்முழக்கம்"}
+{"engword": "SONAR", "tamilword": "சோனார்"}
+{"engword": "RADAR", "tamilword": "ரேடார்"}
+{"engword": "Total Internal Reflection", "tamilword": "முழு அக எதிரொளிப்பு"}
+{"engword": "Critical Angle", "tamilword": "மாறுநிலைக் கோணம்"}
+{"engword": "Polarization", "tamilword": "தளவிளைவு"}
+{"engword": "Diffraction", "tamilword": "விளிம்பு விளைவு"}
+{"engword": "Interference", "tamilword": "குறுக்கீட்டு விளைவு"}
+{"engword": "Coulomb’s Law", "tamilword": "கூலும் விதி"}
+{"engword": "Electric Field", "tamilword": "மின்புலம்"}
+{"engword": "Electric Potential", "tamilword": "மின்னழுத்தம்"}
+{"engword": "Capacitance", "tamilword": "மின்தேக்குத் திறன்"}
+{"engword": "Ohm’s Law", "tamilword": "ஓம் விதி"}
+{"engword": "Kirchhoff’s Laws", "tamilword": "கிர்க்காஃப் விதிகள்"}
+{"engword": "Wheatstone Bridge", "tamilword": "வீட்ஸ்டோன் சமனச் சுற்று"}
+{"engword": "Joule’s Heating Effect", "tamilword": "ஜூல் வெப்ப விளைவு"}
+{"engword": "Lorentz Force", "tamilword": "லாரன்ஸ் விசை"}
+{"engword": "Galvanometer", "tamilword": "கால்வனோமீட்டர்"}
+{"engword": "Ammeter", "tamilword": "அம்மீட்டர்"}
+{"engword": "Voltmeter", "tamilword": "வோல்ட் மீட்டர்"}
+{"engword": "Transformer", "tamilword": "மின்மாற்றி"}
+{"engword": "Photoelectric Effect", "tamilword": "ஒளிமின் விளைவு"}
+{"engword": "De Broglie Wavelength", "tamilword": "டி பிராக்ளி அலைநீளம்"}
+{"engword": "Half-life", "tamilword": "அரை ஆயுட்காலம்"}
+{"engword": "Binding Energy", "tamilword": "பிணைப்பு ஆற்றல்"}
+{"engword": "Nuclear Reactor", "tamilword": "அணுக்கரு உலை"}
+{"engword": "Black Hole", "tamilword": "கருந்துளை"}
+{"engword": "Big Bang Theory", "tamilword": "பெருவெடிப்புக் கொள்கை"}
+{"engword": "Supernova", "tamilword": "சூப்பர்நோவா"}
+{"engword": "Constellation", "tamilword": "விண்மீன் மண்டலம்"}
+{"engword": "Satellite", "tamilword": "துணைக்கோள்"}
+{"engword": "Octet Rule", "tamilword": "எண்ம விதி"}
+{"engword": "Ionic Bond", "tamilword": "அயனிப் பிணைப்பு"}
+{"engword": "Covalent Bond", "tamilword": "சகப் பிணைப்பு"}
+{"engword": "Hydrogen Bond", "tamilword": "ஹைட்ரஜன் பிணைப்பு"}
+{"engword": "Coordination Bond", "tamilword": "ஈதல் சகப் பிணைப்பு"}
+{"engword": "Electronegativity", "tamilword": "எலக்ட்ரான் கவர் தன்மை"}
+{"engword": "Ionization Energy", "tamilword": "அயனியாக்கும் ஆற்றல்"}
+{"engword": "Electron Affinity", "tamilword": "எலக்ட்ரான் நாட்டம்"}
+{"engword": "Lattice Energy", "tamilword": "படிகக்கூடு ஆற்றல்"}
+{"engword": "Molarity", "tamilword": "மோலாரிட்டி"}
+{"engword": "Molality", "tamilword": "மோலாலிட்டி"}
+{"engword": "Normality", "tamilword": "நார்மாலிட்டி"}
+{"engword": "Mole Fraction", "tamilword": "மோல் பின்னம்"}
+{"engword": "Ideal Gas Law", "tamilword": "நல்லியல்பு வாயு விதி"}
+{"engword": "Boyle’s Law", "tamilword": "பாயில் விதி"}
+{"engword": "Charles’s Law", "tamilword": "சார்லஸ் விதி"}
+{"engword": "Graham’s Law of Diffusion", "tamilword": "கிரஹாம் பரவல் விதி"}
+{"engword": "Hess’s Law", "tamilword": "ஹெஸ் விதி"}
+{"engword": "Le Chatelier’s Principle", "tamilword": "லீ சாட்லியர் தத்துவம்"}
+{"engword": "Solubility Product", "tamilword": "கரைதிறன் பெருக்கம்"}
+{"engword": "Common Ion Effect", "tamilword": "பொது அயனி விளைவு"}
+{"engword": "Radioisotope", "tamilword": "கதிரியக்க ஐசோடோப்பு"}
+{"engword": "Polymer", "tamilword": "பலபடி"}
+{"engword": "Monomer", "tamilword": "ஒற்றைப்படி"}
+{"engword": "Thermoplastic", "tamilword": "வெப்பத்தால் இளகும் நெகிழி"}
+{"engword": "Thermosetting Plastic", "tamilword": "வெப்பத்தால் இறுகும் நெகிழி"}
+{"engword": "Vulcanization", "tamilword": "வல்கனைசேஷன்"}
+{"engword": "Saponification", "tamilword": "சோப்பாக்கல் வினை"}
+{"engword": "Esterification", "tamilword": "எஸ்டராக்கல் வினை"}
+{"engword": "Dehydration", "tamilword": "நீர் நீக்கம்"}
+{"engword": "Hydrogenation", "tamilword": "ஹைட்ரஜனேற்றம்"}
+{"engword": "Isomerism", "tamilword": "மாற்றியம்"}
+{"engword": "Functional Group", "tamilword": "வினைசெயல் தொகுதி"}
+{"engword": "Homologous Series", "tamilword": "சீர்மை வரிசை"}
+{"engword": "Alkanes", "tamilword": "ஆல்கேன்கள்"}
+{"engword": "Alkenes", "tamilword": "ஆல்கீன்கள்"}
+{"engword": "Alkynes", "tamilword": "ஆல்கைன்கள்"}
+{"engword": "Aromatic Compounds", "tamilword": "மணமுள்ள சேர்மங்கள்"}
+{"engword": "Electrophile", "tamilword": "எலக்ட்ரான் கவரி"}
+{"engword": "Nucleophile", "tamilword": "கருக்கவரி"}
+{"engword": "Carbohydrate", "tamilword": "கார்போஹைட்ரேட்"}
+{"engword": "Amino Acid", "tamilword": "அமினோ அமிலம்"}
+{"engword": "Nucleotide", "tamilword": "நியூக்ளியோடைடு"}
+{"engword": "Peptide Bond", "tamilword": "பெப்டைடு பிணைப்பு"}
+{"engword": "Denaturation", "tamilword": "இயல்பு நீக்கம்"}
+{"engword": "Fermentation", "tamilword": "நொதித்தல்"}
+{"engword": "Anaesthetic", "tamilword": "மயக்க மருந்து"}
+{"engword": "Analgesic", "tamilword": "வலி நிவாரணி"}
+{"engword": "Antipyretic", "tamilword": "காய்ச்சல் குறைப்பான்"}
+{"engword": "Antiseptic", "tamilword": "கிருமி நாசினி"}
+{"engword": "Taxonomy", "tamilword": "வகைப்பாட்டியல்"}
+{"engword": "Binomial Nomenclature", "tamilword": "இருசொல் பெயரிடுதல்"}
+{"engword": "Phylogeny", "tamilword": "இனப்பரிணாம வழி"}
+{"engword": "Prokaryote", "tamilword": "புரோகேரியோட்"}
+{"engword": "Eukaryote", "tamilword": "யூகேரியோட்"}
+{"engword": "Mitochondria", "tamilword": "மைட்டோகாண்ட்ரியா"}
+{"engword": "Ribosome", "tamilword": "ரிபோசோம்"}
+{"engword": "Lysosome", "tamilword": "லைசோசோம்"}
+{"engword": "Endoplasmic Reticulum", "tamilword": "எண்டோபிளாச வலைப்பின்னல்"}
+{"engword": "Golgi Apparatus", "tamilword": "கோல்கி உடலம்"}
+{"engword": "Chloroplast", "tamilword": "பசுங்கணிகம்"}
+{"engword": "Vacuole", "tamilword": "நுண்குமிழி"}
+{"engword": "Epithelial Tissue", "tamilword": "எபிதீலியல் திசு"}
+{"engword": "Connective Tissue", "tamilword": "இணைப்பு திசு"}
+{"engword": "Cardiac Muscle", "tamilword": "இதயத் தசை"}
+{"engword": "Neuron", "tamilword": "நியூரான்"}
+{"engword": "Synapse", "tamilword": "நரம்புச் சந்திப்பு"}
+{"engword": "Neurotransmitter", "tamilword": "நரம்புக்கடத்தி"}
+{"engword": "Cerebrum", "tamilword": "பெருமூளை"}
+{"engword": "Cerebellum", "tamilword": "சிறுமூளை"}
+{"engword": "Medulla Oblongata", "tamilword": "முகளம்"}
+{"engword": "Spinal Cord", "tamilword": "தண்டுவடம்"}
+{"engword": "Pituitary Gland", "tamilword": "பிட்யூட்டரி சுரப்பி"}
+{"engword": "Thyroid Gland", "tamilword": "தைராய்டு சுரப்பி"}
+{"engword": "Adrenal Gland", "tamilword": "அட்ரீனல் சுரப்பி"}
+{"engword": "Pancreas", "tamilword": "கணையம்"}
+{"engword": "Insulin", "tamilword": "இன்சுலின்"}
+{"engword": "Hemoglobin", "tamilword": "ஹீமோகுளோபின்"}
+{"engword": "Arteries", "tamilword": "தமனிகள்"}
+{"engword": "Veins", "tamilword": "சிரைகள்"}
+{"engword": "Capillaries", "tamilword": "தந்துகிகள்"}
+{"engword": "Alveoli", "tamilword": "காற்றுச் சிற்றறைகள்"}
+{"engword": "Nephron", "tamilword": "நெஃப்ரான்"}
+{"engword": "Dialysis", "tamilword": "இரத்த சுத்திகரிப்பு"}
+{"engword": "Gamete", "tamilword": "இனச்செல்"}
+{"engword": "Zygote", "tamilword": "கருமுட்டை"}
+{"engword": "Embryo", "tamilword": "கரு"}
+{"engword": "Fetus", "tamilword": "முதிர் கரு"}
+{"engword": "Placenta", "tamilword": "தாய்சேய் இணைப்புத் திசு"}
+{"engword": "Gestation", "tamilword": "கர்ப்ப காலம்"}
+{"engword": "Parturition", "tamilword": "பிரசவம்"}
+{"engword": "Pathogen", "tamilword": "நோயூக்கி"}
+{"engword": "Antigen", "tamilword": "ஆன்டிஜென்"}
+{"engword": "Antibody", "tamilword": "ஆன்டிபாடி"}
+{"engword": "Immunity", "tamilword": "நோய் எதிர்ப்புத் திறன்"}
+{"engword": "Vector", "tamilword": "கடத்தி"}
+{"engword": "Malnutrition", "tamilword": "ஊட்டச்சத்துக் குறைபாடு"}
+{"engword": "Obesity", "tamilword": "உடல் பருமன்"}
+{"engword": "Diabetes", "tamilword": "நீரிழிவு நோய்"}
+{"engword": "Cancer", "tamilword": "புற்றுநோய்"}
+{"engword": "Biodiversity", "tamilword": "பல்லுயிரியம்"}
+{"engword": "Ecosystem Services", "tamilword": "சூழல் மண்டலச் சேவைகள்"}
+{"engword": "Biogeochemical Cycle", "tamilword": "உயிர் புவி வேதிச் சுழற்சி"}
+{"engword": "Succession", "tamilword": "சூழலியல் வழிமுறை வளர்ச்சி"}
+{"engword": "Climax Community", "tamilword": "உச்சநிலைச் சமூகம்"}
+{"engword": "Niche", "tamilword": "சூழல் இடம் / உயிரின் வாழிடப் பணி"}
+{"engword": "Biomass", "tamilword": "உயிரி நிறை"}
+{"engword": "Deforestation", "tamilword": "காடழிப்பு"}
+{"engword": "Afforestation", "tamilword": "காடு வளர்ப்பு"}
+{"engword": "Desertification", "tamilword": "பாலைவனமாதல்"}
+{"engword": "Sustainable Agriculture", "tamilword": "நிலையான வேளாண்மை"}
+{"engword": "Organic Farming", "tamilword": "இயற்கை விவசாயம்"}
+{"engword": "Vermicompost", "tamilword": "மண்புழு உரம்"}
+{"engword": "Hydroponics", "tamilword": "மண் இல்லா நீர் ஊடக விவசாயம்"}
+{"engword": "Aquaponics", "tamilword": "மீன் வளர்ப்போடு இணைந்த விவசாயம்"}
+{"engword": "Aquaculture", "tamilword": "நீர்வாழ் உயிரி வளர்ப்பு"}
+{"engword": "Sericulture", "tamilword": "பட்டுப்புழு வளர்ப்பு"}
+{"engword": "Apiculture", "tamilword": "தேனீ வளர்ப்பு"}
+{"engword": "Pisciculture", "tamilword": "மீன் வளர்ப்பு"}
+{"engword": "Animal Husbandry", "tamilword": "கால்நடை வளர்ப்பு"}
+{"engword": "Space Exploration", "tamilword": "விண்வெளி ஆய்வு"}
+{"engword": "Rocketry", "tamilword": "ராக்கெட் தொழில்நுட்பம்"}
+{"engword": "Payload", "tamilword": "சுமந்து செல்லும் எடை"}
+{"engword": "Propellant", "tamilword": "உந்துபொருள்"}
+{"engword": "Cryogenic Engine", "tamilword": "கிரையோஜெனிக் என்ஜின்"}
+{"engword": "Remote Sensing", "tamilword": "தொலை உணர்வு"}
+{"engword": "GPS (Global Positioning System)", "tamilword": "புவி இடஞ்சுட்டி அமைப்பு"}
+{"engword": "Artificial Intelligence", "tamilword": "செயற்கை நுண்ணறிவு"}
+{"engword": "Machine Learning", "tamilword": "இயந்திரக் கற்றல்"}
+{"engword": "Internet of Things (IoT)", "tamilword": "பொருட்களின் இணையம்"}
+{"engword": "History", "tamilword": "வரலாறு"}
+{"engword": "Pre-history", "tamilword": "வரலாற்றுக்கு முந்தைய காலம்"}
+{"engword": "Archaeology", "tamilword": "தொல்லியல்"}
+{"engword": "Epigraphy", "tamilword": "கல்வெட்டியல்"}
+{"engword": "Numismatics", "tamilword": "நாணயவியல்"}
+{"engword": "Inscription", "tamilword": "கல்வெட்டு"}
+{"engword": "Artifacts", "tamilword": "கலைப்படைப்புகள் / தொல்பொருட்கள்"}
+{"engword": "Excavation", "tamilword": "அகழாய்வு"}
+{"engword": "Paleontology", "tamilword": "படிமவியல்"}
+{"engword": "Anthropology", "tamilword": "மானிடவியல்"}
+{"engword": "Civilization", "tamilword": "நாகரிகம்"}
+{"engword": "Citadel", "tamilword": "கோட்டை / மேட்டுப்பகுதி"}
+{"engword": "Granary", "tamilword": "தானியக் கிடங்கு"}
+{"engword": "Urbanization", "tamilword": "நகரமயமாக்கல்"}
+{"engword": "Hieroglyphics", "tamilword": "சித்திர எழுத்துமுறை"}
+{"engword": "Papyrus", "tamilword": "பாப்பிரஸ் (தாவரத் தாள்)"}
+{"engword": "Cuneiform", "tamilword": "கியூனிபார்ம் (ஆப்பு வடிவ எழுத்துமுறை)"}
+{"engword": "Ziggurat", "tamilword": "ஜிகுராட் (கோவில் கோபுரம்)"}
+{"engword": "Monotheism", "tamilword": "ஒரு கடவுள் கொள்கை"}
+{"engword": "Polytheism", "tamilword": "பல கடவுள் கொள்கை"}
+{"engword": "Empire", "tamilword": "பேரரசு"}
+{"engword": "Dynasty", "tamilword": "வம்சம் / அரசகுலம்"}
+{"engword": "Monarchy", "tamilword": "முடியாட்சி"}
+{"engword": "Oligarchy", "tamilword": "குழு ஆட்சி"}
+{"engword": "Democracy", "tamilword": "மக்களாட்சி"}
+{"engword": "Republic", "tamilword": "குடியரசு"}
+{"engword": "Constitution", "tamilword": "அரசியலமைப்பு"}
+{"engword": "Feudalism", "tamilword": "நிலப்பிரபுத்துவம்"}
+{"engword": "Slavery", "tamilword": "அடிமைமுறை"}
+{"engword": "Serfdom", "tamilword": "பண்ணையடிமை முறை"}
+{"engword": "Paleolithic", "tamilword": "பழைய கற்காலம்"}
+{"engword": "Mesolithic", "tamilword": "இடைக்கற்காலம்"}
+{"engword": "Neolithic", "tamilword": "புதிய கற்காலம்"}
+{"engword": "Megalithic", "tamilword": "பெருங்கற்காலம்"}
+{"engword": "Chalcolithic", "tamilword": "செம்புக் கற்காலம்"}
+{"engword": "Nomadic", "tamilword": "நாடோடி வாழ்க்கை"}
+{"engword": "Domestication", "tamilword": "பழக்கப்படுத்துதல் (விலங்குகள்)"}
+{"engword": "Barter System", "tamilword": "பண்டமாற்று முறை"}
+{"engword": "Maritime", "tamilword": "கடல்சார்"}
+{"engword": "Expedition", "tamilword": "படையெடுப்பு / பயணம்"}
+{"engword": "Invasion", "tamilword": "ஊடுருவல் / படையெடுப்பு"}
+{"engword": "Territory", "tamilword": "நிலப்பகுதி"}
+{"engword": "Sovereign", "tamilword": "இறையாண்மை"}
+{"engword": "Suzerainty", "tamilword": "மேலாதிக்கம்"}
+{"engword": "Tribute", "tamilword": "திறை / கப்பம்"}
+{"engword": "Ambassador", "tamilword": "தூதுவர்"}
+{"engword": "Decree", "tamilword": "ஆணை / கட்டளை"}
+{"engword": "Manuscript", "tamilword": "கையெழுத்துப் பிரதி"}
+{"engword": "Chronicle", "tamilword": "காலவரிசைப் பதிவு"}
+{"engword": "Biography", "tamilword": "வாழ்க்கை வரலாறு"}
+{"engword": "Autobiography", "tamilword": "சுயசரிதை"}
+{"engword": "Travelogue", "tamilword": "பயணக்குறிப்பு"}
+{"engword": "Legend", "tamilword": "செவிவழிக் கதை"}
+{"engword": "Myth", "tamilword": "தொன்மம்"}
+{"engword": "Heritage", "tamilword": "பாரம்பரியம்"}
+{"engword": "Culture", "tamilword": "பண்பாடு"}
+{"engword": "Custom", "tamilword": "வழக்கம்"}
+{"engword": "Tradition", "tamilword": "மரபு"}
+{"engword": "Ritual", "tamilword": "சடங்கு"}
+{"engword": "Ethics", "tamilword": "அறவியல்"}
+{"engword": "Philosophy", "tamilword": "தத்துவம்"}
+{"engword": "Theology", "tamilword": "இறையியல்"}
+{"engword": "Renaissance", "tamilword": "மறுமலர்ச்சி"}
+{"engword": "Reformation", "tamilword": "சீர்திருத்தம்"}
+{"engword": "Enlightenment", "tamilword": "அறிவொளி"}
+{"engword": "Imperialism", "tamilword": "ஏகாதிபத்தியம்"}
+{"engword": "Colonialism", "tamilword": "காலனியாதிக்கம்"}
+{"engword": "Nationalism", "tamilword": "தேசியம்"}
+{"engword": "Patriotism", "tamilword": "தேசபக்தி"}
+{"engword": "Socialism", "tamilword": "சமதர்மம்"}
+{"engword": "Communism", "tamilword": "பொதுவுடைமை"}
+{"engword": "Capitalism", "tamilword": "முதலாளித்துவம்"}
+{"engword": "Fascism", "tamilword": "பாசிசம்"}
+{"engword": "Nazism", "tamilword": "நாசிசம்"}
+{"engword": "Secularism", "tamilword": "மதச்சார்பின்மை"}
+{"engword": "Suffrage", "tamilword": "வாக்குரிமை"}
+{"engword": "Franchise", "tamilword": "தேர்தல் உரிமை"}
+{"engword": "Plebiscite", "tamilword": "பொது வாக்கெடுப்பு"}
+{"engword": "Referendum", "tamilword": "கருத்துக்கணிப்பு வாக்கெடுப்பு"}
+{"engword": "Veto", "tamilword": "மறுப்பாணை"}
+{"engword": "Bureaucracy", "tamilword": "அதிகார வர்க்கம்"}
+{"engword": "Aristocracy", "tamilword": "உயர்குடி ஆட்சி"}
+{"engword": "Hierarchy", "tamilword": "படிநிலை அமைப்பு"}
+{"engword": "Diplomacy", "tamilword": "ராஜதந்திரம்"}
+{"engword": "Treaty", "tamilword": "உடன்படிக்கை"}
+{"engword": "Alliance", "tamilword": "கூட்டணி"}
+{"engword": "Armistice", "tamilword": "போர்நிறுத்தம்"}
+{"engword": "Annexation", "tamilword": "இணைத்தல் (நிலத்தை)"}
+{"engword": "Colonization", "tamilword": "குடியேற்றம்"}
+{"engword": "Migration", "tamilword": "புலம்பெயர்தல்"}
+{"engword": "Exile", "tamilword": "நாடுகடத்தல்"}
+{"engword": "Refugee", "tamilword": "அகதி"}
+{"engword": "Revolution", "tamilword": "புரட்சி"}
+{"engword": "Rebellion", "tamilword": "கலகம்"}
+{"engword": "Mutiny", "tamilword": "சிப்பாய் கலகம் / இராணுவக் கலகம்"}
+{"engword": "Uprising", "tamilword": "கிளர்ச்சி"}
+{"engword": "Boycott", "tamilword": "புறக்கணிப்பு"}
+{"engword": "Protest", "tamilword": "எதிர்ப்பு"}
+{"engword": "Satyagraha", "tamilword": "அறப்போர் / சத்தியாகிரகம்"}
+{"engword": "Non-violence", "tamilword": "அகிம்சை"}
+{"engword": "Ahimsa", "tamilword": "கொல்லாமை"}
+{"engword": "Martyr", "tamilword": "தியாகி"}
+{"engword": "Monument", "tamilword": "நினைவுச்சின்னம்"}
+{"engword": "Mausoleum", "tamilword": "கல்லறை மாடம்"}
+{"engword": "Cenotaph", "tamilword": "நினைவுத்தூண்"}
+{"engword": "Archives", "tamilword": "ஆவணக்காப்பகம்"}
+{"engword": "Museum", "tamilword": "அருங்காட்சியகம்"}
+{"engword": "Antiquity", "tamilword": "தொன்மை"}
+{"engword": "Medieval", "tamilword": "இடைக்காலம்"}
+{"engword": "Contemporary", "tamilword": "சமகாலம்"}
+{"engword": "Millennium", "tamilword": "ஆயிரமாண்டு"}
+{"engword": "Decade", "tamilword": "பத்தாண்டு"}
+{"engword": "Century", "tamilword": "நூற்றாண்டு"}
+{"engword": "Era", "tamilword": "சகாப்தம் / காலம்"}
+{"engword": "BC (Before Christ)", "tamilword": "கிறிஸ்து பிறப்பிற்கு முன்"}
+{"engword": "AD (Anno Domini)", "tamilword": "கிறிஸ்து பிறப்பிற்கு பின்"}
+{"engword": "BCE (Before Common Era)", "tamilword": "பொது ஆண்டிற்கு முன்"}
+{"engword": "CE (Common Era)", "tamilword": "பொது ஆண்டு"}
+{"engword": "Chronology", "tamilword": "காலவரிசை"}
+{"engword": "Genealogy", "tamilword": "வம்சாவளி"}
+{"engword": "Aristocrat", "tamilword": "உயர்குடியினர்"}
+{"engword": "Peasant", "tamilword": "விவசாயி"}
+{"engword": "Artisan", "tamilword": "கைவினைஞர்"}
+{"engword": "Merchant", "tamilword": "வணிகர்"}
+{"engword": "Guild", "tamilword": "வணிகக் குழு"}
+{"engword": "Knight", "tamilword": "போர்வீரன் (உயர்குடி)"}
+{"engword": "Mercenary", "tamilword": "கூலிப்படை"}
+{"engword": "Infantry", "tamilword": "காலாட்படை"}
+{"engword": "Cavalry", "tamilword": "குதிரைப்படை"}
+{"engword": "Artillery", "tamilword": "பீரங்கிப்படை"}
+{"engword": "Navy", "tamilword": "கடற்படை"}
+{"engword": "Garrison", "tamilword": "கோட்டைப்படை"}
+{"engword": "Siege", "tamilword": "முற்றுகை"}
+{"engword": "Fortress", "tamilword": "கோட்டை"}
+{"engword": "Moat", "tamilword": "அகழி"}
+{"engword": "Rampart", "tamilword": "கோட்டை மதில்"}
+{"engword": "Bastion", "tamilword": "கொத்தளம்"}
+{"engword": "Arsenal", "tamilword": "ஆயுதக்கிடங்கு"}
+{"engword": "Chariot", "tamilword": "தேர்"}
+{"engword": "Armor", "tamilword": "கவசம்"}
+{"engword": "Scepter", "tamilword": "செங்கோல்"}
+{"engword": "Throne", "tamilword": "அரியணை"}
+{"engword": "Coronation", "tamilword": "முடிசூட்டு விழா"}
+{"engword": "Regency", "tamilword": "பகர ஆட்சி"}
+{"engword": "Heir", "tamilword": "வாரிசு"}
+{"engword": "Succession", "tamilword": "வாரிசுரிமை"}
+{"engword": "Civil War", "tamilword": "உள்நாட்டுப் போர்"}
+{"engword": "Guerilla Warfare", "tamilword": "மறைந்திருந்து தாக்கும் முறை"}
+{"engword": "Scorched Earth Policy", "tamilword": "எரித்து அழிக்கும் கொள்கை"}
+{"engword": "Strategy", "tamilword": "வியூகம் / உத்தி"}
+{"engword": "Tactician", "tamilword": "தந்திரவாதி"}
+{"engword": "Admiral", "tamilword": "கடற்படைத் தளபதி"}
+{"engword": "General", "tamilword": "தலைமைத் தளபதி"}
+{"engword": "Viceroy", "tamilword": "அரசப்பிரதிநிதி"}
+{"engword": "Governor", "tamilword": "ஆளுநர்"}
+{"engword": "Secretary", "tamilword": "செயலாளர்"}
+{"engword": "Commissioner", "tamilword": "ஆணையர்"}
+{"engword": "Collector", "tamilword": "ஆட்சியர்"}
+{"engword": "Magistrate", "tamilword": "நடுவர்"}
+{"engword": "Jurisprudence", "tamilword": "சட்டவியல்"}
+{"engword": "Legislation", "tamilword": "சட்டவாக்கம்"}
+{"engword": "Parliament", "tamilword": "நாடாளுமன்றம்"}
+{"engword": "Assembly", "tamilword": "அவை / சபை"}
+{"engword": "Council", "tamilword": "குழு"}
+{"engword": "Committee", "tamilword": "செயற்குழு"}
+{"engword": "Resolution", "tamilword": "தீர்மானம்"}
+{"engword": "Bill", "tamilword": "மசோதா"}
+{"engword": "Act", "tamilword": "சட்டம்"}
+{"engword": "Ordinance", "tamilword": "அவசரச் சட்டம்"}
+{"engword": "Charter", "tamilword": "பட்டயம் / சாசனம்"}
+{"engword": "Magna Carta", "tamilword": "மகா சாசனம்"}
+{"engword": "Petition", "tamilword": "மனு"}
+{"engword": "Grievance", "tamilword": "குறைபாடு / மனக்குறை"}
+{"engword": "Revenue", "tamilword": "வருவாய்"}
+{"engword": "Taxation", "tamilword": "வரிவிதிப்பு"}
+{"engword": "Tariff", "tamilword": "சுங்கவரி"}
+{"engword": "Excise", "tamilword": "கலால் வரி"}
+{"engword": "Subsidy", "tamilword": "மானியம்"}
+{"engword": "Treasury", "tamilword": "கருவூலம்"}
+{"engword": "Audit", "tamilword": "தணிக்கை"}
+{"engword": "Currency", "tamilword": "செலாவணி / நாணயம்"}
+{"engword": "Mint", "tamilword": "நாணயச் சாலை"}
+{"engword": "Inflation", "tamilword": "பணவீக்கம்"}
+{"engword": "Depression (Economic)", "tamilword": "பொருளாதார மந்தம்"}
+{"engword": "Trade", "tamilword": "வணிகம்"}
+{"engword": "Commerce", "tamilword": "வர்த்தகம்"}
+{"engword": "Export", "tamilword": "ஏற்றுமதி"}
+{"engword": "Import", "tamilword": "இறக்குமதி"}
+{"engword": "Monopoly", "tamilword": "முற்றுரிமை"}
+{"engword": "Industrialization", "tamilword": "தொழில்மயமாதல்"}
+{"engword": "Factory", "tamilword": "தொழிற்சாலை"}
+{"engword": "Labor Union", "tamilword": "தொழிற்சங்கம்"}
+{"engword": "Strike", "tamilword": "வேலைநிறுத்தம்"}
+{"engword": "Lockout", "tamilword": "கதவடைப்பு"}
+{"engword": "Welfare State", "tamilword": "நல அரசு"}
+{"engword": "Public Works", "tamilword": "பொதுப்பணிகள்"}
+{"engword": "Infrastructure", "tamilword": "உள்கட்டமைப்பு"}
+{"engword": "Irrigation", "tamilword": "நீர்ப்பாசனம்"}
+{"engword": "Canal", "tamilword": "கால்வாய்"}
+{"engword": "Reservoir", "tamilword": "நீர்த்தேக்கம்"}
+{"engword": "Famine", "tamilword": "பஞ்சம்"}
+{"engword": "Drought", "tamilword": "வறட்சி"}
+{"engword": "Relief", "tamilword": "நிவாரணம்"}
+{"engword": "Epidemic", "tamilword": "கொள்ளைநோய்"}
+{"engword": "Pandemic", "tamilword": "உலகளாவிய நோய்"}
+{"engword": "Census", "tamilword": "மக்கள் தொகை கணக்கெடுப்பு"}
+{"engword": "Literacy", "tamilword": "கல்வியறிவு"}
+{"engword": "Education", "tamilword": "கல்வி"}
+{"engword": "University", "tamilword": "பல்கலைக்கழகம்"}
+{"engword": "Academy", "tamilword": "கழகம் / அகாதமி"}
+{"engword": "Scholar", "tamilword": "அறிஞர்"}
+{"engword": "Philosopher", "tamilword": "தத்துவஞானி"}
+{"engword": "Scientist", "tamilword": "அறிவியல் அறிஞர்"}
+{"engword": "Astronomer", "tamilword": "வானியலாளர்"}
+{"engword": "Mathematician", "tamilword": "கணிதவியலாளர்"}
+{"engword": "Physician", "tamilword": "மருத்துவர்"}
+{"engword": "Surgeon", "tamilword": "அறுவை சிகிச்சை நிபுணர்"}
+{"engword": "Architect", "tamilword": "கட்டிடக் கலைஞர்"}
+{"engword": "Sculptor", "tamilword": "சிற்பி"}
+{"engword": "Artist", "tamilword": "கலைஞர்"}
+{"engword": "Poet", "tamilword": "கவிஞர்"}
+{"engword": "Dramatist", "tamilword": "நாடக ஆசிரியர்"}
+{"engword": "Literature", "tamilword": "இலக்கியம்"}
+{"engword": "Epic", "tamilword": "காப்பியம்"}
+{"engword": "Poetry", "tamilword": "கவிதை"}
+{"engword": "Prose", "tamilword": "உரைநடை"}
+{"engword": "Drama", "tamilword": "நாடகம்"}
+{"engword": "Music", "tamilword": "இசை"}
+{"engword": "Dance", "tamilword": "நடனம்"}
+{"engword": "Painting", "tamilword": "ஓவியம்"}
+{"engword": "Sculpture", "tamilword": "சிற்பக்கலை"}
+{"engword": "Architecture", "tamilword": "கட்டிடக்கலை"}
+{"engword": "Mural", "tamilword": "சுவர் ஓவியம்"}
+{"engword": "Fresco", "tamilword": "ஈரச் சுவர் ஓவியம்"}
+{"engword": "Pottery", "tamilword": "மட்பாண்டக் கலை"}
+{"engword": "Weaving", "tamilword": "நெசவு"}
+{"engword": "Embroidery", "tamilword": "தையல் வேலைப்பாடு"}
+{"engword": "Jewelry", "tamilword": "ஆபரணங்கள்"}
+{"engword": "Costume", "tamilword": "உடை / ஆடை"}
+{"engword": "Cuisine", "tamilword": "உணவுமுறை"}
+{"engword": "Religion", "tamilword": "சமயம்"}
+{"engword": "Sect", "tamilword": "பிரிவு (சமய)"}
+{"engword": "Cult", "tamilword": "வழிபாடு"}
+{"engword": "Temple", "tamilword": "கோவில்"}
+{"engword": "Church", "tamilword": "தேவாலயம்"}
+{"engword": "Mosque", "tamilword": "மசூதி"}
+{"engword": "Monastery", "tamilword": "மடாலயம்"}
+{"engword": "Convent", "tamilword": "கன்னிமாடம்"}
+{"engword": "Priest", "tamilword": "பூசாரி / குரு"}
+{"engword": "Monk", "tamilword": "துறவி"}
+{"engword": "Nun", "tamilword": "பெண் துறவி"}
+{"engword": "Saint", "tamilword": "புனிதர்"}
+{"engword": "Prophet", "tamilword": "தீர்க்கதரிசி"}
+{"engword": "Scripture", "tamilword": "புனித நூல்"}
+{"engword": "Gospel", "tamilword": "நற்செய்தி"}
+{"engword": "Pilgrimage", "tamilword": "புனிதப் பயணம்"}
+{"engword": "Devotion", "tamilword": "பக்தி"}
+{"engword": "Prayer", "tamilword": "வழிபாடு"}
+{"engword": "Sacrifice", "tamilword": "பலி / தியாகம்"}
+{"engword": "Alms", "tamilword": "பிச்சை / தானம்"}
+{"engword": "Fasting", "tamilword": "நோன்பு / விரதம்"}
+{"engword": "Festival", "tamilword": "திருவிழா"}
+{"engword": "Ceremony", "tamilword": "சடங்கு"}
+{"engword": "Wedding", "tamilword": "திருமணம்"}
+{"engword": "Funeral", "tamilword": "அடக்கம் / ஈமச்சடங்கு"}
+{"engword": "Burial", "tamilword": "புதைத்தல்"}
+{"engword": "Cremation", "tamilword": "எரித்தல்"}
+{"engword": "Ancestor", "tamilword": "மூதாதையர்"}
+{"engword": "Clan", "tamilword": "குலம் / இனம்"}
+{"engword": "Tribe", "tamilword": "பழங்குடி"}
+{"engword": "Caste", "tamilword": "சாதி"}
+{"engword": "Outcaste", "tamilword": "சாதி நீக்கம் செய்யப்பட்டவர்"}
+{"engword": "Minority", "tamilword": "சிறுபான்மையினர்"}
+{"engword": "Majority", "tamilword": "பெரும்பான்மையினர்"}
+{"engword": "Elite", "tamilword": "உயர்மட்டத்தினர்"}
+{"engword": "Masses", "tamilword": "சாதாரண மக்கள்"}
+{"engword": "Middle Class", "tamilword": "நடுத்தர வர்க்கம்"}
+{"engword": "Working Class", "tamilword": "உழைக்கும் வர்க்கம்"}
+{"engword": "Bourgeoisie", "tamilword": "முதலாளி வர்க்கம்"}
+{"engword": "Proletariat", "tamilword": "பாட்டாளி வர்க்கம்"}
+{"engword": "Humanism", "tamilword": "மனிதநேயம்"}
+{"engword": "Rationalism", "tamilword": "பகுத்தறிவுவாதம்"}
+{"engword": "Secular", "tamilword": "மதச்சார்பற்ற"}
+{"engword": "Liberalism", "tamilword": "தாராளமயம்"}
+{"engword": "Radicalism", "tamilword": "தீவிரவாதம் / தீவிர மாற்றம்"}
+{"engword": "Conservatism", "tamilword": "பழமைவாதம்"}
+{"engword": "Fundamentalism", "tamilword": "அடிப்படைவாதம்"}
+{"engword": "Orthodoxy", "tamilword": "வைதீகவாதம்"}
+{"engword": "Heresy", "tamilword": "சமய விரோதம்"}
+{"engword": "Inquisitron", "tamilword": "சமய விசாரணை"}
+{"engword": "Crusade", "tamilword": "சிலுவைப் போர்"}
+{"engword": "Jihad", "tamilword": "புனிதப் போர் (சமய)"}
+{"engword": "Partition", "tamilword": "பிரிவினை"}
+{"engword": "Independence", "tamilword": "சுதந்திரம்"}
+{"engword": "Liberty", "tamilword": "விடுதலை"}
+{"engword": "Equality", "tamilword": "சமத்துவம்"}
+{"engword": "Fraternity", "tamilword": "சகோதரத்துவம்"}
+{"engword": "Justice", "tamilword": "நீதி"}
+{"engword": "Human Rights", "tamilword": "மனித உரிமைகள்"}
+{"engword": "Civil Rights", "tamilword": "குடிமை உரிமைகள்"}
+{"engword": "Social Reform", "tamilword": "சமூகச் சீர்திருத்தம்"}
+{"engword": "Abolition", "tamilword": "ஒழிப்பு (சட்டம்)"}
+{"engword": "Prohibition", "tamilword": "தடை"}
+{"engword": "Emancipation", "tamilword": "விடுதலை பெறுதல்"}
+{"engword": "Civil Disobedience", "tamilword": "சட்டமறுப்பு இயக்கம்"}
+{"engword": "Non-Cooperation", "tamilword": "ஒத்துழையாமை"}
+{"engword": "Self-Rule", "tamilword": "சுயராஜ்யம்"}
+{"engword": "Home Rule", "tamilword": "தன்னாட்சி இயக்கம்"}
+{"engword": "Swadeshi", "tamilword": "சுதேசி (சொந்த நாட்டுப் பொருள்)"}
+{"engword": "Sovereignty", "tamilword": "இறையாண்மை"}
+{"engword": "Autocracy", "tamilword": "சர்வாதிகார ஆட்சி"}
+{"engword": "Dictatorship", "tamilword": "ஒரு நபர் ஆட்சி"}
+{"engword": "Totalitarianism", "tamilword": "முழு அதிகார ஆட்சி"}
+{"engword": "Hegemony", "tamilword": "மேலாதிக்கம்"}
+{"engword": "Commonwealth", "tamilword": "பொதுநலவாயம்"}
+{"engword": "Dominion Status", "tamilword": "தன்னாட்சி அந்தஸ்து"}
+{"engword": "Federal", "tamilword": "கூட்டாட்சி"}
+{"engword": "Unitary", "tamilword": "ஒற்றையாட்சி"}
+{"engword": "Local Self-Government", "tamilword": "உள்ளாட்சி அரசாங்கம்"}
+{"engword": "Municipality", "tamilword": "நகராட்சி"}
+{"engword": "Corporation", "tamilword": "மாநகராட்சி"}
+{"engword": "Panchayat", "tamilword": "ஊராட்சி"}
+{"engword": "District Board", "tamilword": "மாவட்ட வாரியம்"}
+{"engword": "Port Trust", "tamilword": "துறைமுக பொறுப்பு கழகம்"}
+{"engword": "Cantonment", "tamilword": "இராணுவக் குடியிருப்பு"}
+{"engword": "Presidency", "tamilword": "மாகாணம்"}
+{"engword": "Province", "tamilword": "மாநிலம் / மாகாணம்"}
+{"engword": "Principality", "tamilword": "சிற்றரசு"}
+{"engword": "Princely State", "tamilword": "சுதேச சமஸ்தானம்"}
+{"engword": "Annexation", "tamilword": "நிலப்பகுதியை இணைத்தல்"}
+{"engword": "Accession", "tamilword": "இணைவு (நாடுகளின்)"}
+{"engword": "Integration", "tamilword": "ஒருமைப்பாடு"}
+{"engword": "Frontier", "tamilword": "எல்லை"}
+{"engword": "Boundary", "tamilword": "வரம்பு / எல்லை"}
+{"engword": "Demarcation", "tamilword": "எல்லை நிர்ணயம்"}
+{"engword": "Buffer State", "tamilword": "இடைப்படு நாடு"}
+{"engword": "Satellite State", "tamilword": "சார்பு நாடு"}
+{"engword": "Suzerain", "tamilword": "மேலரசு"}
+{"engword": "Vassal", "tamilword": "சிற்றரசன் / கப்பம் கட்டுபவர்"}
+{"engword": "Feudatory", "tamilword": "குறுநில மன்னர்"}
+{"engword": "Noble", "tamilword": "பிரபு / உயர்குடியினர்"}
+{"engword": "Knight", "tamilword": "வீரத்திருமகன்"}
+{"engword": "Chivalry", "tamilword": "வீரப்பண்பு"}
+{"engword": "Heraldry", "tamilword": "சின்னவியல்"}
+{"engword": "Genealogist", "tamilword": "வம்சாவளி ஆய்வாளர்"}
+{"engword": "Paleography", "tamilword": "பழங்கால எழுத்துமுறை ஆய்வு"}
+{"engword": "Ethnography", "tamilword": "இனவரைவியல்"}
+{"engword": "Sociology", "tamilword": "சமூகவியல்"}
+{"engword": "Demography", "tamilword": "மக்கள் தொகையியல்"}
+{"engword": "Cartography", "tamilword": "வரைபடவியல்"}
+{"engword": "Topography", "tamilword": "நிலப்பரப்பியல்"}
+{"engword": "Geology", "tamilword": "புவியியல் (பாறை ஆய்வு)"}
+{"engword": "Climatology", "tamilword": "வானிலையியல்"}
+{"engword": "Ecology", "tamilword": "சூழலியல்"}
+{"engword": "Environment", "tamilword": "சுற்றுச்சூழல்"}
+{"engword": "Conservation", "tamilword": "பாதுகாப்பு (இயற்கை)"}
+{"engword": "Preservation", "tamilword": "பேணுதல் (பொருட்கள்)"}
+{"engword": "Restoration", "tamilword": "புதுப்பித்தல்"}
+{"engword": "Renovation", "tamilword": "சீரமைத்தல்"}
+{"engword": "Exploration", "tamilword": "ஆய்வுப் பயணம்"}
+{"engword": "Discovery", "tamilword": "கண்டுபிடிப்பு"}
+{"engword": "Invention", "tamilword": "புத்தாக்கம்"}
+{"engword": "Innovation", "tamilword": "புதுமை"}
+{"engword": "Technology", "tamilword": "தொழில்நுட்பம்"}
+{"engword": "Industry", "tamilword": "தொழில்"}
+{"engword": "Agriculture", "tamilword": "விவசாயம்"}
+{"engword": "Husbandry", "tamilword": "கால்நடை வளர்ப்பு"}
+{"engword": "Horticulture", "tamilword": "தோட்டக்கலை"}
+{"engword": "Forestry", "tamilword": "வனவியல்"}
+{"engword": "Mining", "tamilword": "சுரங்கத்தொழில்"}
+{"engword": "Metallurgy", "tamilword": "உலோகவியல்"}
+{"engword": "Manufacturing", "tamilword": "உற்பத்தி"}
+{"engword": "Logistics", "tamilword": "சரக்கு மேலாண்மை"}
+{"engword": "Transport", "tamilword": "போக்குவரத்து"}
+{"engword": "Communication", "tamilword": "தகவல் தொடர்பு"}
+{"engword": "Media", "tamilword": "ஊடகம்"}
+{"engword": "Press", "tamilword": "இதழியல் / அச்சகம்"}
+{"engword": "Journalism", "tamilword": "பத்திரிகையியல்"}
+{"engword": "Propaganda", "tamilword": "பரப்புரை"}
+{"engword": "Censorship", "tamilword": "தணிக்கைமுறை"}
+{"engword": "Public Opinion", "tamilword": "பொதுமக்களின் கருத்து"}
+{"engword": "Election", "tamilword": "தேர்தல்"}
+{"engword": "Candidate", "tamilword": "வேட்பாளர்"}
+{"engword": "Voter", "tamilword": "வாக்காளர்"}
+{"engword": "Ballot", "tamilword": "வாக்குச் சீட்டு"}
+{"engword": "Polling", "tamilword": "வாக்குப்பதிவு"}
+{"engword": "Coalition", "tamilword": "கூட்டணி (அரசியல்)"}
+{"engword": "Opposition", "tamilword": "எதிர்க்கட்சி"}
+{"engword": "Majority", "tamilword": "பெரும்பான்மை"}
+{"engword": "Minority", "tamilword": "சிறுபான்மை"}
+{"engword": "Constituency", "tamilword": "தொகுதி"}
+{"engword": "Cabinet", "tamilword": "அமைச்சரவை"}
+{"engword": "Minister", "tamilword": "அமைச்சர்"}
+{"engword": "Prime Minister", "tamilword": "பிரதமர்"}
+{"engword": "President", "tamilword": "குடியரசுத் தலைவர்"}
+{"engword": "Vice President", "tamilword": "துணை குடியரசுத் தலைவர்"}
+{"engword": "Speaker", "tamilword": "சபாநாயகர்"}
+{"engword": "Member of Parliament (MP)", "tamilword": "நாடாளுமன்ற உறுப்பினர்"}
+{"engword": "Member of Legislative Assembly (MLA)", "tamilword": "சட்டமன்ற உறுப்பினர்"}
+{"engword": "Judiciary", "tamilword": "நீதித்துறை"}
+{"engword": "Executive", "tamilword": "நிர்வாகத்துறை"}
+{"engword": "Legislature", "tamilword": "சட்டமன்றத் துறை"}
+{"engword": "Court", "tamilword": "நீதிமன்றம்"}
+{"engword": "Supreme Court", "tamilword": "உச்ச நீதிமன்றம்"}
+{"engword": "High Court", "tamilword": "உயர் நீதிமன்றம்"}
+{"engword": "Judge", "tamilword": "நீதிபதி"}
+{"engword": "Lawyer / Advocate", "tamilword": "வழக்கறிஞர்"}
+{"engword": "Verdict", "tamilword": "தீர்ப்பு"}
+{"engword": "Appeal", "tamilword": "மேல்முறையீடு"}
+{"engword": "Evidence", "tamilword": "சாட்சி / ஆதாரம்"}
+{"engword": "Witness", "tamilword": "சாட்சி"}
+{"engword": "Crime", "tamilword": "குற்றம்"}
+{"engword": "Punishment", "tamilword": "தண்டனை"}
+{"engword": "Prison / Jail", "tamilword": "சிறைச்சாலை"}
+{"engword": "Constitution", "tamilword": "அரசியலமைப்புச் சட்டம்"}
+{"engword": "Amendment", "tamilword": "திருத்தம்"}
+{"engword": "Article", "tamilword": "விதி / சரத்து"}
+{"engword": "Preamble", "tamilword": "முகவுரை"}
+{"engword": "Fundamental Rights", "tamilword": "அடிப்படை உரிமைகள்"}
+{"engword": "Fundamental Duties", "tamilword": "அடிப்படை கடமைகள்"}
+{"engword": "Directive Principles", "tamilword": "நெறிமுறை கோட்பாடுகள்"}
+{"engword": "Federalism", "tamilword": "கூட்டாட்சித் தத்துவம்"}
+{"engword": "Secularism", "tamilword": "மதச்சார்பின்மைக் கொள்கை"}
+{"engword": "Sovereignty", "tamilword": "இறையாண்மைத் தத்துவம்"}
+{"engword": "Republic", "tamilword": "குடியரசுத் தத்துவம்"}
+{"engword": "Citizenship", "tamilword": "குடியுரிமை"}
+{"engword": "Naturalization", "tamilword": "இயல்புரிமை குடியுரிமை"}
+{"engword": "Emigration", "tamilword": "வெளிநாடு ஏகுதல்"}
+{"engword": "Immigration", "tamilword": "குடிபுகுதல்"}
+{"engword": "Diaspora", "tamilword": "புலம்பெயர்ந்தோர் கூட்டம்"}
+{"engword": "International", "tamilword": "சர்வதேசம்"}
+{"engword": "Global", "tamilword": "உலகளாவிய"}
+{"engword": "United Nations (UN)", "tamilword": "ஐக்கிய நாடுகள் சபை"}
+{"engword": "Security Council", "tamilword": "பாதுகாப்பு அவை"}
+{"engword": "General Assembly", "tamilword": "பொதுச் சபை"}
+{"engword": "Peacekeeping", "tamilword": "அமைதிப்படை"}
+{"engword": "Human Rights Commission", "tamilword": "மனித உரிமைகள் ஆணையம்"}
+{"engword": "World War", "tamilword": "உலகப் போர்"}
+{"engword": "Cold War", "tamilword": "பனிப்போர்"}
+{"engword": "Disarmament", "tamilword": "ஆயுதக் குறைப்பு"}
+{"engword": "Non-Aligned Movement (NAM)", "tamilword": "அணிசேரா இயக்கம்"}
+{"engword": "Third World", "tamilword": "மூன்றாம் உலகம்"}
+{"engword": "Developing Nation", "tamilword": "வளரும் நாடு"}
+{"engword": "Developed Nation", "tamilword": "வளர்ந்த நாடு"}
+{"engword": "Globalization", "tamilword": "உலகமயமாதல்"}
+{"engword": "Privatization", "tamilword": "தனியார்மயமாதல்"}
+{"engword": "Liberalization", "tamilword": "தாராளமயமாதல்"}
+{"engword": "Economy", "tamilword": "பொருளாதாரம்"}
+{"engword": "GDP (Gross Domestic Product)", "tamilword": "மொத்த உள்நாட்டு உற்பத்தி"}
+{"engword": "Per Capita Income", "tamilword": "தலா வருமானம்"}
+{"engword": "Standard of Living", "tamilword": "வாழ்க்கைத்தரம்"}
+{"engword": "Poverty Line", "tamilword": "வறுமைக் கோடு"}
+{"engword": "Employment", "tamilword": "வேலைவாய்ப்பு"}
+{"engword": "Welfare", "tamilword": "நலம்"}
+{"engword": "Scheme", "tamilword": "திட்டம்"}
+{"engword": "Policy", "tamilword": "கொள்கை"}
+{"engword": "Reform", "tamilword": "சீர்திருத்தம்"}
+{"engword": "Modernization", "tamilword": "நவீனமயமாக்கல்"}
+{"engword": "Renaissance", "tamilword": "மறுமலர்ச்சி"}
+{"engword": "Awakening", "tamilword": "விழிப்புணர்வு"}
+{"engword": "Movement", "tamilword": "இயக்கம்"}
+{"engword": "Protest", "tamilword": "எதிர்ப்புப் போராட்டம்"}
+{"engword": "Boycott", "tamilword": "புறக்கணிப்புப் போராட்டம்"}
+{"engword": "Strike", "tamilword": "வேலைநிறுத்தம்"}
+{"engword": "Rally", "tamilword": "ஊர்வலம்"}
+{"engword": "Slogan", "tamilword": "முழக்கம்"}
+{"engword": "Speech", "tamilword": "உரை"}
+{"engword": "Pamphlet", "tamilword": "துண்டுப் பிரசுரம்"}
+{"engword": "Newspaper", "tamilword": "செய்தித்தாள்"}
+{"engword": "Periodical", "tamilword": "பருவ இதழ்"}
+{"engword": "Biography", "tamilword": "வாழ்க்கை வரலாறு"}
+{"engword": "Autobiography", "tamilword": "சுயசரிதை"}
+{"engword": "Memoirs", "tamilword": "நினைவுக் குறிப்புகள்"}
+{"engword": "Documentation", "tamilword": "ஆவணப்படுத்துதல்"}
+{"engword": "Records", "tamilword": "பதிவுகள்"}
+{"engword": "Statistics", "tamilword": "புள்ளிவிவரங்கள்"}
+{"engword": "Data", "tamilword": "தரவுகள்"}
+{"engword": "Analysis", "tamilword": "பகுப்பாய்வு"}
+{"engword": "Conclusion", "tamilword": "முடிவு / முடிவுரை"}
+{"engword": "Summary", "tamilword": "சுருக்கம்"}
+{"engword": "Abstract", "tamilword": "சுருக்கவுரை"}
+{"engword": "Thesis", "tamilword": "ஆய்வேடு"}
+{"engword": "Dissertation", "tamilword": "ஆய்வுக்கட்டுரை"}
+{"engword": "Research", "tamilword": "ஆராய்ச்சி"}
+{"engword": "Study", "tamilword": "ஆய்வு"}
+{"engword": "Survey", "tamilword": "கணக்கெடுப்பு / நில அளவை"}
+{"engword": "Report", "tamilword": "அறிக்கை"}
+{"engword": "Minutes", "tamilword": "கூட்டக் குறிப்புகள்"}
+{"engword": "Agenda", "tamilword": "நிகழ்ச்சி நிரல்"}
+{"engword": "Schedule", "tamilword": "கால அட்டவணை"}
+{"engword": "Calendar", "tamilword": "நாட்காட்டி / காலக்குறிப்பு"}
+{"engword": "Almanac", "tamilword": "பஞ்சாங்கம் / ஆண்டு நூல்"}
+{"engword": "Encyclopedia", "tamilword": "கலைக்களஞ்சியம்"}
+{"engword": "Dictionary", "tamilword": "அகராதி"}
+{"engword": "Glossary", "tamilword": "கலைச்சொல் பட்டியல்"}
+{"engword": "Index", "tamilword": "பொருளடக்கம் / சுட்டெண்"}
+{"engword": "Appendix", "tamilword": "பிற்சேர்க்கை"}
+{"engword": "Bibliography", "tamilword": "நூல் நிரல் / துணைநூல் பட்டியல்"}
+{"engword": "Reference", "tamilword": "மேற்கோள் / குறிப்பு"}
+{"engword": "Whitehall", "tamilword": "பிரிட்டானிய அரசு அலுவலகம்"}
+{"engword": "10 Downing Street", "tamilword": "பிரிட்டிஷ் பிரதமர் இல்லம்"}
+{"engword": "White House", "tamilword": "அமெரிக்க அதிபர் இல்லம்"}
+{"engword": "Kremlin", "tamilword": "ரஷ்ய அரசு மாளிகை"}
+{"engword": "Vatican", "tamilword": "போப்பாண்டவர் தன்னாட்சி நகரம் / மாளிகை"}
+{"engword": "Geography", "tamilword": "புவியியல்"}
+{"engword": "Advanced", "tamilword": "கடற்கரையியக்கம்"}
+{"engword": "Universe", "tamilword": "பேரண்டம்"}
+{"engword": "Galaxy", "tamilword": "விண்மீன் மண்டலம்"}
+{"engword": "Solar System", "tamilword": "சூரிய குடும்பம்"}
+{"engword": "Orbit", "tamilword": "சுற்றுப்பாதை"}
+{"engword": "Rotation", "tamilword": "சுழலுதல்"}
+{"engword": "Revolution", "tamilword": "சுற்றுதல்"}
+{"engword": "Axis", "tamilword": "அச்சு"}
+{"engword": "Equator", "tamilword": "நிலநடுக்கோடு"}
+{"engword": "Latitude", "tamilword": "அட்சரேகை"}
+{"engword": "Longitude", "tamilword": "தீர்க்கரேகை"}
+{"engword": "Hemisphere", "tamilword": "அரைக்கோளம்"}
+{"engword": "Meridian", "tamilword": "தீர்க்கக்கோடு"}
+{"engword": "Time Zone", "tamilword": "நேர மண்டலம்"}
+{"engword": "Continent", "tamilword": "கண்டம்"}
+{"engword": "Island", "tamilword": "தீவு"}
+{"engword": "Peninsula", "tamilword": "தீபகற்பம்"}
+{"engword": "Isthmus", "tamilword": "நிலச்சந்தி"}
+{"engword": "Strait", "tamilword": "நீர்ச்சந்தி"}
+{"engword": "Archipelago", "tamilword": "தீவுக்கூட்டம்"}
+{"engword": "Ocean", "tamilword": "பெருங்கடல்"}
+{"engword": "Sea", "tamilword": "கடல்"}
+{"engword": "Gulf", "tamilword": "வளைகுடா (பெரியது)"}
+{"engword": "Bay", "tamilword": "வளைகுடா (சிறியது)"}
+{"engword": "Lagoon", "tamilword": "உப்பங்கழி"}
+{"engword": "Estuary", "tamilword": "ஆற்றுமுகம் / கழிமுகம்"}
+{"engword": "Delta", "tamilword": "டெல்டா / ஆற்றுப் படுகை"}
+{"engword": "Basin", "tamilword": "வடிநிலம்"}
+{"engword": "Plate Tectonics", "tamilword": "தட்டு புவிப்பொறையியல்"}
+{"engword": "Crust", "tamilword": "புவி மேலோடு"}
+{"engword": "Mantle", "tamilword": "கவசம்"}
+{"engword": "Core", "tamilword": "புவிமையம் / கருவம்"}
+{"engword": "Lithosphere", "tamilword": "பாறைக்கோளம்"}
+{"engword": "Asthenosphere", "tamilword": "மென்பாறைக்கோளம்"}
+{"engword": "Atmosphere", "tamilword": "வளிமண்டலம்"}
+{"engword": "Hydrosphere", "tamilword": "நீர்க்கோளம்"}
+{"engword": "Biosphere", "tamilword": "உயிர்க்கோளம்"}
+{"engword": "Volcano", "tamilword": "எரிமலை"}
+{"engword": "Magma", "tamilword": "மேக்மா / பாறைக்குழம்பு (உள்ளே)"}
+{"engword": "Lava", "tamilword": "லாவா / எரிமலைக் குழம்பு (வெளியே)"}
+{"engword": "Vent", "tamilword": "எரிமலைத் துளை"}
+{"engword": "Crater", "tamilword": "எரிமலை வாய்"}
+{"engword": "Earthquake", "tamilword": "நிலநடுக்கம்"}
+{"engword": "Epicenter", "tamilword": "நிலநடுக்க மையப்புள்ளி"}
+{"engword": "Focus (Hypocenter)", "tamilword": "நிலநடுக்கத் தோற்றுவாய்"}
+{"engword": "Seismology", "tamilword": "நிலநடுக்கவியல்"}
+{"engword": "Richter Scale", "tamilword": "ரிக்டர் அளவுகோல்"}
+{"engword": "Tsunami", "tamilword": "ஆழிப்பேரலை"}
+{"engword": "Fault", "tamilword": "பிளவு"}
+{"engword": "Fold", "tamilword": "மடிப்பு"}
+{"engword": "Mountain", "tamilword": "மலை"}
+{"engword": "Plateau", "tamilword": "பீடபூமி"}
+{"engword": "Plain", "tamilword": "சமவெளி"}
+{"engword": "Valley", "tamilword": "பள்ளத்தாக்கு"}
+{"engword": "Canyon", "tamilword": "மலை இடுக்கு / ஆழமான பள்ளத்தாக்கு"}
+{"engword": "Cliff", "tamilword": "செங்குத்துப் பாறை"}
+{"engword": "Dune", "tamilword": "மணற்குன்று"}
+{"engword": "Oasis", "tamilword": "பாலைவனச் சோலை"}
+{"engword": "Glacier", "tamilword": "பனிஆறு"}
+{"engword": "Iceberg", "tamilword": "பனிப்பாறை"}
+{"engword": "Weathering", "tamilword": "பாறைச் சிதைவு"}
+{"engword": "Erosion", "tamilword": "அரிப்பு"}
+{"engword": "Deposition", "tamilword": "படிதல்"}
+{"engword": "Alluvium", "tamilword": "வண்டல் மண்"}
+{"engword": "Sediment", "tamilword": "படிவு"}
+{"engword": "Catchment Area", "tamilword": "நீர்ப்பிடிப்பு பகுதி"}
+{"engword": "Tributary", "tamilword": "துணை ஆறு"}
+{"engword": "Distributary", "tamilword": "கிளை ஆறு"}
+{"engword": "Meander", "tamilword": "ஆற்றின் வளைவு"}
+{"engword": "Oxbow Lake", "tamilword": "குதிரைவாலி ஏரி"}
+{"engword": "Waterfall", "tamilword": "நீர்வீழ்ச்சி"}
+{"engword": "Rapids", "tamilword": "ஆற்றுப் பாய்ச்சல்"}
+{"engword": "Gorge", "tamilword": "குறுகிய மலைப்பாதை"}
+{"engword": "Karst", "tamilword": "சுண்ணாம்புப் பாறை நிலத்தோற்றம்"}
+{"engword": "Stalactite", "tamilword": "கீழ்நோக்கிய விழுதுப் பாறை"}
+{"engword": "Stalagmite", "tamilword": "மேல்நோக்கிய வளர் பாறை"}
+{"engword": "Sinkhole", "tamilword": "உறிஞ்சு துளை"}
+{"engword": "Cave", "tamilword": "குகை"}
+{"engword": "Groundwater", "tamilword": "நிலத்தடி நீர்"}
+{"engword": "Water Table", "tamilword": "நிலத்தடி நீர் மட்டம்"}
+{"engword": "Aquifer", "tamilword": "நீர்க்கொள்படுகை"}
+{"engword": "Artesian Well", "tamilword": "ஆர்ட்டீசியன் நீரூற்று"}
+{"engword": "Spring", "tamilword": "நீரூற்று"}
+{"engword": "Geyser", "tamilword": "வெந்நீர் ஊற்று"}
+{"engword": "Weather", "tamilword": "வானிலை"}
+{"engword": "Climate", "tamilword": "காலநிலை"}
+{"engword": "Meteorology", "tamilword": "வானிலையியல்"}
+{"engword": "Climatology", "tamilword": "காலநிலையியல்"}
+{"engword": "Temperature", "tamilword": "வெப்பநிலை"}
+{"engword": "Insolation", "tamilword": "சூரியக் கதிர்வீச்சு"}
+{"engword": "Albedo", "tamilword": "ஒளித்திருப்பும் திறன்"}
+{"engword": "Isotherm", "tamilword": "சமவெப்பக்கோடு"}
+{"engword": "Atmospheric Pressure", "tamilword": "வளிமண்டல அழுத்தம்"}
+{"engword": "Barometer", "tamilword": "அழுத்தமானி"}
+{"engword": "Isobar", "tamilword": "சமஅழுத்தக்கோடு"}
+{"engword": "Wind", "tamilword": "காற்று"}
+{"engword": "Anemometer", "tamilword": "காற்றழுத்தமானி / காற்றுவேகமானி"}
+{"engword": "Wind Vane", "tamilword": "காற்றுத் திசைக்காட்டி"}
+{"engword": "Planetary Winds", "tamilword": "கோள் காற்று"}
+{"engword": "Trade Winds", "tamilword": "வியாபாரக் காற்று"}
+{"engword": "Westerlies", "tamilword": "மேலைக்காற்று"}
+{"engword": "Polar Easterlies", "tamilword": "துருவக் கீழைக்காற்று"}
+{"engword": "Monsoon", "tamilword": "பருவக்காற்று"}
+{"engword": "Jet Stream", "tamilword": "ஜெட் காற்றோட்டம்"}
+{"engword": "Cyclone", "tamilword": "சூறாவளி"}
+{"engword": "Anticyclone", "tamilword": "எதிர்ச் சூறாவளி"}
+{"engword": "Eye of the Storm", "tamilword": "புயல் கண்"}
+{"engword": "Tornado", "tamilword": "டொர்னடோ / சுழல்காற்று"}
+{"engword": "Hurricane", "tamilword": "ஹரிகேன் / பெருங்காற்று"}
+{"engword": "Typhoon", "tamilword": "டைபூன் / கடற்சீற்றம்"}
+{"engword": "Humidity", "tamilword": "ஈரப்பதம்"}
+{"engword": "Hygrometer", "tamilword": "ஈரப்பதமானி"}
+{"engword": "Condensation", "tamilword": "ஆவி சுருங்குதல்"}
+{"engword": "Evaporation", "tamilword": "ஆவியாதல்"}
+{"engword": "Precipitation", "tamilword": "பொழிவு / மழைப்பொழிவு"}
+{"engword": "Rain", "tamilword": "மழை"}
+{"engword": "Snow", "tamilword": "பனி"}
+{"engword": "Sleet", "tamilword": "ஆலங்கட்டி மழை (சிறியது)"}
+{"engword": "Hail", "tamilword": "ஆலங்கட்டி"}
+{"engword": "Dew", "tamilword": "பனித்துளி"}
+{"engword": "Frost", "tamilword": "உறைபனி"}
+{"engword": "Fog", "tamilword": "மூடுபனி (தரைக்கு அருகில்)"}
+{"engword": "Mist", "tamilword": "மென்பனி மூட்டம்"}
+{"engword": "Cloud", "tamilword": "மேகம்"}
+{"engword": "Cirrus", "tamilword": "கீற்று மேகம்"}
+{"engword": "Cumulus", "tamilword": "திரள் மேகம்"}
+{"engword": "Stratus", "tamilword": "படை மேகம்"}
+{"engword": "Nimbus", "tamilword": "கார் மேகம்"}
+{"engword": "Thunderstorm", "tamilword": "இடியுடன் கூடிய மழை"}
+{"engword": "Lightning", "tamilword": "மின்னல்"}
+{"engword": "Rain Gauge", "tamilword": "மழைமானி"}
+{"engword": "Hydrological Cycle", "tamilword": "நீரியல் சுழற்சி"}
+{"engword": "Troposphere", "tamilword": "அடி வளிமண்டலம் / ட்ரோபோஸ்பியர்"}
+{"engword": "Stratosphere", "tamilword": "அடுக்கு வளிமண்டலம் / ஸ்ட்ரேட்டோஸ்பியர்"}
+{"engword": "Mesosphere", "tamilword": "இடை வளிமண்டலம் / மீசோஸ்பியர்"}
+{"engword": "Thermosphere", "tamilword": "வெப்ப வளிமண்டலம் / தெர்மோஸ்பியர்"}
+{"engword": "Exosphere", "tamilword": "வெளி வளிமண்டலம் / எக்சோஸ்பியர்"}
+{"engword": "Ionosphere", "tamilword": "அயனி மண்டலம்"}
+{"engword": "Ozone Layer", "tamilword": "ஓசோன் படலம்"}
+{"engword": "Aurora", "tamilword": "துருவ ஒளி"}
+{"engword": "Greenhouse Effect", "tamilword": "பசுமை இல்ல விளைவு"}
+{"engword": "Global Warming", "tamilword": "உலக வெப்பமயமாதல்"}
+{"engword": "Oceanography", "tamilword": "கடல்சார் இயல்"}
+{"engword": "Continental Shelf", "tamilword": "கண்டத் திட்டு"}
+{"engword": "Continental Slope", "tamilword": "கண்டச் சரிவு"}
+{"engword": "Abyssal Plain", "tamilword": "ஆழ்கடல் சமவெளி"}
+{"engword": "Oceanic Trench", "tamilword": "ஆழ்கடல் அகழி"}
+{"engword": "Ridge (Oceanic)", "tamilword": "கடல் மலைத்தொடர்"}
+{"engword": "Seamount", "tamilword": "கடல் மலை"}
+{"engword": "Salinity", "tamilword": "உவர்ப்பியம்"}
+{"engword": "Tides", "tamilword": "ஓதங்கள்"}
+{"engword": "High Tide", "tamilword": "உயர் ஓதம்"}
+{"engword": "Low Tide", "tamilword": "தாழ் ஓதம்"}
+{"engword": "Spring Tide", "tamilword": "வசந்தகால ஓதம்"}
+{"engword": "Neap Tide", "tamilword": "குறுக்கோதம்"}
+{"engword": "Ocean Currents", "tamilword": "கடல் நீரோட்டங்கள்"}
+{"engword": "Warm Current", "tamilword": "வெப்ப நீரோட்டம்"}
+{"engword": "Cold Current", "tamilword": "குளிர் நீரோட்டம்"}
+{"engword": "Gyre", "tamilword": "கடல் நீரோட்டச் சுழற்சி"}
+{"engword": "Coral Reef", "tamilword": "பவளப்பாறை"}
+{"engword": "Atoll", "tamilword": "வட்டப் பவளத்தீவு"}
+{"engword": "Plankton", "tamilword": "மிதவை உயிரிகள்"}
+{"engword": "Ecosystem", "tamilword": "சூழல் மண்டலம்"}
+{"engword": "Biodiversity", "tamilword": "பல்லுயிர்த் தன்மை"}
+{"engword": "Habitat", "tamilword": "வாழிடம்"}
+{"engword": "Biome", "tamilword": "உயிர்ச் சூழல் மண்டலம்"}
+{"engword": "Tropical Rainforest", "tamilword": "வெப்பமண்டல மழைக்காடுகள்"}
+{"engword": "Savanna", "tamilword": "சவானா புல்வெளி"}
+{"engword": "Steppe", "tamilword": "ஸ்டெப்பி புல்வெளி"}
+{"engword": "Tundra", "tamilword": "துந்துருவம்"}
+{"engword": "Taiga", "tamilword": "தைகா காடுகள்"}
+{"engword": "Deciduous Forest", "tamilword": "இலையுதிர் காடுகள்"}
+{"engword": "Coniferous Forest", "tamilword": "ஊசியிலைக் காடுகள்"}
+{"engword": "Mangrove", "tamilword": "சதுப்புநிலக் காடுகள்"}
+{"engword": "Desert", "tamilword": "பாலைவனம்"}
+{"engword": "Scrub", "tamilword": "புதர்ச் செடி"}
+{"engword": "Natural Resource", "tamilword": "இயற்கை வளம்"}
+{"engword": "Renewable Resource", "tamilword": "புதுப்பிக்கத்தக்க வளம்"}
+{"engword": "Non-Renewable Resource", "tamilword": "புதுப்பிக்க இயலாத வளம்"}
+{"engword": "Mineral", "tamilword": "கனிமம்"}
+{"engword": "Ore", "tamilword": "தாது"}
+{"engword": "Mining", "tamilword": "சுரங்கத் தொழில்"}
+{"engword": "Quarrying", "tamilword": "கல் உடைத்தல்"}
+{"engword": "Fossil Fuel", "tamilword": "புதைபடிவ எரிபொருள்"}
+{"engword": "Coal", "tamilword": "நிலக்கரி"}
+{"engword": "Petroleum", "tamilword": "பெட்ரோலியம்"}
+{"engword": "Natural Gas", "tamilword": "இயற்கை எரிவாயு"}
+{"engword": "Hydroelectric Power", "tamilword": "நீர்மின் சக்தி"}
+{"engword": "Solar Power", "tamilword": "சூரிய ஆற்றல்"}
+{"engword": "Wind Power", "tamilword": "காற்றாலை ஆற்றல்"}
+{"engword": "Geothermal Energy", "tamilword": "புவி வெப்ப ஆற்றல்"}
+{"engword": "Tidal Energy", "tamilword": "ஓத ஆற்றல்"}
+{"engword": "Nuclear Energy", "tamilword": "அணுசக்தி"}
+{"engword": "Agriculture", "tamilword": "வேளாண்மை"}
+{"engword": "Subsistence Farming", "tamilword": "தன்னிறைவு வேளாண்மை"}
+{"engword": "Commercial Farming", "tamilword": "வணிக வேளாண்மை"}
+{"engword": "Intensive Farming", "tamilword": "தீவிர வேளாண்மை"}
+{"engword": "Extensive Farming", "tamilword": "பரந்த வேளாண்மை"}
+{"engword": "Plantation", "tamilword": "தோட்டப்பயிர்"}
+{"engword": "Shifting Cultivation", "tamilword": "இடமாற்று விவசாயம்"}
+{"engword": "Horticulture", "tamilword": "தோட்டக்கலை"}
+{"engword": "Sericulture", "tamilword": "பட்டுப்புழு வளர்ப்பு"}
+{"engword": "Pisciculture", "tamilword": "மீன் வளர்ப்பு"}
+{"engword": "Viticulture", "tamilword": "திராட்சை வளர்ப்பு"}
+{"engword": "Irrigation", "tamilword": "நீர்ப்பாசனம்"}
+{"engword": "Canal", "tamilword": "கால்வாய்"}
+{"engword": "Well", "tamilword": "கிணறு"}
+{"engword": "Tube Well", "tamilword": "ஆழ்துளைக் கிணறு"}
+{"engword": "Tank", "tamilword": "ஏரி / குளம்"}
+{"engword": "Dam", "tamilword": "அணை"}
+{"engword": "Drip Irrigation", "tamilword": "சொட்டுநீர்ப் பாசனம்"}
+{"engword": "Sprinkler Irrigation", "tamilword": "தெளிப்புநீர்ப் பாசனம்"}
+{"engword": "Soil", "tamilword": "மண்"}
+{"engword": "Soil Profile", "tamilword": "மண் அடுக்கு"}
+{"engword": "Alluvial Soil", "tamilword": "வண்டல் மண்"}
+{"engword": "Black Soil (Regur)", "tamilword": "கரிசல் மண்"}
+{"engword": "Red Soil", "tamilword": "செம்மண்"}
+{"engword": "Laterite Soil", "tamilword": "சரளை மண்"}
+{"engword": "Mountain Soil", "tamilword": "மலை மண்"}
+{"engword": "Desert Soil", "tamilword": "பாலைவன மண்"}
+{"engword": "Soil Erosion", "tamilword": "மண் அரிப்பு"}
+{"engword": "Soil Conservation", "tamilword": "மண் பாதுகாப்பு"}
+{"engword": "Land Use", "tamilword": "நிலப் பயன்பாடு"}
+{"engword": "Settlement", "tamilword": "குடியிருப்பு"}
+{"engword": "Rural", "tamilword": "கிராமப்புற"}
+{"engword": "Urban", "tamilword": "நகர்ப்புற"}
+{"engword": "Nucleated Settlement", "tamilword": "செறிந்த குடியிருப்பு"}
+{"engword": "Dispersed Settlement", "tamilword": "சிதறிய குடியிருப்பு"}
+{"engword": "Megalopolis", "tamilword": "மாநகரம்"}
+{"engword": "Metropolis", "tamilword": "பெருநகரம்"}
+{"engword": "Conurbation", "tamilword": "நகரக் கூட்டமைப்பு"}
+{"engword": "Population", "tamilword": "மக்கள் தொகை"}
+{"engword": "Census", "tamilword": "மக்கள் தொகை கணக்கெடுப்பு"}
+{"engword": "Population Density", "tamilword": "மக்கள் தொகை அடர்த்தி"}
+{"engword": "Birth Rate", "tamilword": "பிறப்பு விகிதம்"}
+{"engword": "Death Rate", "tamilword": "இறப்பு விகிதம்"}
+{"engword": "Migration", "tamilword": "இடப்பெயர்ச்சி / வலசை"}
+{"engword": "Immigration", "tamilword": "உள்நுழைவு இடப்பெயர்ச்சி"}
+{"engword": "Emigration", "tamilword": "வெளியேற்ற இடப்பெயர்ச்சி"}
+{"engword": "Push Factor", "tamilword": "உந்து காரணி"}
+{"engword": "Pull Factor", "tamilword": "இழு காரணி"}
+{"engword": "Literacy", "tamilword": "கல்வியறிவு"}
+{"engword": "Sex Ratio", "tamilword": "பாலின விகிதம்"}
+{"engword": "Life Expectancy", "tamilword": "சராசரி ஆயுட்காலம்"}
+{"engword": "Industry", "tamilword": "தொழில்"}
+{"engword": "Primary Activity", "tamilword": "முதல்நிலைத் தொழில்"}
+{"engword": "Secondary Activity", "tamilword": "இரண்டாம் நிலைத் தொழில்"}
+{"engword": "Tertiary Activity", "tamilword": "மூன்றாம் நிலைத் தொழில்"}
+{"engword": "Quaternary Activity", "tamilword": "நான்காம் நிலைத் தொழில்"}
+{"engword": "Quinary Activity", "tamilword": "ஐந்தாம் நிலைத் தொழில்"}
+{"engword": "Raw Material", "tamilword": "மூலப்பொருள்"}
+{"engword": "Manufacturing", "tamilword": "உற்பத்தித் தொழில்"}
+{"engword": "Cottage Industry", "tamilword": "குடிசைத் தொழில்"}
+{"engword": "Agro-based Industry", "tamilword": "வேளாண் சார்ந்த தொழில்"}
+{"engword": "Mineral-based Industry", "tamilword": "கனிமம் சார்ந்த தொழில்"}
+{"engword": "Transport", "tamilword": "போக்குவரத்து"}
+{"engword": "Roadway", "tamilword": "சாலைப் போக்குவரத்து"}
+{"engword": "Railway", "tamilword": "இரயில்வே / இரும்புப்பாதை"}
+{"engword": "Airway", "tamilword": "வான்வழிப் போக்குவரத்து"}
+{"engword": "Waterway", "tamilword": "நீர்வழிப் போக்குவரத்து"}
+{"engword": "Pipeline", "tamilword": "குழாய்வழிப் போக்குவரத்து"}
+{"engword": "Port", "tamilword": "துறைமுகம்"}
+{"engword": "Harbor", "tamilword": "புகலிடம் (கப்பல்)"}
+{"engword": "Hinterland", "tamilword": "உள்நாடு / பின்நிலம்"}
+{"engword": "Trade", "tamilword": "வணிகம்"}
+{"engword": "Export", "tamilword": "ஏற்றுமதி"}
+{"engword": "Import", "tamilword": "இறக்குமதி"}
+{"engword": "Balance of Trade", "tamilword": "வணிகச் சமநிலை"}
+{"engword": "Bilateral Trade", "tamilword": "இருதரப்பு வணிகம்"}
+{"engword": "Multilateral Trade", "tamilword": "பலதரப்பு வணிகம்"}
+{"engword": "Globalization", "tamilword": "உலகமயமாதல்"}
+{"engword": "Environment", "tamilword": "சுற்றுச்சூழல்"}
+{"engword": "Pollution", "tamilword": "மாசுபாடு"}
+{"engword": "Air Pollution", "tamilword": "காற்று மாசுபாடு"}
+{"engword": "Water Pollution", "tamilword": "நீர் மாசுபாடு"}
+{"engword": "Land Pollution", "tamilword": "நில மாசுபாடு"}
+{"engword": "Noise Pollution", "tamilword": "ஒலி மாசுபாடு"}
+{"engword": "Global Climate Change", "tamilword": "உலகளாவிய காலநிலை மாற்றம்"}
+{"engword": "Sustainable Development", "tamilword": "நிலையான மேம்பாடு"}
+{"engword": "Deforestation", "tamilword": "காடழிப்பு"}
+{"engword": "Afforestation", "tamilword": "காடு வளர்ப்பு"}
+{"engword": "Conservation", "tamilword": "பாதுகாப்பு"}
+{"engword": "Natural Disaster", "tamilword": "இயற்கை பேரிடர்"}
+{"engword": "Flood", "tamilword": "வெள்ளம்"}
+{"engword": "Drought", "tamilword": "வறட்சி"}
+{"engword": "Landslide", "tamilword": "நிலச்சரிவு"}
+{"engword": "Avalanche", "tamilword": "பனிச்சரிவு"}
+{"engword": "Hazard", "tamilword": "இடர்"}
+{"engword": "Risk", "tamilword": "அபாயம்"}
+{"engword": "Vulnerability", "tamilword": "பாதிப்புக்குள்ளாகும் தன்மை"}
+{"engword": "Resilience", "tamilword": "மீள்தன்மை"}
+{"engword": "Mitigation", "tamilword": "தணித்தல்"}
+{"engword": "Cartography", "tamilword": "வரைபடவியல்"}
+{"engword": "Map", "tamilword": "வரைபடம்"}
+{"engword": "Atlas", "tamilword": "வரைபடத் தொகுப்பு"}
+{"engword": "Scale", "tamilword": "அளவை / அளவுக்கோல்"}
+{"engword": "Legend / Key", "tamilword": "குறி விளக்கப்படம்"}
+{"engword": "Symbol", "tamilword": "குறியீடு"}
+{"engword": "Projection", "tamilword": "வரைபட வீழல்"}
+{"engword": "Topography", "tamilword": "நிலப்பரப்பியல்"}
+{"engword": "Contour", "tamilword": "சம உயரக்கோடு"}
+{"engword": "Remote Sensing", "tamilword": "தொலை உணர்வு"}
+{"engword": "Satellite Imagery", "tamilword": "செயற்கைக்கோள் புகைப்படம்"}
+{"engword": "GIS (Geographic Information System)", "tamilword": "புவியியல் தகவல் அமைப்பு"}
+{"engword": "GPS (Global Positioning System)", "tamilword": "புவி இடஞ்சுட்டி அமைப்பு"}
+{"engword": "Aerial Photography", "tamilword": "வான்வழி புகைப்படம்"}
+{"engword": "Ocean Floor", "tamilword": "கடல் தளம்"}
+{"engword": "Pelagic", "tamilword": "கடல் மேல்பரப்பு சார்ந்த"}
+{"engword": "Benthic", "tamilword": "கடல் அடிதளம் சார்ந்த"}
+{"engword": "Continental Rise", "tamilword": "கண்ட உயர்வு"}
+{"engword": "Submarine Canyon", "tamilword": "கடல் அடிதளம் பள்ளத்தாக்கு"}
+{"engword": "Guyot", "tamilword": "தட்டை உச்சி கடல் மலை"}
+{"engword": "Bathymetry", "tamilword": "கடல் ஆழம் அளவிடும் முறை"}
+{"engword": "Hydrography", "tamilword": "நீரியல் வரைபடவியல்"}
+{"engword": "Hydrosphere", "tamilword": "நீர்க்கோளம்"}
+{"engword": "Water Budget", "tamilword": "நீர் வரவு செலவுத் திட்டம்"}
+{"engword": "Watershed", "tamilword": "நீர் பிரிமேடு / நீர்ப்பிடிப்பு பகுதி"}
+{"engword": "Surface Runoff", "tamilword": "மேற்பரப்பு நீர் ஓட்டம்"}
+{"engword": "Infiltration", "tamilword": "ஊடுருவல்"}
+{"engword": "Percolation", "tamilword": "கசிவு / கீழிறங்குதல்"}
+{"engword": "Transpiration", "tamilword": "நீராவிப்போக்கு"}
+{"engword": "Evapotranspiration", "tamilword": "ஆவிஈர்ப்பு"}
+{"engword": "Hydrological Cycle", "tamilword": "நீர் சுழற்சி"}
+{"engword": "Meteorology", "tamilword": "வானிலையியல்"}
+{"engword": "Atmospheric Layers", "tamilword": "வளிமண்டல அடுக்குகள்"}
+{"engword": "Lapse Rate", "tamilword": "வெப்பநிலை குறைவு விகிதம்"}
+{"engword": "Temperature Inversion", "tamilword": "வெப்பநிலை தலைகீழ் மாற்றம்"}
+{"engword": "Heat Budget", "tamilword": "வெப்ப வரவு செலவு"}
+{"engword": "Advection", "tamilword": "கிடைமட்ட வெப்பக் கடத்தல்"}
+{"engword": "Conduction", "tamilword": "வெப்பக் கடத்தல்"}
+{"engword": "Convection", "tamilword": "வெப்பச் சலனம்"}
+{"engword": "Radiation", "tamilword": "கதிர்வீச்சு"}
+{"engword": "Terrestrial Radiation", "tamilword": "புவி கதிர்வீச்சு"}
+{"engword": "Solar Radiation", "tamilword": "சூரிய கதிர்வீச்சு"}
+{"engword": "Isohyet", "tamilword": "சம மழையளவுக் கோடு"}
+{"engword": "Isoneph", "tamilword": "சம மேக மூட்டக்கோடு"}
+{"engword": "Isodapane", "tamilword": "சம பயணச் செலவுக் கோடு"}
+{"engword": "Isallobar", "tamilword": "சம அழுத்த மாற்றக்கோடு"}
+{"engword": "Atmospheric Pressure Belt", "tamilword": "வளிமண்டல அழுத்த மண்டலம்"}
+{"engword": "Doldrums", "tamilword": "அமைதி மண்டலம்"}
+{"engword": "Horse Latitudes", "tamilword": "குதிரை அட்சரேகைகள்"}
+{"engword": "Coriolis Force", "tamilword": "கொரியாலிஸ் விசை"}
+{"engword": "Ferrel’s Law", "tamilword": "பெரல் விதி"}
+{"engword": "Seasonal Wind", "tamilword": "பருவக் காற்று"}
+{"engword": "Local Wind", "tamilword": "தலக் காற்று"}
+{"engword": "Sea Breeze", "tamilword": "கடற்காற்று"}
+{"engword": "Land Breeze", "tamilword": "நிலக்காற்று"}
+{"engword": "Mountain Breeze", "tamilword": "மலைக்காற்று"}
+{"engword": "Valley Breeze", "tamilword": "பள்ளத்தாக்குக் காற்று"}
+{"engword": "Katabatic Wind", "tamilword": "கீழ்நோக்குக் காற்று"}
+{"engword": "Anabatic Wind", "tamilword": "மேல்நோக்குக் காற்று"}
+{"engword": "Loo", "tamilword": "லூ காற்று (வெப்பக் காற்று)"}
+{"engword": "Mistral", "tamilword": "மிஸ்ட்ரல் (குளிர் காற்று)"}
+{"engword": "Foehn", "tamilword": "போன் (வெப்பக் காற்று)"}
+{"engword": "Chinook", "tamilword": "சின்னூக் (பனி உண்ணி)"}
+{"engword": "Air Mass", "tamilword": "காற்றுத் தொகுதி"}
+{"engword": "Front", "tamilword": "வளிமுகம்"}
+{"engword": "Cold Front", "tamilword": "குளிர் வளிமுகம்"}
+{"engword": "Warm Front", "tamilword": "வெப்ப வளிமுகம்"}
+{"engword": "Orographic Rain", "tamilword": "மலைதடை மழை"}
+{"engword": "Convectional Rain", "tamilword": "வெப்பச் சலன மழை"}
+{"engword": "Cyclonic Rain", "tamilword": "சூறாவளி மழை"}
+{"engword": "Rain Shadow Area", "tamilword": "மழை மறைவுப் பிரதேசம்"}
+{"engword": "Windward Side", "tamilword": "காற்று வீசும் பக்கம்"}
+{"engword": "Leeward Side", "tamilword": "காற்று மறைவுப் பக்கம்"}
+{"engword": "Hydrosphere", "tamilword": "நீர்க்கோளம்"}
+{"engword": "Continental Rise", "tamilword": "கண்ட உயர்வு"}
+{"engword": "Abyssal Hills", "tamilword": "ஆழ்கடல் குன்றுகள்"}
+{"engword": "Guyots", "tamilword": "கடல் மட்டக் குன்றுகள்"}
+{"engword": "Pelagic Deposit", "tamilword": "கடல் மேல்மட்டப் படிவுகள்"}
+{"engword": "Terrigenous Deposit", "tamilword": "நிலம் சார்ந்த படிவுகள்"}
+{"engword": "Isohaline", "tamilword": "சம உவர்ப்புக் கோடு"}
+{"engword": "Tsunami", "tamilword": "சுனாமி / ஆழிப்பேரலை"}
+{"engword": "Ocean Energy", "tamilword": "கடல் ஆற்றல்"}
+{"engword": "OTEC (Ocean Thermal Energy Conversion)", "tamilword": "கடல் வெப்ப ஆற்றல் மாற்றம்"}
+{"engword": "Biosphere", "tamilword": "உயிர்க்கோளம்"}
+{"engword": "Ecology", "tamilword": "சூழலியல்"}
+{"engword": "Autotrophs", "tamilword": "தற்சார்பு ஊட்டயிரிகள்"}
+{"engword": "Heterotrophs", "tamilword": "பிறசார்பு ஊட்டயிரிகள்"}
+{"engword": "Producers", "tamilword": "உற்பத்தியாளர்கள்"}
+{"engword": "Consumers", "tamilword": "நுகர்வோர்கள்"}
+{"engword": "Decomposers", "tamilword": "சிதைப்பவர்கள்"}
+{"engword": "Food Chain", "tamilword": "உணவுச் சங்கிலி"}
+{"engword": "Food Web", "tamilword": "உணவு வலை"}
+{"engword": "Trophic Level", "tamilword": "ஊட்டச் சத்து மட்டம்"}
+{"engword": "Ecological Pyramid", "tamilword": "சூழலியல் பிரமிடு"}
+{"engword": "Biogeochemical Cycle", "tamilword": "உயிர் புவி வேதிச் சுழற்சி"}
+{"engword": "Carbon Cycle", "tamilword": "கார்பன் சுழற்சி"}
+{"engword": "Nitrogen Cycle", "tamilword": "நைட்ரஜன் சுழற்சி"}
+{"engword": "Oxygen Cycle", "tamilword": "ஆக்சிஜன் சுழற்சி"}
+{"engword": "Biodiversity Hotspot", "tamilword": "பல்லுயிர் செழுமை மையம்"}
+{"engword": "Endemic Species", "tamilword": "ஓரிட வாழ் உயிரினங்கள்"}
+{"engword": "Endangered Species", "tamilword": "அழியும் நிலையிலுள்ள உயிரினங்கள்"}
+{"engword": "Extinct Species", "tamilword": "அழிந்துபோன உயிரினங்கள்"}
+{"engword": "Wildlife Sanctuary", "tamilword": "வனவிலங்கு சரணாலயம்"}
+{"engword": "National Park", "tamilword": "தேசியப் பூங்கா"}
+{"engword": "Biosphere Reserve", "tamilword": "உயிர்க்கோளக் காப்பகம்"}
+{"engword": "Invasion", "tamilword": "ஊடுருவல்"}
+{"engword": "Natural Resource", "tamilword": "இயற்கை வளம்"}
+{"engword": "Mineral Resource", "tamilword": "கனிம வளம்"}
+{"engword": "Energy Resource", "tamilword": "ஆற்றல் வளம்"}
+{"engword": "Metallic Mineral", "tamilword": "உலோகக் கனிமம்"}
+{"engword": "Non-metallic Mineral", "tamilword": "அலோகக் கனிமம்"}
+{"engword": "Iron Ore", "tamilword": "இரும்புத் தாது"}
+{"engword": "Manganese", "tamilword": "மாங்கனீசு"}
+{"engword": "Bauxite", "tamilword": "பாக்சைட்"}
+{"engword": "Copper", "tamilword": "தாமிரம்"}
+{"engword": "Mica", "tamilword": "மைக்கா"}
+{"engword": "Limestone", "tamilword": "சுண்ணாம்புக்கல்"}
+{"engword": "Gypsum", "tamilword": "ஜிப்சம்"}
+{"engword": "Coal", "tamilword": "நிலக்கரி"}
+{"engword": "Anthracite", "tamilword": "ஆந்த்ரசைட் (உயர்தர நிலக்கரி)"}
+{"engword": "Bituminous", "tamilword": "பிட்யூமினஸ்"}
+{"engword": "Lignite", "tamilword": "லிக்னைட் (பழுப்பு நிலக்கரி)"}
+{"engword": "Peat", "tamilword": "பீட் (மரக்கரி)"}
+{"engword": "Petroleum", "tamilword": "பெட்ரோலியம் / கச்சா எண்ணெய்"}
+{"engword": "Natural Gas", "tamilword": "இயற்கை எரிவாயு"}
+{"engword": "Shale Gas", "tamilword": "ஷேல் எரிவாயு"}
+{"engword": "Nuclear Power", "tamilword": "அணுசக்தி"}
+{"engword": "Uranium", "tamilword": "யுரேனியம்"}
+{"engword": "Thorium", "tamilword": "தோரியம்"}
+{"engword": "Renewable Energy", "tamilword": "புதுப்பிக்கத்தக்க ஆற்றல்"}
+{"engword": "Non-renewable Energy", "tamilword": "புதுப்பிக்க இயலாத ஆற்றல்"}
+{"engword": "Hydro Power", "tamilword": "புனல் மின்சக்தி"}
+{"engword": "Solar Energy", "tamilword": "சூரிய ஆற்றல்"}
+{"engword": "Wind Energy", "tamilword": "காற்று ஆற்றல்"}
+{"engword": "Biomass Energy", "tamilword": "உயிரி எரிபொருள் ஆற்றல்"}
+{"engword": "Geothermal Energy", "tamilword": "புவி வெப்ப ஆற்றல்"}
+{"engword": "Tidal Energy", "tamilword": "ஓத ஆற்றல்"}
+{"engword": "Wave Energy", "tamilword": "கடல் அலை ஆற்றல்"}
+{"engword": "Economic Activity", "tamilword": "பொருளாதார நடவடிக்கை"}
+{"engword": "Primary Activity", "tamilword": "முதல்நிலைத் தொழில்"}
+{"engword": "Secondary Activity", "tamilword": "இரண்டாம் நிலைத் தொழில்"}
+{"engword": "Tertiary Activity", "tamilword": "மூன்றாம் நிலைத் தொழில்"}
+{"engword": "Quaternary Activity", "tamilword": "நான்காம் நிலைத் தொழில்"}
+{"engword": "Quinary Activity", "tamilword": "ஐந்தாம் நிலைத் தொழில்"}
+{"engword": "Agriculture", "tamilword": "வேளாண்மை"}
+{"engword": "Subsistence Farming", "tamilword": "தன்னிறைவு வேளாண்மை"}
+{"engword": "Shifting Cultivation", "tamilword": "இடமாற்று வேளாண்மை"}
+{"engword": "Intensive Farming", "tamilword": "தீவிர வேளாண்மை"}
+{"engword": "Mixed Farming", "tamilword": "கலப்பு வேளாண்மை"}
+{"engword": "Plantation Agriculture", "tamilword": "தோட்ட வேளாண்மை"}
+{"engword": "Horticulture", "tamilword": "தோட்டக்கலை"}
+{"engword": "Olericulture", "tamilword": "காய்கறி வளர்ப்பு"}
+{"engword": "Pomology", "tamilword": "பழங்கள் வளர்ப்பு"}
+{"engword": "Floriculture", "tamilword": "மலர் வளர்ப்பு"}
+{"engword": "Sericulture", "tamilword": "பட்டுப்புழு வளர்ப்பு"}
+{"engword": "Apiculture", "tamilword": "தேனீ வளர்ப்பு"}
+{"engword": "Aquaculture", "tamilword": "நீர்வாழ் உயிரி வளர்ப்பு"}
+{"engword": "Animal Husbandry", "tamilword": "கால்நடை வளர்ப்பு"}
+{"engword": "Forestry", "tamilword": "வனவியல்"}
+{"engword": "Lumbering", "tamilword": "மரம் வெட்டுதல்"}
+{"engword": "Mining", "tamilword": "சுரங்கத் தொழில்"}
+{"engword": "Quarrying", "tamilword": "கல் உடைத்தல்"}
+{"engword": "Manufacturing Industry", "tamilword": "உற்பத்தித் தொழில்"}
+{"engword": "Agro-based Industry", "tamilword": "வேளாண்மை சார்ந்த தொழில்"}
+{"engword": "Forest-based Industry", "tamilword": "வனம் சார்ந்த தொழில்"}
+{"engword": "Mineral-based Industry", "tamilword": "கனிமம் சார்ந்த தொழில்"}
+{"engword": "Marine-based Industry", "tamilword": "கடல் சார்ந்த தொழில்"}
+{"engword": "Footloose Industry", "tamilword": "சார்பற்ற தொழில்"}
+{"engword": "Cottage Industry", "tamilword": "குடிசைத் தொழில்"}
+{"engword": "Small Scale Industry", "tamilword": "சிறு தொழில்"}
+{"engword": "Large Scale Industry", "tamilword": "பெருந் தொழில்"}
+{"engword": "Public Sector", "tamilword": "பொதுத்துறை"}
+{"engword": "Private Sector", "tamilword": "தனியார் துறை"}
+{"engword": "Joint Sector", "tamilword": "கூட்டுத் துறை"}
+{"engword": "Cooperative Sector", "tamilword": "கூட்டுறவுத் துறை"}
+{"engword": "Industrial Region", "tamilword": "தொழில் மண்டலம்"}
+{"engword": "Transport", "tamilword": "போக்குவரத்து"}
+{"engword": "Roadway", "tamilword": "சாலைப் போக்குவரத்து"}
+{"engword": "National Highway (NH)", "tamilword": "தேசிய நெடுஞ்சாலை"}
+{"engword": "State Highway (SH)", "tamilword": "மாநில நெடுஞ்சாலை"}
+{"engword": "Expressway", "tamilword": "விரைவுச் சாலை"}
+{"engword": "Golden Quadrilateral", "tamilword": "தங்க நாற்கரச் சாலை"}
+{"engword": "Railway", "tamilword": "இரயில் போக்குவரத்து"}
+{"engword": "Gauge", "tamilword": "இரயில் பாதை அகலம்"}
+{"engword": "Broad Gauge", "tamilword": "அகலப்பாதை"}
+{"engword": "Meter Gauge", "tamilword": "மீட்டர்பாதை"}
+{"engword": "Narrow Gauge", "tamilword": "குறுகியபாதை"}
+{"engword": "Metro Rail", "tamilword": "மெட்ரோ இரயில்"}
+{"engword": "Monorail", "tamilword": "மோனோ இரயில்"}
+{"engword": "Waterway", "tamilword": "நீர்வழிப் போக்குவரத்து"}
+{"engword": "Inland Waterway", "tamilword": "உள்நாட்டு நீர்வழி"}
+{"engword": "Oceanic Waterway", "tamilword": "கடல்வழி"}
+{"engword": "Port", "tamilword": "துறைமுகம்"}
+{"engword": "Major Port", "tamilword": "முதன்மைத் துறைமுகம்"}
+{"engword": "Minor Port", "tamilword": "நடுத்தர / சிறிய துறைமுகம்"}
+{"engword": "Airway", "tamilword": "வான்வழிப் போக்குவரத்து"}
+{"engword": "Domestic Airport", "tamilword": "உள்நாட்டு விமான நிலையம்"}
+{"engword": "International Airport", "tamilword": "சர்வதேச விமான நிலையம்"}
+{"engword": "Pipeline Transport", "tamilword": "குழாய்வழிப் போக்குவரத்து"}
+{"engword": "Communication", "tamilword": "தகவல் தொடர்பு"}
+{"engword": "Personal Communication", "tamilword": "தனிநபர் தகவல் தொடர்பு"}
+{"engword": "Mass Communication", "tamilword": "வெகுஜன தகவல் தொடர்பு"}
+{"engword": "Satellite Communication", "tamilword": "செயற்கைக்கோள் தகவல் தொடர்பு"}
+{"engword": "Internet", "tamilword": "இணையம்"}
+{"engword": "Trade", "tamilword": "வணிகம்"}
+{"engword": "Domestic Trade", "tamilword": "உள்நாட்டு வணிகம்"}
+{"engword": "International Trade", "tamilword": "சர்வதேச வணிகம்"}
+{"engword": "Import", "tamilword": "இறக்குமதி"}
+{"engword": "Export", "tamilword": "ஏற்றுமதி"}
+{"engword": "Balance of Trade", "tamilword": "வணிகச் சமநிலை"}
+{"engword": "Sustainable Development", "tamilword": "நிலையான மேம்பாடு"}
+{"engword": "Remote Sensing", "tamilword": "தொலை உணர்வு நுட்பம்"}
+{"engword": "GIS", "tamilword": "புவியியல் தகவல் தொகுதி"}
+{"engword": "GPS", "tamilword": "புவி இடஞ்சுட்டி தொகுதி"}
+{"engword": "GNSS", "tamilword": "உலகளாவிய வழிசெலுத்தல் செயற்கைக்கோள் அமைப்பு"}
+{"engword": "Aerial Photography", "tamilword": "வான்வழி புகைப்படக்கலை"}
+{"engword": "Topography", "tamilword": "நிலவடிவியல்"}
+{"engword": "Civics", "tamilword": "குடிமையியல்"}
+{"engword": "Political Science", "tamilword": "அரசியல் அறிவியல்"}
+{"engword": "Constitution", "tamilword": "அரசியலமைப்பு"}
+{"engword": "Democracy", "tamilword": "மக்களாட்சி"}
+{"engword": "Republic", "tamilword": "குடியரசு"}
+{"engword": "Citizenship", "tamilword": "குடியுரிமை"}
+{"engword": "Sovereign", "tamilword": "இறையாண்மை"}
+{"engword": "Socialist", "tamilword": "சமதர்மம் / பொதுவுடைமை"}
+{"engword": "Secular", "tamilword": "மதச்சார்பற்ற"}
+{"engword": "Justice", "tamilword": "நீதி"}
+{"engword": "Liberty", "tamilword": "சுதந்திரம்"}
+{"engword": "Equality", "tamilword": "சமத்துவம்"}
+{"engword": "Fraternity", "tamilword": "சகோதரத்துவம்"}
+{"engword": "Preamble", "tamilword": "முகவுரை"}
+{"engword": "Fundamental Rights", "tamilword": "அடிப்படை உரிமைகள்"}
+{"engword": "Fundamental Duties", "tamilword": "அடிப்படை கடமைகள்"}
+{"engword": "Directive Principles", "tamilword": "நெறிமுறை கோட்பாடுகள்"}
+{"engword": "Amendment", "tamilword": "சட்டத்திருத்தம்"}
+{"engword": "Article", "tamilword": "சட்டப்பிரிவு / விதி"}
+{"engword": "Schedule", "tamilword": "அட்டவணை"}
+{"engword": "Universal Adult Franchise", "tamilword": "வயது வந்தோர் வாக்குரிமை"}
+{"engword": "Federalism", "tamilword": "கூட்டாட்சி"}
+{"engword": "Unitary Government", "tamilword": "ஒற்றையாட்சி முறை"}
+{"engword": "Parliament", "tamilword": "நாடாளுமன்றம்"}
+{"engword": "Legislature", "tamilword": "சட்டமன்றம்"}
+{"engword": "Executive", "tamilword": "நிர்வாகத்துறை"}
+{"engword": "Judiciary", "tamilword": "நீதித்துறை"}
+{"engword": "President", "tamilword": "குடியரசுத் தலைவர்"}
+{"engword": "Vice-President", "tamilword": "துணை குடியரசுத் தலைவர்"}
+{"engword": "Prime Minister", "tamilword": "பிரதமர்"}
+{"engword": "Cabinet", "tamilword": "அமைச்சரவை (உயர்மட்டம்)"}
+{"engword": "Council of Ministers", "tamilword": "அமைச்சரவை குழு"}
+{"engword": "Governor", "tamilword": "ஆளுநர்"}
+{"engword": "Chief Minister", "tamilword": "முதலமைச்சர்"}
+{"engword": "Rajya Sabha", "tamilword": "மாநிலங்களவை"}
+{"engword": "Lok Sabha", "tamilword": "மக்களவை"}
+{"engword": "Member of Parliament (MP)", "tamilword": "நாடாளுமன்ற உறுப்பினர்"}
+{"engword": "Member of Legislative Assembly (MLA)", "tamilword": "சட்டமன்ற உறுப்பினர்"}
+{"engword": "Speaker", "tamilword": "சபாநாயகர்"}
+{"engword": "Ordinance", "tamilword": "அவசரச் சட்டம்"}
+{"engword": "Writ", "tamilword": "நீதிப்பேராணை"}
+{"engword": "Supreme Court", "tamilword": "உச்ச நீதிமன்றம்"}
+{"engword": "High Court", "tamilword": "உயர் நீதிமன்றம்"}
+{"engword": "Chief Justice", "tamilword": "தலைமை நீதிபதி"}
+{"engword": "Public Interest Litigation (PIL)", "tamilword": "பொதுநல வழக்கு"}
+{"engword": "Attorney General", "tamilword": "இந்திய அரசின் தலைமை வழக்கறிஞர்"}
+{"engword": "Advocate General", "tamilword": "மாநில அரசின் தலைமை வழக்கறிஞர்"}
+{"engword": "Comptroller and Auditor General (CAG)", "tamilword": "இந்திய தலைமை தணிக்கையாளர்"}
+{"engword": "Election Commission", "tamilword": "தேர்தல் ஆணையம்"}
+{"engword": "Ballot Paper", "tamilword": "வாக்குச் சீட்டு"}
+{"engword": "EVM (Electronic Voting Machine)", "tamilword": "மின்னணு வாக்குப்பதிவு இயந்திரம்"}
+{"engword": "NOTA", "tamilword": "நோட்டா (யாருக்கும் வாக்களிக்க விருப்பமில்லை)"}
+{"engword": "Constituency", "tamilword": "தொகுதி"}
+{"engword": "Political Party", "tamilword": "அரசியல் கட்சி"}
+{"engword": "Coalition Government", "tamilword": "கூட்டணி அரசாங்கம்"}
+{"engword": "Opposition Party", "tamilword": "எதிர்க்கட்சி"}
+{"engword": "Local Self-Government", "tamilword": "உள்ளாட்சி அரசாங்கம்"}
+{"engword": "Panchayat Raj", "tamilword": "ஊராட்சி மன்றம்"}
+{"engword": "Municipality", "tamilword": "நகராட்சி"}
+{"engword": "Corporation", "tamilword": "மாநகராட்சி"}
+{"engword": "Mayor", "tamilword": "மேயர் / மாநகராட்சித் தலைவர்"}
+{"engword": "Human Rights", "tamilword": "மனித உரிமைகள்"}
+{"engword": "Child Labour", "tamilword": "குழந்தை தொழிலாளர்"}
+{"engword": "Gender Equality", "tamilword": "பாலின சமத்துவம்"}
+{"engword": "Foreign Policy", "tamilword": "வெளியுறவுக் கொள்கை"}
+{"engword": "Panchsheel", "tamilword": "பஞ்சசீலக் கொள்கை"}
+{"engword": "Non-Alignment (NAM)", "tamilword": "அணிசேராமை"}
+{"engword": "SAARC", "tamilword": "சார்க் (தெற்காசிய நாடுகளின் கூட்டமைப்பு)"}
+{"engword": "United Nations", "tamilword": "ஐக்கிய நாடுகள் சபை"}
+{"engword": "Security Council", "tamilword": "பாதுகாப்பு அவை"}
+{"engword": "Civil Services", "tamilword": "குடிமைப் பணிகள்"}
+{"engword": "Bureaucracy", "tamilword": "அதிகார வர்க்கம்"}
+{"engword": "Transparency", "tamilword": "வெளிப்படைத்தன்மை"}
+{"engword": "RTI (Right to Information)", "tamilword": "தகவல் அறியும் உரிமைச் சட்டம்"}
+{"engword": "Lokpal", "tamilword": "லோக்பால்"}
+{"engword": "Lokayukta", "tamilword": "லோக் ஆயுக்தா"}
+{"engword": "Anti-Defection Law", "tamilword": "கட்சித் தாவல் தடைச் சட்டம்"}
+{"engword": "Quorum", "tamilword": "குறைந்தபட்ச உறுப்பினர்கள் எண்ணிக்கை (குறம்)"}
+{"engword": "Bill", "tamilword": "மசோதா"}
+{"engword": "Money Bill", "tamilword": "நிதி மசோதா"}
+{"engword": "Resolution", "tamilword": "தீர்மானம்"}
+{"engword": "Veto", "tamilword": "மறுப்பாணை அதிகாரம்"}
+{"engword": "Impeachment", "tamilword": "பதவி நீக்கம் / குற்றச்சாட்டு"}
+{"engword": "Emergency", "tamilword": "அவசரநிலை"}
+{"engword": "Martial Law", "tamilword": "இராணுவச் சட்டம்"}
+{"engword": "Habeas Corpus", "tamilword": "ஆட்கொணர்வு நீதிப்பேராணை"}
+{"engword": "Mandamus", "tamilword": "கட்டளையுறுத்தும் நீதிப்பேராணை"}
+{"engword": "Prohibition (Legal)", "tamilword": "தடையுறுத்தும் நீதிப்பேராணை"}
+{"engword": "Certiorari", "tamilword": "நெறிமுறைப்படுத்தும் நீதிப்பேராணை"}
+{"engword": "Quo-Warranto", "tamilword": "தகுதி வினவும் நீதிப்பேராணை"}
+{"engword": "Separation of Powers", "tamilword": "அதிகாரப் பகிர்வு"}
+{"engword": "Checks and Balances", "tamilword": "அதிகாரக் கட்டுப்பாடுகள் மற்றும் சமநிலை"}
+{"engword": "Bicameralism", "tamilword": "ஈரவை முறை"}
+{"engword": "Unicameralism", "tamilword": "ஓரவை முறை"}
+{"engword": "Autocracy", "tamilword": "சர்வாதிகாரம்"}
+{"engword": "Aristocracy", "tamilword": "உயர்குடி ஆட்சி"}
+{"engword": "Monarchy", "tamilword": "முடியாட்சி"}
+{"engword": "Oligarchy", "tamilword": "சிறு குழு ஆட்சி"}
+{"engword": "Dictatorship", "tamilword": "சர்வாதிகார ஆட்சி"}
+{"engword": "Communalism", "tamilword": "வகுப்புவாதம்"}
+{"engword": "Regionalism", "tamilword": "வட்டாரவாதம்"}
+{"engword": "Nationalism", "tamilword": "தேசியம்"}
+{"engword": "Globalism", "tamilword": "உலகளாவிய நிலை"}
+{"engword": "Public Policy", "tamilword": "பொதுக் கொள்கை"}
+{"engword": "Welfare State", "tamilword": "நல அரசு"}
+{"engword": "Minority", "tamilword": "சிறுபான்மையினர்"}
+{"engword": "Majority", "tamilword": "பெரும்பான்மையினர்"}
+{"engword": "Direct Democracy", "tamilword": "நேரடி மக்களாட்சி"}
+{"engword": "Indirect Democracy", "tamilword": "மறைமுக மக்களாட்சி"}
+{"engword": "Representative Democracy", "tamilword": "பிரதிநிதித்துவ மக்களாட்சி"}
+{"engword": "Parliamentary System", "tamilword": "நாடாளுமன்ற முறை"}
+{"engword": "Presidential System", "tamilword": "அதிபர் ஆட்சி முறை"}
+{"engword": "Dual Citizenship", "tamilword": "இரட்டை குடியுரிமை"}
+{"engword": "Single Citizenship", "tamilword": "ஒற்றை குடியுரிமை"}
+{"engword": "Rule of Law", "tamilword": "சட்டத்தின் ஆட்சி"}
+{"engword": "Due Process of Law", "tamilword": "சட்டத்தின் உரிய நடைமுறை"}
+{"engword": "Procedure Established by Law", "tamilword": "சட்டத்தால் ஏற்படுத்தப்பட்ட நடைமுறை"}
+{"engword": "Privileges", "tamilword": "சலுகைகள்"}
+{"engword": "Discretionary Powers", "tamilword": "விருப்புரிமை அதிகாரங்கள்"}
+{"engword": "Pardon", "tamilword": "மன்னிப்பு (குடியரசுத் தலைவர் அதிகாரம்)"}
+{"engword": "Respite", "tamilword": "தண்டனைக் குறைப்பு"}
+{"engword": "Reprieve", "tamilword": "தண்டனை நிறுத்தம்"}
+{"engword": "Commutation", "tamilword": "தண்டனை மாற்றம்"}
+{"engword": "Remission", "tamilword": "தண்டனை காலம் குறைத்தல்"}
+{"engword": "Adjournment", "tamilword": "ஒத்திவைப்பு"}
+{"engword": "Prorogation", "tamilword": "அவை முடித்துவைத்தல்"}
+{"engword": "Dissolution", "tamilword": "அவை கலைப்பு"}
+{"engword": "Bye-election", "tamilword": "இடைத்தேர்தல்"}
+{"engword": "Mid-term Election", "tamilword": "இடைக்காலத் தேர்தல்"}
+{"engword": "General Election", "tamilword": "பொதுத் தேர்தல்"}
+{"engword": "Secret Ballot", "tamilword": "இரகசிய வாக்கெடுப்பு"}
+{"engword": "VVPAT", "tamilword": "வாக்கு உறுதிப்படுத்தும் கருவி"}
+{"engword": "Manifesto", "tamilword": "தேர்தல் அறிக்கை"}
+{"engword": "Pressure Groups", "tamilword": "அழுத்தக் குழுக்கள்"}
+{"engword": "Interest Groups", "tamilword": "நலக் குழுக்கள்"}
+{"engword": "Bureaucrat", "tamilword": "அதிகாரி"}
+{"engword": "Secretariat", "tamilword": "செயலகம்"}
+{"engword": "Chief Secretary", "tamilword": "தலைமைச் செயலாளர்"}
+{"engword": "Collector", "tamilword": "மாவட்ட ஆட்சியர்"}
+{"engword": "Commissioner", "tamilword": "ஆணையர்"}
+{"engword": "Jurisdiction", "tamilword": "அதிகார எல்லை"}
+{"engword": "Original Jurisdiction", "tamilword": "முதன்மை அதிகார எல்லை"}
+{"engword": "Appellate Jurisdiction", "tamilword": "மேல்முறையீட்டு அதிகார எல்லை"}
+{"engword": "Advisory Jurisdiction", "tamilword": "ஆலோசனை அதிகார எல்லை"}
+{"engword": "Contempt of Court", "tamilword": "நீதிமன்ற அவமதிப்பு"}
+{"engword": "Judicial Review", "tamilword": "நீதிப்புனராய்வு"}
+{"engword": "Judicial Activism", "tamilword": "நீதித்துறை செயல்பாடு"}
+{"engword": "Lok Adalat", "tamilword": "மக்கள் நீதிமன்றம்"}
+{"engword": "Fast Track Court", "tamilword": "விரைவு நீதிமன்றம்"}
+{"engword": "Gram Nyayalaya", "tamilword": "கிராம நீதிமன்றம்"}
+{"engword": "Civil Law", "tamilword": "உரிமையியல் சட்டம்"}
+{"engword": "Criminal Law", "tamilword": "குற்றவியல் சட்டம்"}
+{"engword": "FIR (First Information Report)", "tamilword": "முதல் தகவல் அறிக்கை"}
+{"engword": "Summon", "tamilword": "அழைப்பாணை"}
+{"engword": "Warrant", "tamilword": "பிடியாணை"}
+{"engword": "Bail", "tamilword": "பிணை"}
+{"engword": "Custody", "tamilword": "காவல்"}
+{"engword": "Conviction", "tamilword": "தண்டனைத் தீர்ப்பு"}
+{"engword": "Acquittal", "tamilword": "விடுதலை (குற்றச்சாட்டிலிருந்து)"}
+{"engword": "Testimony", "tamilword": "சாட்சியம்"}
+{"engword": "Affidavit", "tamilword": "ஆணையுறுதி ஆவணம்"}
+{"engword": "Plaintiff", "tamilword": "வாதி"}
+{"engword": "Defendant", "tamilword": "பிரதிவாதி"}
+{"engword": "Official Language", "tamilword": "அலுவலக மொழி"}
+{"engword": "Classical Language", "tamilword": "செம்மொழி"}
+{"engword": "Union List", "tamilword": "மத்தியப் பட்டியல்"}
+{"engword": "State List", "tamilword": "மாநிலப் பட்டியல்"}
+{"engword": "Concurrent List", "tamilword": "பொதுப் பட்டியல்"}
+{"engword": "Residuary Powers", "tamilword": "எஞ்சிய அதிகாரங்கள்"}
+{"engword": "Inter-State Council", "tamilword": "மாநிலங்களுக்கு இடையேயான குழு"}
+{"engword": "Finance Commission", "tamilword": "நிதி ஆணையம்"}
+{"engword": "Planning Commission", "tamilword": "திட்டக் குழு"}
+{"engword": "NITI Aayog", "tamilword": "நிதி ஆயோக்"}
+{"engword": "National Development Council", "tamilword": "தேசிய வளர்ச்சிக் குழு"}
+{"engword": "Zonal Council", "tamilword": "மண்டலக் குழு"}
+{"engword": "Unified Judiciary", "tamilword": "ஒருங்கிணைந்த நீதித்துறை"}
+{"engword": "Independence of Judiciary", "tamilword": "நீதித்துறை சுதந்திரம்"}
+{"engword": "Human Rights Commission", "tamilword": "மனித உரிமைகள் ஆணையம்"}
+{"engword": "Women’s Commission", "tamilword": "மகளிர் ஆணையம்"}
+{"engword": "Minority Commission", "tamilword": "சிறுபான்மையினர் ஆணையம்"}
+{"engword": "SC/ST Commission", "tamilword": "தாழ்த்தப்பட்டோர் மற்றும் பழங்குடியினர் ஆணையம்"}
+{"engword": "Backward Classes", "tamilword": "பிற்படுத்தப்பட்ட வகுப்பினர்"}
+{"engword": "Reservation", "tamilword": "இடஒதுக்கீடு"}
+{"engword": "Affirmative Action", "tamilword": "ஆக்கப்பூர்வமான நடவடிக்கை"}
+{"engword": "Social Justice", "tamilword": "சமூக நீதி"}
+{"engword": "Secularism", "tamilword": "மதச்சார்பின்மை"}
+{"engword": "Pluralism", "tamilword": "பன்முகத்தன்மை"}
+{"engword": "Tolerance", "tamilword": "சகிப்புத்தன்மை"}
+{"engword": "Corruption", "tamilword": "ஊழல்"}
+{"engword": "Red Tapism", "tamilword": "சிவப்பு நாடா முறை (காலதாமதம்)"}
+{"engword": "Good Governance", "tamilword": "நல்ஆட்சி"}
+{"engword": "E-Governance", "tamilword": "மின்-ஆளுமை"}
+{"engword": "Decentralization", "tamilword": "அதிகாரப் பரவலாக்கம்"}
+{"engword": "Accountability", "tamilword": "பொறுப்புடைமை"}
+{"engword": "Transparency", "tamilword": "வெளிப்படைத்தன்மை"}
+{"engword": "Public Opinion", "tamilword": "பொதுமக்களின் கருத்து"}
+{"engword": "Mass Media", "tamilword": "வெகுஜன ஊடகங்கள்"}
+{"engword": "Fourth Estate", "tamilword": "நான்காவது தூண் (ஊடகம்)"}
+{"engword": "Civil Society", "tamilword": "குடிமைச் சமூகம்"}
+{"engword": "Human Welfare", "tamilword": "மனித நலம்"}
+{"engword": "Right to Education (RTE)", "tamilword": "கல்வி உரிமைச் சட்டம்"}
+{"engword": "Right to Property", "tamilword": "சொத்துரிமை"}
+{"engword": "Freedom of Speech", "tamilword": "பேச்சுரிமை"}
+{"engword": "Freedom of Press", "tamilword": "பத்திரிகை சுதந்திரம்"}
+{"engword": "Preventive Detention", "tamilword": "தடுப்புக் காவல்"}
+{"engword": "Double Jeopardy", "tamilword": "இரட்டைத் தண்டனை முறை"}
+{"engword": "Ex-Post Facto Law", "tamilword": "முன் தேதியிட்ட சட்டங்கள்"}
+{"engword": "Self-Incrimination", "tamilword": "தனக்கு எதிரான சாட்சியம்"}
+{"engword": "Custodial Death", "tamilword": "காவல் மரணம்"}
+{"engword": "Domestic Violence", "tamilword": "குடும்ப வன்முறை"}
+{"engword": "POCSO Act", "tamilword": "போக்சோ சட்டம் (குழந்தைகள் பாதுகாப்பு)"}
+{"engword": "Juvenile Justice", "tamilword": "சிறார் நீதி"}
+{"engword": "Lok Sabha Speaker", "tamilword": "மக்களவைத் தலைவர்"}
+{"engword": "Chairman of Rajya Sabha", "tamilword": "மாநிலங்களவைத் தலைவர்"}
+{"engword": "Leader of the House", "tamilword": "சபை நாயகன் / அவைத் தலைவர்"}
+{"engword": "Leader of Opposition", "tamilword": "எதிர்க்கட்சித் தலைவர்"}
+{"engword": "Whip", "tamilword": "கொறடா"}
+{"engword": "Question Hour", "tamilword": "கேள்வி நேரம்"}
+{"engword": "Zero Hour", "tamilword": "பூஜ்ய நேரம்"}
+{"engword": "Starred Question", "tamilword": "நட்சத்திரக் குறியிட்ட கேள்வி"}
+{"engword": "Unstarred Question", "tamilword": "நட்சத்திரக் குறியிடாத கேள்வி"}
+{"engword": "Short Notice Question", "tamilword": "குறுகிய கால அறிவிப்பு வினா"}
+{"engword": "No-Confidence Motion", "tamilword": "நம்பிக்கையில்லாத் தீர்மானம்"}
+{"engword": "Censure Motion", "tamilword": "கண்டனத் தீர்மானம்"}
+{"engword": "Adjournment Motion", "tamilword": "ஒத்திவைப்புத் தீர்மானம்"}
+{"engword": "Appropriation Bill", "tamilword": "ஒதுக்கீட்டு மசோதா"}
+{"engword": "Budget", "tamilword": "நிதிநிலை அறிக்கை"}
+{"engword": "Consolidated Fund", "tamilword": "தொகுப்பு நிதி"}
+{"engword": "Contingency Fund", "tamilword": "அவசரகால நிதி"}
+{"engword": "Public Account", "tamilword": "பொதுக் கணக்கு"}
+{"engword": "Joint Sitting", "tamilword": "கூட்டுக்கூட்டம்"}
+{"engword": "Ordinary Bill", "tamilword": "சாதாரண மசோதா"}
+{"engword": "Constitutional Amendment Bill", "tamilword": "அரசியலமைப்பு திருத்த மசோதா"}
+{"engword": "Simple Majority", "tamilword": "எளிய பெரும்பான்மை"}
+{"engword": "Special Majority", "tamilword": "சிறப்புப் பெரும்பான்மை"}
+{"engword": "Absolute Majority", "tamilword": "அறுதிப் பெரும்பான்மை"}
+{"engword": "Effective Majority", "tamilword": "பயனுள்ள பெரும்பான்மை"}
+{"engword": "Territorial Integrity", "tamilword": "நிலப்பரப்பு ஒருமைப்பாடு"}
+{"engword": "Diplomatic Immunity", "tamilword": "தூதரக பாதுகாப்பு"}
+{"engword": "Extradition", "tamilword": "குற்றவாளி ஒப்படைப்பு"}
+{"engword": "Asylum", "tamilword": "தஞ்சம்"}
+{"engword": "Refugee", "tamilword": "அகதி"}
+{"engword": "Stateless Person", "tamilword": "நாடற்றவர்"}
+{"engword": "Dual Nationality", "tamilword": "இரட்டைத் தேசியம்"}
+{"engword": "Naturalization", "tamilword": "இயல்புரிமை (குடியுரிமை)"}
+{"engword": "Renunciation", "tamilword": "குடியுரிமைத் துறப்பு"}
+{"engword": "Termination", "tamilword": "குடியுரிமை முடிவுக்கு வருதல்"}
+{"engword": "Deprivation", "tamilword": "குடியுரிமை இழத்தல்"}
+{"engword": "Preamble", "tamilword": "முகவுரை"}
+{"engword": "Magna Carta", "tamilword": "மகா சாசனம்"}
+{"engword": "Cabinet Mission", "tamilword": "அமைச்சரவைத் தூதுக்குழு"}
+{"engword": "Drafting Committee", "tamilword": "வரைவுக் குழு"}
+{"engword": "Constituent Assembly", "tamilword": "அரசியலமைப்பு நிர்ணய சபை"}
+{"engword": "Objectives Resolution", "tamilword": "குறிக்கோள் தீர்மானம்"}
+{"engword": "Legal Rights", "tamilword": "சட்டப்பூர்வ உரிமைகள்"}
+{"engword": "Moral Rights", "tamilword": "அறநெறி உரிமைகள்"}
+{"engword": "Natural Rights", "tamilword": "இயற்கை உரிமைகள்"}
+{"engword": "Political Rights", "tamilword": "அரசியல் உரிமைகள்"}
+{"engword": "Economic Rights", "tamilword": "பொருளாதார உரிமைகள்"}
+{"engword": "Civil Liberties", "tamilword": "குடிமைச் சுதந்திரம்"}
+{"engword": "Universal Declaration of Human Rights (UDHR)", "tamilword": "உலகளாவிய மனித உரிமைகள் பிரகடனம்"}
+{"engword": "State of Emergency", "tamilword": "அவசரநிலை பிரகடனம்"}
+{"engword": "National Emergency", "tamilword": "தேசிய அவசரநிலை"}
+{"engword": "State Emergency", "tamilword": "மாநில அவசரநிலை (குடியரசுத் தலைவர் ஆட்சி)"}
+{"engword": "Financial Emergency", "tamilword": "நிதி அவசரநிலை"}
+{"engword": "Collective Responsibility", "tamilword": "கூட்டுப் பொறுப்பு"}
+{"engword": "Individual Responsibility", "tamilword": "தனிநபர் பொறுப்பு"}
+{"engword": "Civil Code", "tamilword": "பொது சிவில் சட்டம்"}
+{"engword": "Criminal Procedure Code (CrPC)", "tamilword": "குற்றவியல் நடைமுறைச் சட்டம்"}
+{"engword": "Indian Penal Code (IPC)", "tamilword": "இந்தியத் தண்டனைச் சட்டம்"}
+{"engword": "Evidence Act", "tamilword": "சாட்சியச் சட்டம்"}
+{"engword": "Case Law", "tamilword": "முன்னுதாரண வழக்குச் சட்டம்"}
+{"engword": "Statutory Body", "tamilword": "சட்டப்பூர்வ அமைப்பு"}
+{"engword": "Constitutional Body", "tamilword": "அரசியலமைப்புச் சார்ந்த அமைப்பு"}
+{"engword": "Quasi-Judicial Body", "tamilword": "பகுதி-நீதித்துறை அமைப்பு"}
+{"engword": "Autonomous Body", "tamilword": "தன்னாட்சி அமைப்பு"}
+{"engword": "Decentralized Planning", "tamilword": "அதிகாரப் பரவலாக்கப்பட்டத் திட்டம்"}
+{"engword": "Bottom-up Approach", "tamilword": "கீழ்மட்டத்திலிருந்து மேல் நோக்கிய அணுகுமுறை"}
+{"engword": "Top-down Approach", "tamilword": "மேலிருந்து கீழ் நோக்கிய அணுகுமுறை"}
+{"engword": "Public Administration", "tamilword": "பொது நிர்வாகம்"}
+{"engword": "Local Governance", "tamilword": "உள்ளூர் ஆளுமை"}
+{"engword": "Urbanization", "tamilword": "நகரமயமாக்கல்"}
+{"engword": "Rural Development", "tamilword": "கிராமப்புற வளர்ச்சி"}
+{"engword": "Smart City", "tamilword": "சீர்மிகு நகரம்"}
+{"engword": "Cantonment Board", "tamilword": "இராணுவக் குடியிருப்பு வாரியம்"}
+{"engword": "Port Trust", "tamilword": "துறைமுகப் பொறுப்புக் கழகம்"}
+{"engword": "Town Panchayat", "tamilword": "பேரூராட்சி"}
+{"engword": "District Panchayat", "tamilword": "மாவட்ட ஊராட்சி"}
+{"engword": "Panchayat Union", "tamilword": "ஊராட்சி ஒன்றியம்"}
+{"engword": "Village Panchayat", "tamilword": "கிராம ஊராட்சி"}
+{"engword": "Gram Sabha", "tamilword": "கிராம சபை"}
+{"engword": "Ward Member", "tamilword": "வார்டு உறுப்பினர்"}
+{"engword": "Councillor", "tamilword": "கவுன்சிலர் / மன்ற உறுப்பினர்"}
+{"engword": "Aldermen", "tamilword": "மூத்த உறுப்பினர்"}
+{"engword": "Delimitation", "tamilword": "தொகுதி மறுவரையறை"}
+{"engword": "Electoral Roll", "tamilword": "வாக்காளர் பட்டியல்"}
+{"engword": "Voter ID", "tamilword": "வாக்காளர் அடையாள அட்டை"}
+{"engword": "Polling Station", "tamilword": "வாக்குச்சாவடி"}
+{"engword": "Returning Officer", "tamilword": "தேர்தல் நடத்தும் அலுவலர்"}
+{"engword": "Presiding Officer", "tamilword": "தலைமை அலுவலர் (வாக்குச்சாவடி)"}
+{"engword": "Model Code of Conduct", "tamilword": "தேர்தல் நடத்தை விதிகள்"}
+{"engword": "Exit Poll", "tamilword": "தேர்தல் முடிவுக்கு பிந்தைய கருத்துக்கணிப்பு"}
+{"engword": "Opinion Poll", "tamilword": "தேர்தலுக்கு முந்தைய கருத்துக்கணிப்பு"}
+{"engword": "Secular State", "tamilword": "மதச்சார்பற்ற அரசு"}
+{"engword": "Theocracy", "tamilword": "மத குருமார்களின் ஆட்சி"}
+{"engword": "Sovereignty", "tamilword": "இறையாண்மை"}
+{"engword": "Legal Sovereignty", "tamilword": "சட்டரீதியான இறையாண்மை"}
+{"engword": "Political Sovereignty", "tamilword": "அரசியல் ரீதியான இறையாண்மை"}
+{"engword": "Internal Sovereignty", "tamilword": "உள்நாட்டு இறையாண்மை"}
+{"engword": "External Sovereignty", "tamilword": "வெளிநாட்டு இறையாண்மை"}
+{"engword": "Pluralist Theory", "tamilword": "பன்மைத்துவக் கொள்கை"}
+{"engword": "Elite Theory", "tamilword": "உயர்மட்டக் கொள்கை"}
+{"engword": "Power", "tamilword": "அதிகாரம்"}
+{"engword": "Authority", "tamilword": "அதிகாரம் / மேலாண்மை"}
+{"engword": "Legitimacy", "tamilword": "சட்டபூர்வத் தன்மை"}
+{"engword": "Influence", "tamilword": "செல்வாக்கு"}
+{"engword": "Ideology", "tamilword": "சித்தாந்தம் / கொள்கை"}
+{"engword": "Liberalism", "tamilword": "தாராளவாதம்"}
+{"engword": "Neoliberalism", "tamilword": "நவதாராளவாதம்"}
+{"engword": "Marxism", "tamilword": "மார்க்சியம்"}
+{"engword": "Leninism", "tamilword": "லெனினிசம்"}
+{"engword": "Gandhism", "tamilword": "காந்தியம்"}
+{"engword": "Socialism", "tamilword": "சமூகவாதம்"}
+{"engword": "Communism", "tamilword": "பொதுவுடைமை வாதம்"}
+{"engword": "Fascism", "tamilword": "பாசிசம்"}
+{"engword": "Nazism", "tamilword": "நாசிசம்"}
+{"engword": "Feminism", "tamilword": "பெண்ணியம்"}
+{"engword": "Environmentalism", "tamilword": "சூழலியல் வாதம்"}
+{"engword": "Postmodernism", "tamilword": "பின்நவீனத்துவம்"}
+{"engword": "Globalization", "tamilword": "உலகமயமாதல்"}
+{"engword": "Sovereignty of Parliament", "tamilword": "நாடாளுமன்ற இறையாண்மை"}
+{"engword": "Rule of Law", "tamilword": "சட்டத்தின் ஆட்சி"}
+{"engword": "Separation of Powers", "tamilword": "அதிகாரப் பிரிவினை"}
+{"engword": "Administrative Law", "tamilword": "நிர்வாகச் சட்டம்"}
+{"engword": "Delegated Legislation", "tamilword": "ஒப்படைக்கப்பட்ட சட்டவாக்கம்"}
+{"engword": "Public Law", "tamilword": "பொதுச் சட்டம்"}
+{"engword": "Private Law", "tamilword": "தனியார் சட்டம்"}
+{"engword": "International Law", "tamilword": "சர்வதேசச் சட்டம்"}
+{"engword": "Treaties", "tamilword": "உடன்படிக்கைகள்"}
+{"engword": "Conventions", "tamilword": "மாநாடுகள் / மரபுகள்"}
+{"engword": "Protocol", "tamilword": "நெறிமுறை"}
+{"engword": "Diplomacy", "tamilword": "ராஜதந்திரம்"}
+{"engword": "Foreign Policy", "tamilword": "அயலுறவுக் கொள்கை"}
+{"engword": "Bilateralism", "tamilword": "இருதரப்பு உறவு"}
+{"engword": "Multilateralism", "tamilword": "பலதரப்பு உறவு"}
+{"engword": "Detente", "tamilword": "பதற்றக் குறைப்பு"}
+{"engword": "Cold War", "tamilword": "பனிப்போர்"}
+{"engword": "Disarmament", "tamilword": "ஆயுதக் குறைப்பு"}
+{"engword": "Non-proliferation", "tamilword": "ஆயுதப் பரவல் தடை"}
+{"engword": "Terrorism", "tamilword": "பயங்கரவாதம்"}
+{"engword": "Human Rights", "tamilword": "மனித உரிமைகள்"}
+{"engword": "Civil Rights", "tamilword": "குடிமை உரிமைகள்"}
+{"engword": "Political Rights", "tamilword": "அரசியல் உரிமைகள்"}
+{"engword": "Economic Rights", "tamilword": "பொருளாதார உரிமைகள்"}
+{"engword": "Social Rights", "tamilword": "சமூக உரிமைகள்"}
+{"engword": "Cultural Rights", "tamilword": "கலாச்சார உரிமைகள்"}
+{"engword": "Solidarity", "tamilword": "ஒற்றுமை / ஒருமைப்பாடு"}
+{"engword": "Universalism", "tamilword": "உலகளாவிய நிலை"}
+{"engword": "Citizenship", "tamilword": "குடியுரிமை"}
+{"engword": "Alien", "tamilword": "அந்நியர்"}
+{"engword": "Resident", "tamilword": "வசிப்பவர்"}
+{"engword": "Non-Resident Indian (NRI)", "tamilword": "வெளிநாடு வாழ் இந்தியர்"}
+{"engword": "Person of Indian Origin (PIO)", "tamilword": "இந்திய வம்சாவளியைச் சேர்ந்தவர்"}
+{"engword": "Overseas Citizen of India (OCI)", "tamilword": "வெளிநாட்டு இந்தியக் குடியுரிமை அட்டை வைத்திருப்பவர்"}
+{"engword": "Natural Rights", "tamilword": "இயற்கை உரிமைகள்"}
+{"engword": "Social Contract", "tamilword": "சமூக ஒப்பந்தம்"}
+{"engword": "General Will", "tamilword": "பொது விருப்பம்"}
+{"engword": "Utilitarianism", "tamilword": "பயன்பாட்டு வாதம்"}
+{"engword": "State of Nature", "tamilword": "இயற்கை நிலை"}
+{"engword": "Anarchism", "tamilword": "அராஜகவாதம் / அரசு இல்லா நிலை"}
+{"engword": "Welfare State", "tamilword": "நல அரசு"}
+{"engword": "Meritocracy", "tamilword": "தகுதியாட்சி"}
+{"engword": "Technocracy", "tamilword": "தொழில்நுட்ப வல்லுநர் ஆட்சி"}
+{"engword": "Bureaucratic State", "tamilword": "அதிகார வர்க்க அரசு"}
+{"engword": "Civil Society", "tamilword": "குடிமைச் சமூகம்"}
+{"engword": "Public Sphere", "tamilword": "பொது வெளி"}
+{"engword": "Social Capital", "tamilword": "சமூக மூலதனம்"}
+{"engword": "Civic Engagement", "tamilword": "குடிமை ஈடுபாடு"}
+{"engword": "Political Socialization", "tamilword": "அரசியல் சமூகமயமாக்கல்"}
+{"engword": "Political Culture", "tamilword": "அரசியல் கலாச்சாரம்"}
+{"engword": "Political Participation", "tamilword": "அரசியல் பங்கேற்பு"}
+{"engword": "Voting Behavior", "tamilword": "வாக்களிப்பு நடத்தை"}
+{"engword": "Political Communication", "tamilword": "அரசியல் தகவல் தொடர்பு"}
+{"engword": "Public Opinion", "tamilword": "பொதுமக்களின் கருத்து"}
+{"engword": "Propaganda", "tamilword": "பரப்புரை"}
+{"engword": "Lobbying", "tamilword": "செல்வாக்கு செலுத்துதல்"}
+{"engword": "Pressure Group", "tamilword": "அழுத்தக் குழு"}
+{"engword": "Social Movement", "tamilword": "சமூக இயக்கம்"}
+{"engword": "Protest", "tamilword": "போராட்டம்"}
+{"engword": "Revolution", "tamilword": "புரட்சி"}
+{"engword": "Coup d’etat", "tamilword": "இராணுவப் புரட்சி / ஆட்சி கவிழ்ப்பு"}
+{"engword": "Insurgency", "tamilword": "கிளர்ச்சி"}
+{"engword": "Terrorism", "tamilword": "பயங்கரவாதம்"}
+{"engword": "Separatism", "tamilword": "பிரிவினைவாதம்"}
+{"engword": "Self-determination", "tamilword": "சுயநிர்ணயம்"}
+{"engword": "Autonomy", "tamilword": "தன்னாட்சி"}
+{"engword": "Federalism", "tamilword": "கூட்டாட்சி முறை"}
+{"engword": "Devolution", "tamilword": "அதிகாரப் பகிர்வு"}
+{"engword": "Centralization", "tamilword": "மையப்படுத்தல்"}
+{"engword": "Decentralization", "tamilword": "அதிகாரப் பரவலாக்கம்"}
+{"engword": "Good Governance", "tamilword": "நல்லாட்சி"}
+{"engword": "Accountability", "tamilword": "பொறுப்புடைமை"}
+{"engword": "Transparency", "tamilword": "வெளிப்படைத்தன்மை"}
+{"engword": "Responsiveness", "tamilword": "பதில்வினையாற்றும் தன்மை"}
+{"engword": "Rule of Law", "tamilword": "சட்டத்தின் ஆட்சி"}
+{"engword": "Human Development", "tamilword": "மனித மேம்பாடு"}
+{"engword": "Sustainable Development", "tamilword": "நிலையான மேம்பாடு"}
+{"engword": "Social Equality", "tamilword": "சமூகச் சமத்துவம்"}
+{"engword": "Gender Justice", "tamilword": "பாலின நீதி"}
+{"engword": "Inclusiveness", "tamilword": "உள்ளடக்கியத் தன்மை"}
+{"engword": "Empowerment", "tamilword": "அதிகாரமளித்தல்"}
+{"engword": "Social Integration", "tamilword": "சமூக ஒருங்கிணைப்பு"}
+{"engword": "Poverty Alleviation", "tamilword": "வறுமை ஒழிப்பு"}
+{"engword": "Public Service", "tamilword": "பொதுச் சேவை"}
+{"engword": "Civil Service Reform", "tamilword": "குடிமைப் பணி சீர்திருத்தம்"}
+{"engword": "Ombudsman", "tamilword": "குறைதீர்ப்பாளர் (லோக்பால்)"}
+{"engword": "Ethics in Governance", "tamilword": "ஆளுமையில் அறநெறிகள்"}
+{"engword": "Code of Conduct", "tamilword": "நடத்தை விதிகள்"}
+{"engword": "Whistleblower", "tamilword": "ஊழலை வெளிப்படுத்துபவர்"}
+{"engword": "Conflict of Interest", "tamilword": "நலன்களுக்கு இடையேயான முரண்பாடு"}
+{"engword": "Political Party System", "tamilword": "அரசியல் கட்சி முறை"}
+{"engword": "One-party System", "tamilword": "ஒரு கட்சி முறை"}
+{"engword": "Two-party System", "tamilword": "இரு கட்சி முறை"}
+{"engword": "Multi-party System", "tamilword": "பல கட்சி முறை"}
+{"engword": "National Party", "tamilword": "தேசியக் கட்சி"}
+{"engword": "Regional Party", "tamilword": "வட்டாரக் கட்சி / மாநிலக் கட்சி"}
+{"engword": "Inner-party Democracy", "tamilword": "உட்கட்சி மக்களாட்சி"}
+{"engword": "Party Funding", "tamilword": "கட்சி நிதி"}
+{"engword": "Electoral Reforms", "tamilword": "தேர்தல் சீர்திருத்தங்கள்"}
+{"engword": "Universal Adult Suffrage", "tamilword": "உலகளாவிய வயது வந்தோர் வாக்குரிமை"}
+{"engword": "Proportional Representation", "tamilword": "விகிதாச்சாரப் பிரதிநிதித்துவம்"}
+{"engword": "First-past-the-post System", "tamilword": "முதலில் வெற்றி பெறுபவர் முறை"}
+{"engword": "Simple Majority", "tamilword": "எளிய பெரும்பான்மை"}
+{"engword": "Plurality", "tamilword": "பெரும்பான்மை (வாக்கு)"}
+{"engword": "Minority Government", "tamilword": "சிறுபான்மை அரசு"}
+{"engword": "Hung Parliament", "tamilword": "தொங்கு நாடாளுமன்றம்"}
+{"engword": "Caretaker Government", "tamilword": "காபந்து அரசாங்கம்"}
+{"engword": "Shadow Cabinet", "tamilword": "நிழல் அமைச்சரவை"}
+{"engword": "Kitchen Cabinet", "tamilword": "சமையலறை அமைச்சரவை (நெருக்கமான குழு)"}
+{"engword": "Collective Leadership", "tamilword": "கூட்டுத் தலைமை"}
+{"engword": "Charismatic Leadership", "tamilword": "கவர்ச்சிகரமான தலைமை"}
+{"engword": "Populism", "tamilword": "மக்கள் கவர்ச்சிவாதம்"}
+{"engword": "Demagogy", "tamilword": "உணர்ச்சித்தூண்டல் பேச்சுத் தலைமை"}
+{"engword": "Statecraft", "tamilword": "அரசியல் கலை / ஆளுமைத் திறன்"}
+{"engword": "Realpolitik", "tamilword": "எதார்த்த அரசியல்"}
+{"engword": "Diplomacy", "tamilword": "ராஜதந்திரம்"}
+{"engword": "Hard Power", "tamilword": "இராணுவ/பொருளாதார வலிமை"}
+{"engword": "Soft Power", "tamilword": "பண்பாட்டு/கருத்தியல் செல்வாக்கு"}
+{"engword": "Balance of Power", "tamilword": "அதிகாரச் சமநிலை"}
+{"engword": "Geopolitics", "tamilword": "புவிசார் அரசியல்"}
+{"engword": "Internationalism", "tamilword": "சர்வதேசவாதம்"}
+{"engword": "Regional Cooperation", "tamilword": "பிராந்திய ஒத்துழைப்பு"}
+{"engword": "Collective Security", "tamilword": "கூட்டுப் பாதுகாப்பு"}
+{"engword": "Peaceful Coexistence", "tamilword": "அமைதியான சகவாழ்வு"}
+{"engword": "Non-intervention", "tamilword": "தலையிடாமை"}
+{"engword": "Humanitarian Aid", "tamilword": "மனிதநேய உதவி"}
+{"engword": "Peacekeeping", "tamilword": "அமைதி காப்பு நடவடிக்கை"}
+{"engword": "Sanctions", "tamilword": "தடைகள் (சர்வதேச)"}
+{"engword": "Embargo", "tamilword": "வணிகத் தடை"}
+{"engword": "Cold Peace", "tamilword": "குளிர் அமைதி"}
+{"engword": "Bipolarity", "tamilword": "இருமுனை உலகம்"}
+{"engword": "Unipolarity", "tamilword": "ஒருமுனை உலகம்"}
+{"engword": "Multipolarity", "tamilword": "பலமுனை உலகம்"}
+{"engword": "Global South", "tamilword": "வளர்ந்து வரும் நாடுகள் (தெற்கு உலகம்)"}
+{"engword": "Hegemony", "tamilword": "மேலாதிக்கம்"}
+{"engword": "Decolonization", "tamilword": "காலனி ஆதிக்க நீக்கம்"}
+{"engword": "Neo-colonialism", "tamilword": "நவீன காலனி ஆதிக்கம்"}
+{"engword": "Cultural Imperialism", "tamilword": "கலாச்சார ஏகாதிபத்தியம்"}
+{"engword": "National Interest", "tamilword": "தேசிய நலன்"}
+{"engword": "Diplomacy", "tamilword": "ராஜதந்திரம்"}
+{"engword": "Envoy", "tamilword": "தூதுவர்"}
+{"engword": "Ambassador", "tamilword": "உயர் தூதுவர்"}
+{"engword": "High Commissioner", "tamilword": "உயர் ஆணையர் (காமன்வெல்த்)"}
+{"engword": "Consul", "tamilword": "வணிகத் தூதுவர்"}
+{"engword": "Embassy", "tamilword": "தூதரகம்"}
+{"engword": "Consulate", "tamilword": "துணைத் தூதரகம்"}
+{"engword": "Extradition Treaty", "tamilword": "குற்றவாளிகள் ஒப்படைப்பு ஒப்பந்தம்"}
+{"engword": "Non-Aggression Pact", "tamilword": "ஆக்கிரமிப்பு செய்யாத ஒப்பந்தம்"}
+{"engword": "Armistice", "tamilword": "போர்க்கருவித் தவிர்ப்பு / போர் நிறுத்தம்"}
+{"engword": "Ceasefire", "tamilword": "போர் நிறுத்தம்"}
+{"engword": "Buffer State", "tamilword": "இடைப்படு நாடு"}
+{"engword": "Protectorate", "tamilword": "பாதுகாக்கப்பட்ட அரசு"}
+{"engword": "Suzerainty", "tamilword": "மேலாதிக்கம்"}
+{"engword": "Client State", "tamilword": "சார்ந்திருக்கும் அரசு"}
+{"engword": "Failed State", "tamilword": "தோல்வியடைந்த அரசு"}
+{"engword": "Rogue State", "tamilword": "அடங்காத அரசு"}
+{"engword": "Sovereign Equality", "tamilword": "இறையாண்மை மிக்க சமத்துவம்"}
+{"engword": "Self-defense", "tamilword": "தற்காப்பு"}
+{"engword": "Territorial Waters", "tamilword": "கடல் எல்லை நீர்"}
+{"engword": "EEZ (Exclusive Economic Zone)", "tamilword": "தனிப்பட்ட பொருளாதார மண்டலம்"}
+{"engword": "Common Heritage of Mankind", "tamilword": "மனிதகுலத்தின் பொதுவான பாரம்பரியம்"}
+{"engword": "Public Policy", "tamilword": "பொதுக் கொள்கை"}
+{"engword": "Political Socialization", "tamilword": "அரசியல் சமூகமயமாக்கல்"}
+{"engword": "Elite theory", "tamilword": "உயரடுக்கு கோட்பாடு"}
+{"engword": "Pluralist theory", "tamilword": "பன்மைத்துவ கோட்பாடு"}
+{"engword": "Monism", "tamilword": "ஒற்றைப்படை வாதம்"}
+{"engword": "Rule of Men", "tamilword": "நபர்களின் ஆட்சி"}
+{"engword": "Rule of Law", "tamilword": "சட்டத்தின் ஆட்சி"}
+{"engword": "Judicial Review", "tamilword": "நீதிப்புனராய்வு"}
+{"engword": "Writ Jurisdiction", "tamilword": "பேராணை அதிகார எல்லை"}
+{"engword": "Original Jurisdiction", "tamilword": "அசல் அதிகார வரம்பு"}
+{"engword": "Fundamental Rights", "tamilword": "அடிப்படை உரிமைகள்"}
+{"engword": "State", "tamilword": "அரசு"}
+{"engword": "Government", "tamilword": "அரசாங்கம்"}
+{"engword": "Nation", "tamilword": "தேசம்"}
+{"engword": "Society", "tamilword": "சமூகம்"}
+{"engword": "Association", "tamilword": "சங்கம்"}
+{"engword": "Community", "tamilword": "சமூகம் / குழுமம்"}
+{"engword": "Public Administration", "tamilword": "பொது நிர்வாகம்"}
+{"engword": "Local Self Government", "tamilword": "உள்ளாட்சி அரசாங்கம்"}
+{"engword": "Economics", "tamilword": "பொருளாதாரம்"}
+{"engword": "Economy", "tamilword": "பொருளாதாரம் / பொருளாதார அமைப்பு"}
+{"engword": "Micro Economics", "tamilword": "நுண்ணினப் பொருளாதாரம்"}
+{"engword": "Macro Economics", "tamilword": "பேரியல் பொருளாதாரம்"}
+{"engword": "Wealth", "tamilword": "செல்வம்"}
+{"engword": "Welfare", "tamilword": "நலம்"}
+{"engword": "Scarcity", "tamilword": "பற்றாக்குறை"}
+{"engword": "Goods", "tamilword": "பொருள்கள் / பண்டங்கள்"}
+{"engword": "Services", "tamilword": "பணிகள்"}
+{"engword": "Consumption", "tamilword": "நுகர்வு"}
+{"engword": "Consumer", "tamilword": "நுகர்வோர்"}
+{"engword": "Utility", "tamilword": "பயன்பாடு"}
+{"engword": "Demand", "tamilword": "தேவை"}
+{"engword": "Supply", "tamilword": "அளிப்பு"}
+{"engword": "Market", "tamilword": "சந்தை"}
+{"engword": "Equilibrium", "tamilword": "சமநிலை"}
+{"engword": "Price", "tamilword": "விலை"}
+{"engword": "Value", "tamilword": "மதிப்பு"}
+{"engword": "Production", "tamilword": "உற்பத்தி"}
+{"engword": "Factors of Production", "tamilword": "உற்பத்திக் காரணிகள்"}
+{"engword": "Land", "tamilword": "நிலம்"}
+{"engword": "Labour", "tamilword": "உழைப்பு"}
+{"engword": "Capital", "tamilword": "மூலதனம்"}
+{"engword": "Organization / Entrepreneurship", "tamilword": "தொழில் அமைப்பு / தொழில்முனைவு"}
+{"engword": "Entrepreneur", "tamilword": "தொழில்முனைவோர்"}
+{"engword": "Rent", "tamilword": "வாரம் / வாடகை"}
+{"engword": "Wages", "tamilword": "கூலி"}
+{"engword": "Interest", "tamilword": "வட்டி"}
+{"engword": "Profit", "tamilword": "லாபம்"}
+{"engword": "Distribution", "tamilword": "பகிர்வு"}
+{"engword": "National Income", "tamilword": "நாட்டு வருமானம்"}
+{"engword": "GDP (Gross Domestic Product)", "tamilword": "மொத்த உள்நாட்டு உற்பத்தி"}
+{"engword": "GNP (Gross National Product)", "tamilword": "மொத்த நாட்டு உற்பத்தி"}
+{"engword": "NNP (Net National Product)", "tamilword": "நிகர நாட்டு உற்பத்தி"}
+{"engword": "Per Capita Income", "tamilword": "தலா வருமானம்"}
+{"engword": "Disposable Income", "tamilword": "செலவிடத்தக்க வருமானம்"}
+{"engword": "Standard of Living", "tamilword": "வாழ்க்கைத்தரம்"}
+{"engword": "Inflation", "tamilword": "பணவீக்கம்"}
+{"engword": "Deflation", "tamilword": "பணவாட்டம்"}
+{"engword": "Stagflation", "tamilword": "தேக்கவீக்கம்"}
+{"engword": "Business Cycle", "tamilword": "வணிகச் சுழற்சி"}
+{"engword": "Boom / Prosperity", "tamilword": "உச்சம் / செழிப்பு"}
+{"engword": "Recession", "tamilword": "பின்னிறக்கம்"}
+{"engword": "Depression", "tamilword": "மந்தம்"}
+{"engword": "Recovery", "tamilword": "மீட்சி"}
+{"engword": "Money", "tamilword": "பணம்"}
+{"engword": "Barter System", "tamilword": "பண்டமாற்று முறை"}
+{"engword": "Currency", "tamilword": "காகிதப் பணம் / செலாவணி"}
+{"engword": "Coins", "tamilword": "நாணயங்கள்"}
+{"engword": "Banking", "tamilword": "வங்கியியல்"}
+{"engword": "Central Bank", "tamilword": "மத்திய வங்கி"}
+{"engword": "Commercial Bank", "tamilword": "வணிக வங்கி"}
+{"engword": "Monetary Policy", "tamilword": "பணவியல் கொள்கை"}
+{"engword": "Fiscal Policy", "tamilword": "நிதிக் கொள்கை"}
+{"engword": "Budget", "tamilword": "நிதிநிலை அறிக்கை"}
+{"engword": "Public Finance", "tamilword": "பொது நிதி"}
+{"engword": "Tax", "tamilword": "வரி"}
+{"engword": "Direct Tax", "tamilword": "நேர்முக வரி"}
+{"engword": "Indirect Tax", "tamilword": "மறைமுக வரி"}
+{"engword": "Income Tax", "tamilword": "வருமான வரி"}
+{"engword": "Corporate Tax", "tamilword": "நிறுவன வரி"}
+{"engword": "Wealth Tax", "tamilword": "செல்வ வரி"}
+{"engword": "GST (Goods and Services Tax)", "tamilword": "சரக்கு மற்றும் சேவை வரி"}
+{"engword": "Excise Duty", "tamilword": "கலால் வரி"}
+{"engword": "Customs Duty", "tamilword": "சுங்க வரி"}
+{"engword": "Public Debt", "tamilword": "பொதுக் கடன்"}
+{"engword": "Revenue", "tamilword": "வருவாய்"}
+{"engword": "Expenditure", "tamilword": "செலவினம்"}
+{"engword": "Deficit", "tamilword": "பற்றாக்குறை"}
+{"engword": "Surplus", "tamilword": "உபரி"}
+{"engword": "Planning", "tamilword": "திட்டமிடல்"}
+{"engword": "Economic Growth", "tamilword": "பொருளாதார வளர்ச்சி"}
+{"engword": "Economic Development", "tamilword": "பொருளாதார முன்னேற்றம்"}
+{"engword": "Sustainable Development", "tamilword": "நிலையான வளர்ச்சி"}
+{"engword": "Human Development Index (HDI)", "tamilword": "மனித வள மேம்பாட்டு குறியீடு"}
+{"engword": "Poverty", "tamilword": "வறுமை"}
+{"engword": "Unemployment", "tamilword": "வேலையின்மை"}
+{"engword": "Underemployment", "tamilword": "குறை வேலைவாய்ப்பு"}
+{"engword": "Seasonal Unemployment", "tamilword": "பருவக்கால வேலையின்மை"}
+{"engword": "Rural Economics", "tamilword": "ஊரகப் பொருளாதாரம்"}
+{"engword": "Urban Economics", "tamilword": "நகர்ப்புறப் பொருளாதாரம்"}
+{"engword": "Agriculture", "tamilword": "வேளாண்மை"}
+{"engword": "Industry", "tamilword": "தொழில்"}
+{"engword": "Small Scale Industry", "tamilword": "சிறு தொழில்"}
+{"engword": "Cottage Industry", "tamilword": "குடிசைத் தொழில்"}
+{"engword": "Globalization", "tamilword": "உலகமயமாதல்"}
+{"engword": "Liberalization", "tamilword": "தாராளமயமாதல்"}
+{"engword": "Privatization", "tamilword": "தனியார்மயமாதல்"}
+{"engword": "Disinvestment", "tamilword": "முதலீட்டு விலக்கல்"}
+{"engword": "Foreign Direct Investment (FDI)", "tamilword": "அந்நிய நேரடி முதலீடு"}
+{"engword": "Trade", "tamilword": "வணிகம் / வர்த்தகம்"}
+{"engword": "International Trade", "tamilword": "பன்னாட்டு வாணிபம்"}
+{"engword": "Export", "tamilword": "ஏற்றுமதி"}
+{"engword": "Import", "tamilword": "இறக்குமதி"}
+{"engword": "Balance of Trade", "tamilword": "வாணிபச் சமநிலை"}
+{"engword": "Balance of Payments", "tamilword": "செலுத்து நிலைச் சமநிலை"}
+{"engword": "Exchange Rate", "tamilword": "மாற்று விகிதம்"}
+{"engword": "Devaluation", "tamilword": "பணமதிப்புக் குறைப்பு"}
+{"engword": "Tariffs", "tamilword": "வணிக வரி / காப்பு வரி"}
+{"engword": "Quotas", "tamilword": "பங்கீடு"}
+{"engword": "Free Trade", "tamilword": "தடையற்ற வாணிபம்"}
+{"engword": "Protection", "tamilword": "காப்பு"}
+{"engword": "Infrastructure", "tamilword": "உள்கட்டமைப்பு"}
+{"engword": "Statistics", "tamilword": "புள்ளியியல்"}
+{"engword": "Data", "tamilword": "தரவு"}
+{"engword": "Sampling", "tamilword": "கூறெடுப்பு"}
+{"engword": "Mean", "tamilword": "சராசரி"}
+{"engword": "Median", "tamilword": "இடைநிலை"}
+{"engword": "Mode", "tamilword": "முகடு"}
+{"engword": "Standard Deviation", "tamilword": "திட்டவிலக்கம்"}
+{"engword": "Correlation", "tamilword": "ஒட்டுறவு"}
+{"engword": "Regression", "tamilword": "உடன்புடை நகர்வு"}
+{"engword": "Index Numbers", "tamilword": "குறியீட்டு எண்கள்"}
+{"engword": "Time Series", "tamilword": "காலத் தொடர் வரிசை"}
+{"engword": "Logistics", "tamilword": "சரக்கு கையாளுதல் / தளவாடங்கள்"}
+{"engword": "Supply Chain Management", "tamilword": "விநியோகச் சங்கிலி மேலாண்மை"}
+{"engword": "Management", "tamilword": "மேலாண்மை"}
+{"engword": "Administration", "tamilword": "நிர்வாகம்"}
+{"engword": "Leadership", "tamilword": "தலைமைப்பண்பு"}
+{"engword": "Motivation", "tamilword": "ஊக்கப்படுத்துதல்"}
+{"engword": "Decision Making", "tamilword": "முடிவெடுத்தல்"}
+{"engword": "Human Resources", "tamilword": "மனித வளம்"}
+{"engword": "Recruitment", "tamilword": "ஆள்சேர்ப்பு"}
+{"engword": "Training", "tamilword": "பயிற்சி"}
+{"engword": "Performance Appraisal", "tamilword": "பணித்திறன் மதிப்பாய்வு"}
+{"engword": "Marketing", "tamilword": "சந்தையியல்"}
+{"engword": "Advertising", "tamilword": "விளம்பரம்"}
+{"engword": "Branding", "tamilword": "முத்திரையிடல்"}
+{"engword": "Sales Promotion", "tamilword": "விற்பனைப் பெருக்கம்"}
+{"engword": "E-Commerce", "tamilword": "மின்னணு வணிகம்"}
+{"engword": "Digital Marketing", "tamilword": "டிஜிட்டல் சந்தையியல்"}
+{"engword": "Accounting", "tamilword": "கணக்கியல்"}
+{"engword": "Auditing", "tamilword": "தணிக்கையியல்"}
+{"engword": "Ledger", "tamilword": "பேரேடு"}
+{"engword": "Journal", "tamilword": "குறிப்பேடு"}
+{"engword": "Balance Sheet", "tamilword": "இருப்புநிலைக் குறிப்பு"}
+{"engword": "Profit and Loss Account", "tamilword": "லாப நட்டக் கணக்கு"}
+{"engword": "Assets", "tamilword": "சொத்துக்கள்"}
+{"engword": "Liabilities", "tamilword": "பொறுப்புகள்"}
+{"engword": "Capital", "tamilword": "முதல் / மூலதனம்"}
+{"engword": "Stock / Inventory", "tamilword": "சரக்கிருப்பு"}
+{"engword": "Shares", "tamilword": "பங்குகள்"}
+{"engword": "Dividends", "tamilword": "பங்காதாயம்"}
+{"engword": "Debentures", "tamilword": "கடன் பத்திரங்கள்"}
+{"engword": "Stock Exchange", "tamilword": "பங்குச் சந்தை"}
+{"engword": "Insurance", "tamilword": "காப்பீடு"}
+{"engword": "Premium", "tamilword": "முனைமம்"}
+{"engword": "Credit", "tamilword": "கடன்"}
+{"engword": "Debit", "tamilword": "பற்று"}
+{"engword": "Black Money", "tamilword": "கருப்புப் பணம்"}
+{"engword": "Demonetization", "tamilword": "பணமதிப்பு நீக்கம்"}
+{"engword": "Money Laundering", "tamilword": "பணச் சலவை (சட்டவிரோத பணத்தை மாற்றுதல்)"}
+{"engword": "Poverty Line", "tamilword": "வறுமைக் கோடு"}
+{"engword": "Food Security", "tamilword": "உணவுப் பாதுகாப்பு"}
+{"engword": "Public Distribution System (PDS)", "tamilword": "பொது விநியோகத் திட்டம்"}
+{"engword": "Globalization", "tamilword": "உலகமயமாதல்"}
+{"engword": "Privatization", "tamilword": "தனியார்மயமாதல்"}
+{"engword": "Liberalization", "tamilword": "தாராளமயமாதல்"}
+{"engword": "Special Economic Zone (SEZ)", "tamilword": "சிறப்புப் பொருளாதார மண்டலம்"}
+{"engword": "Industrial Cluster", "tamilword": "தொழில் தொகுப்பு"}
+{"engword": "Minimum Support Price (MSP)", "tamilword": "குறைந்தபட்ச ஆதரவு விலை"}
+{"engword": "Buffer Stock", "tamilword": "இடைக்கால இருப்பு"}
+{"engword": "Foreign Exchange (FOREX)", "tamilword": "அந்நியச் செலாவணி"}
+{"engword": "IMF (International Monetary Fund)", "tamilword": "பன்னாட்டு நிதியம்"}
+{"engword": "World Bank", "tamilword": "உலக வங்கி"}
+{"engword": "WTO (World Trade Organization)", "tamilword": "உலக வர்த்தக அமைப்பு"}
+{"engword": "BRICS", "tamilword": "பிரிக்ஸ் (வளர்ந்து வரும் நாடுகளின் கூட்டமைப்பு)"}
+{"engword": "Human Capital", "tamilword": "மனித மூலதனம்"}
+{"engword": "Green Revolution", "tamilword": "பசுமைப் புரட்சி"}
+{"engword": "White Revolution", "tamilword": "வெண்மைப் புரட்சி"}
+{"engword": "Blue Revolution", "tamilword": "நீலப் புரட்சி"}
+{"engword": "Mixed Economy", "tamilword": "கலப்புப் பொருளாதாரம்"}
+{"engword": "Capitalist Economy", "tamilword": "முதலாளித்துவப் பொருளாதாரம்"}
+{"engword": "Socialist Economy", "tamilword": "சமதர்மப் பொருளாதாரம்"}
+{"engword": "Laissez-faire", "tamilword": "தலையிடாக் கொள்கை"}
+{"engword": "Opportunity Cost", "tamilword": "வாய்ப்புச் செலவு"}
+{"engword": "Marginal Utility", "tamilword": "இறுதிநிலை பயன்பாடு"}
+{"engword": "Fixed Cost", "tamilword": "மாறாச் செலவு"}
+{"engword": "Variable Cost", "tamilword": "மாறும் செலவு"}
+{"engword": "Average Cost", "tamilword": "சராசரிச் செலவு"}
+{"engword": "Monopoly", "tamilword": "முற்றுரிமை"}
+{"engword": "Oligopoly", "tamilword": "சில்லோர் முற்றுரிமை"}
+{"engword": "Duopoly", "tamilword": "இருவர் முற்றுரிமை"}
+{"engword": "Perfect Competition", "tamilword": "நிறைவுப் போட்டி"}
+{"engword": "Imperfect Competition", "tamilword": "நிறைவற்ற போட்டி"}
+{"engword": "Savings", "tamilword": "சேமிப்பு"}
+{"engword": "Investment", "tamilword": "முதலீடு"}
+{"engword": "Hoarding", "tamilword": "பதுக்கல்"}
+{"engword": "Black Marketing", "tamilword": "கள்ளச் சந்தை"}
+{"engword": "Audit", "tamilword": "தணிக்கை"}
+{"engword": "Commodity", "tamilword": "பண்டம் / பொருள்"}
+{"engword": "Service Sector", "tamilword": "பணித்துறை / சார்புத் துறை"}
+{"engword": "Primary Sector", "tamilword": "முதன்மைத் துறை (வேளாண்மை)"}
+{"engword": "Secondary Sector", "tamilword": "இரண்டாம் துறை (தொழில்துறை)"}
+{"engword": "Tertiary Sector", "tamilword": "மூன்றாம் துறை (பணித்துறை)"}
+{"engword": "Quaternary Sector", "tamilword": "நான்காம் நிலைத் துறை (அறிவுசார் பணிகள்)"}
+{"engword": "Quinary Sector", "tamilword": "ஐந்தாம் நிலைத் துறை (உயர்மட்ட முடிவெடுத்தல்)"}
+{"engword": "Economic Planning", "tamilword": "பொருளாதாரத் திட்டமிடல்"}
+{"engword": "Five Year Plan", "tamilword": "ஐந்தாண்டுத் திட்டம்"}
+{"engword": "NITI Aayog", "tamilword": "நிதி ஆயோக் (இந்திய மாற்றத்திற்கான தேசிய நிறுவனம்)"}
+{"engword": "Fiscal Deficit", "tamilword": "நிதிப் பற்றாக்குறை"}
+{"engword": "Revenue Deficit", "tamilword": "வருவாய் பற்றாக்குறை"}
+{"engword": "Primary Deficit", "tamilword": "முதன்மைப் பற்றாக்குறை"}
+{"engword": "Budgetary Control", "tamilword": "நிதிநிலை அறிக்கை கட்டுப்பாடு"}
+{"engword": "Direct Benefit Transfer (DBT)", "tamilword": "நேரடிப் பயன் மாற்றம்"}
+{"engword": "Subsidy", "tamilword": "மானியம்"}
+{"engword": "Financial Inclusion", "tamilword": "நிதி உள்ளடக்கம்"}
+{"engword": "Microfinance", "tamilword": "நுண்கடன்"}
+{"engword": "Self-Help Groups (SHG)", "tamilword": "சுய உதவிக் குழுக்கள்"}
+{"engword": "Bank Rate", "tamilword": "வங்கி வீதம்"}
+{"engword": "Repo Rate", "tamilword": "ரெப்போ வீதம் (மீள் கொள்முதல் வீதம்)"}
+{"engword": "Reverse Repo Rate", "tamilword": "ரிவர்ஸ் ரெப்போ வீதம்"}
+{"engword": "CRR (Cash Reserve Ratio)", "tamilword": "ரொக்க இருப்பு விகிதம்"}
+{"engword": "SLR (Statutory Liquidity Ratio)", "tamilword": "சட்டப்பூர்வ நீர்மை விகிதம்"}
+{"engword": "Open Market Operations", "tamilword": "அங்காடிக் கடன்பத்திரச் செயல்பாடுகள்"}
+{"engword": "Digital India", "tamilword": "டிஜிட்டல் இந்தியா"}
+{"engword": "Startup", "tamilword": "ஸ்டார்ட்அப் (தொடக்க நிறுவனம்)"}
+{"engword": "Make in India", "tamilword": "இந்தியாவில் உருவாக்குவோம் திட்டம்"}
+{"engword": "Skill India", "tamilword": "திறன் இந்தியா"}
+{"engword": "Rural Development", "tamilword": "ஊரக வளர்ச்சி"}
+{"engword": "Urbanization", "tamilword": "நகரமயமாதல்"}
+{"engword": "Migration", "tamilword": "இடப்பெயர்ச்சி"}
+{"engword": "Human Resource Development (HRD)", "tamilword": "மனித வள மேம்பாடு"}
+{"engword": "Child Labour", "tamilword": "குழந்தை உழைப்பு"}
+{"engword": "Literacy Rate", "tamilword": "கல்வியறிவு விகிதம்"}
+{"engword": "Gender Inequality", "tamilword": "பாலின ஏற்றத்தாழ்வு"}
+{"engword": "Life Expectancy", "tamilword": "வாழ்நாள் எதிர்பார்ப்பு"}
+{"engword": "Infant Mortality Rate (IMR)", "tamilword": "குழவி இறப்பு விகிதம்"}
+{"engword": "Maternal Mortality Rate (MMR)", "tamilword": "மகப்பேறு இறப்பு விகிதம்"}
+{"engword": "Social Security", "tamilword": "சமூகப் பாதுகாப்பு"}
+{"engword": "Insurance", "tamilword": "காப்பீடு"}
+{"engword": "Pension", "tamilword": "ஓய்வூதியம்"}
+{"engword": "Provident Fund", "tamilword": "வருங்கால வைப்பு நிதி"}
+{"engword": "Cooperative Society", "tamilword": "கூட்டுறவுச் சங்கம்"}
+{"engword": "Public Sector Undertaking (PSU)", "tamilword": "பொதுத்துறை நிறுவனம்"}
+{"engword": "Multinational Corporation (MNC)", "tamilword": "பன்னாட்டு நிறுவனம்"}
+{"engword": "Consumer Protection Act", "tamilword": "நுகர்வோர் பாதுகாப்புச் சட்டம்"}
+{"engword": "COPRA", "tamilword": "நுகர்வோர் பாதுகாப்புச் சட்டம் (சுருக்கம்)"}
+{"engword": "Agmark", "tamilword": "அக்மார்க் (விவசாயப் பொருட்களின் தரம்)"}
+{"engword": "ISI", "tamilword": "ஐ.எஸ்.ஐ (தொழில் உற்பத்தித் தரம்)"}
+{"engword": "Hallmarking", "tamilword": "ஹால்மார்க்கிங் (தங்கத்தின் தரம்)"}
+{"engword": "Fair Trade", "tamilword": "நியாயமான வர்த்தகம்"}
+{"engword": "Adulteration", "tamilword": "கலப்படம்"}
+{"engword": "Weights and Measures", "tamilword": "எடைகள் மற்றும் அளவைகள்"}
+{"engword": "Consumer Awareness", "tamilword": "நுகர்வோர் விழிப்புணர்வு"}
+{"engword": "Market Surplus", "tamilword": "சந்தை உபரி"}
+{"engword": "Value Added Tax (VAT)", "tamilword": "மதிப்பு கூட்டு வரி"}
+{"engword": "Regressive Tax", "tamilword": "தேய்புரி வரி"}
+{"engword": "Proportional Tax", "tamilword": "விகிதாச்சார வரி"}
+{"engword": "Progressive Tax", "tamilword": "வளர்வீத வரி"}
+{"engword": "Primary School", "tamilword": "தொடக்கப் பள்ளி / ஆரம்பப் பள்ளி"}
+{"engword": "Middle School", "tamilword": "நடுநிலைப் பள்ளி"}
+{"engword": "High School", "tamilword": "உயர்நிலைப் பள்ளி"}
+{"engword": "Higher Secondary School", "tamilword": "மேல்நிலைப் பள்ளி"}
+{"engword": "University", "tamilword": "பல்கலைக்கழகம்"}
+{"engword": "College", "tamilword": "கல்லூரி"}
+{"engword": "Literacy", "tamilword": "கல்வியறிவு"}
+{"engword": "Illiteracy", "tamilword": "எழுத்தறிவின்மை"}
+{"engword": "Education", "tamilword": "கல்வி"}
+{"engword": "Discipline", "tamilword": "ஒழுக்கம்"}
+{"engword": "Degree", "tamilword": "பட்டம்"}
+{"engword": "Diploma", "tamilword": "பட்டயம்"}
+{"engword": "Scholarship", "tamilword": "கல்வி உதவித்தொகை"}
+{"engword": "Certificate", "tamilword": "சான்றிதழ்"}
+{"engword": "Syllabus", "tamilword": "பாடத்திட்டம்"}
+{"engword": "Curriculum", "tamilword": "கலைத்திட்டம்"}
+{"engword": "Assignment", "tamilword": "ஒப்படைப்பு"}
+{"engword": "Dissertation", "tamilword": "ஆய்வேடு / ஆய்வுக்கட்டுரை"}
+{"engword": "Doctorate", "tamilword": "முனைவர் பட்டம்"}
+{"engword": "Honorary Doctorate", "tamilword": "மதிப்புறு முனைவர் பட்டம்"}
+{"engword": "Ethics", "tamilword": "அறநெறி / விழுமியங்கள்"}
+{"engword": "Value Education", "tamilword": "விழுமியக் கல்வி"}
+{"engword": "Adult Education", "tamilword": "முதியோர் கல்வி"}
+{"engword": "Distance Education", "tamilword": "தொலைதூரக் கல்வி"}
+{"engword": "Vocational Education", "tamilword": "தொழில்சார் கல்வி"}
+{"engword": "Guidance", "tamilword": "வழிகாட்டுதல்"}
+{"engword": "Counseling", "tamilword": "ஆலோசனை"}
+{"engword": "Orientation", "tamilword": "அறிமுகப் பயிற்சி"}
+{"engword": "Internship", "tamilword": "பயிற்சிக்காலம்"}
+{"engword": "Workshop", "tamilword": "பணிமனை"}
+{"engword": "Seminar", "tamilword": "கருத்தரங்கம்"}
+{"engword": "Symposium", "tamilword": "கலந்துரையாடல் / மேலாய்வுக் கூட்டம்"}
+{"engword": "Convocation", "tamilword": "பட்டமளிப்பு விழா"}
+{"engword": "Merit", "tamilword": "தகுதி"}
+{"engword": "Quota", "tamilword": "ஒதுக்கீடு"}
+{"engword": "Reservation", "tamilword": "இடஒதுக்கீடு"}
+{"engword": "Management", "tamilword": "மேலாண்மை"}
+{"engword": "Administrator", "tamilword": "நிர்வாகி"}
+{"engword": "Planning", "tamilword": "திட்டமிடல்"}
+{"engword": "Strategy", "tamilword": "உத்தி / வியூகம்"}
+{"engword": "Human Resource", "tamilword": "மனித வளம்"}
+{"engword": "Entrepreneur", "tamilword": "தொழில்முனைவோர்"}
+{"engword": "Leadership", "tamilword": "தலைமைத்துவம்"}
+{"engword": "Recruitment", "tamilword": "ஆள்சேர்ப்பு"}
+{"engword": "Appraisal", "tamilword": "மதிப்பாய்வு"}
+{"engword": "Medicine", "tamilword": "மருத்துவம் / ஔடதம்"}
+{"engword": "Surgery", "tamilword": "அறுவை சிகிச்சை"}
+{"engword": "Transplantation", "tamilword": "உறுப்பு மாற்று அறுவை சிகிச்சை"}
+{"engword": "Diagnosis", "tamilword": "நோய் அறிதல் / கண்டறிதல்"}
+{"engword": "Treatment", "tamilword": "சிகிச்சை"}
+{"engword": "Symptoms", "tamilword": "அறிகுறிகள்"}
+{"engword": "Prescription", "tamilword": "மருந்துச்சீட்டு"}
+{"engword": "Vaccination", "tamilword": "தடுப்பூசி போடுதல்"}
+{"engword": "Vaccine", "tamilword": "தடுப்பூசி"}
+{"engword": "Antibiotic", "tamilword": "நுண்ணுயிர் முறி"}
+{"engword": "Immunity", "tamilword": "நோய் எதிர்ப்புச் சக்தி"}
+{"engword": "Infection", "tamilword": "தொற்று"}
+{"engword": "Epidemic", "tamilword": "கொள்ளைநோய்"}
+{"engword": "Pandemic", "tamilword": "பெருந்தொற்று"}
+{"engword": "Anatomy", "tamilword": "உடற்கூறியல்"}
+{"engword": "Physiology", "tamilword": "உடலியங்கியல்"}
+{"engword": "Pathogen", "tamilword": "நோயூக்கி"}
+{"engword": "Side Effect", "tamilword": "பக்கவிளைவு"}
+{"engword": "Deficiency", "tamilword": "குறைபாடு"}
+{"engword": "Blood Transfusion", "tamilword": "இரத்த தானம் / பரிமாற்றம்"}
+{"engword": "Anesthesia", "tamilword": "மரத்துப்போகச் செய்தல் / மயக்க மருந்து"}
+{"engword": "Cardiology", "tamilword": "இதயவியல்"}
+{"engword": "Neurology", "tamilword": "நரம்பியல்"}
+{"engword": "Oncology", "tamilword": "புற்றுநோயியல்"}
+{"engword": "Pediatrics", "tamilword": "குழந்தையியல்"}
+{"engword": "Hygiene", "tamilword": "சுகாதாரம்"}
+{"engword": "Nutrition", "tamilword": "ஊட்டச்சத்து"}
+{"engword": "First Aid", "tamilword": "முதலுதவி"}
+{"engword": "Ambulance", "tamilword": "அவசர ஊர்தி"}
+{"engword": "Ward", "tamilword": "பிரிவு / அறை"}
+{"engword": "Affidavit", "tamilword": "ஆணையுறுதி ஆவணம்"}
+{"engword": "Allegation", "tamilword": "சாட்டுரை / குற்றச்சாட்டு"}
+{"engword": "Jurisdiction", "tamilword": "அதிகார எல்லை"}
+{"engword": "Conviction", "tamilword": "தண்டனை"}
+{"engword": "Plaintiff", "tamilword": "வாதி"}
+{"engword": "Defendant", "tamilword": "பிரதிவாதி"}
+{"engword": "Verdict", "tamilword": "தீர்ப்பு"}
+{"engword": "Appeal", "tamilword": "மேல்முறையீடு"}
+{"engword": "Witness", "tamilword": "சாட்சி"}
+{"engword": "Summon", "tamilword": "அழைப்பாணை"}
+{"engword": "Warrant", "tamilword": "பிடியாணை"}
+{"engword": "Legal", "tamilword": "சட்டப்பூர்வமான"}
+{"engword": "Illegal", "tamilword": "சட்டவிரோதமான"}
+{"engword": "Evidence", "tamilword": "ஆதாரம்"}
+{"engword": "Patent", "tamilword": "காப்புரிமை"}
+{"engword": "Copyright", "tamilword": "பதிப்புரிமை"}
+{"engword": "Trademark", "tamilword": "வணிகச் சின்னம்"}
+{"engword": "Litigation", "tamilword": "வழக்கு"}
+{"engword": "Advocate", "tamilword": "வழக்கறிஞர்"}
+{"engword": "Judge", "tamilword": "நீதிபதி"}
+{"engword": "Magistrate", "tamilword": "நடுவர்"}
+{"engword": "Probation", "tamilword": "தகுதிகாண் பருவம் / நன்னடத்தைக் காலம்"}
+{"engword": "Bail", "tamilword": "பிணை"}
+{"engword": "Acquittal", "tamilword": "விடுதலை"}
+{"engword": "Prosecution", "tamilword": "அரசுத் தரப்பு வழக்கு"}
+{"engword": "Media", "tamilword": "ஊடகம்"}
+{"engword": "Journalism", "tamilword": "இதழியல்"}
+{"engword": "Journalist", "tamilword": "இதழாளர் / பத்திரிகையாளர்"}
+{"engword": "Press", "tamilword": "செய்தித்தாள் துறை / அச்சகம்"}
+{"engword": "Editorial", "tamilword": "தலையங்கம்"}
+{"engword": "Column", "tamilword": "பத்தி"}
+{"engword": "Bulletin", "tamilword": "செய்தி அறிக்கை"}
+{"engword": "Newsreel", "tamilword": "செய்திப்படம்"}
+{"engword": "Advertisement", "tamilword": "விளம்பரம்"}
+{"engword": "Broadcasting", "tamilword": "ஒளிபரப்பு"}
+{"engword": "Telecasting", "tamilword": "ஒளிபரப்பு (தொலைக்காட்சி)"}
+{"engword": "Live", "tamilword": "நேரடி ஒளிபரப்பு"}
+{"engword": "Correspondent", "tamilword": "செய்தியாளர்"}
+{"engword": "Reporter", "tamilword": "நிருபர்"}
+{"engword": "Editor", "tamilword": "பதிப்பாசிரியர் / ஆசிரியர்"}
+{"engword": "Proofreading", "tamilword": "பிழை திருத்தம்"}
+{"engword": "Magazine", "tamilword": "பருவ இதழ்"}
+{"engword": "Periodical", "tamilword": "இதழ்"}
+{"engword": "Cartoon", "tamilword": "கருத்துப்படம்"}
+{"engword": "Mass Communication", "tamilword": "வெகுஜனத் தொடர்பு"}
+{"engword": "Computer", "tamilword": "கணினி"}
+{"engword": "Internet", "tamilword": "இணையம்"}
+{"engword": "Website", "tamilword": "இணையதளம்"}
+{"engword": "Webpage", "tamilword": "இணையப்பக்கம்"}
+{"engword": "Search Engine", "tamilword": "தேடுபொறி"}
+{"engword": "Browser", "tamilword": "உலாவி"}
+{"engword": "Download", "tamilword": "பதிவிறக்கம்"}
+{"engword": "Upload", "tamilword": "பதிவேற்றம்"}
+{"engword": "Software", "tamilword": "மென்பொருள்"}
+{"engword": "Hardware", "tamilword": "வன்பொருள்"}
+{"engword": "Program", "tamilword": "நிரல்"}
+{"engword": "Data", "tamilword": "தரவு"}
+{"engword": "Database", "tamilword": "தரவுத்தளம்"}
+{"engword": "Keyboard", "tamilword": "விசைப்பலகை"}
+{"engword": "Mouse", "tamilword": "சுட்டி"}
+{"engword": "Screen / Monitor", "tamilword": "திரை"}
+{"engword": "Folder", "tamilword": "உறை / மடிப்புத்தாள்"}
+{"engword": "File", "tamilword": "கோப்பு"}
+{"engword": "Online", "tamilword": "இணையவழி"}
+{"engword": "Offline", "tamilword": "இணையம் இல்லா நிலை"}
+{"engword": "Email", "tamilword": "மின்னஞ்சல்"}
+{"engword": "Password", "tamilword": "கடவுச்சொல்"}
+{"engword": "Username", "tamilword": "பயனர் பெயர்"}
+{"engword": "Social Media", "tamilword": "சமூக ஊடகம்"}
+{"engword": "Network", "tamilword": "வலைப்பின்னல்"}
+{"engword": "Digital", "tamilword": "டிஜிட்டல் / எண்முறை"}
+{"engword": "Cyber", "tamilword": "இணையம் சார்ந்த"}
+{"engword": "Cyber Crime", "tamilword": "இணையக் குற்றம்"}
+{"engword": "Firewall", "tamilword": "தீயரணல்"}
+{"engword": "Artificial Intelligence", "tamilword": "செயற்கை நுண்ணறிவு"}
+{"engword": "Super Computer", "tamilword": "மீத்திறன் கணினி"}
+{"engword": "Laptop", "tamilword": "மடிக்கணினி"}
+{"engword": "Tablet", "tamilword": "கையடக்கக் கணினி"}
+{"engword": "Touch Screen", "tamilword": "தொடுதிரை"}
+{"engword": "Voice Search", "tamilword": "குரல்தேடல்"}
+{"engword": "Application", "tamilword": "செயலி"}
+{"engword": "Icon", "tamilword": "குறும்படம் / சின்னம்"}
+{"engword": "Storage", "tamilword": "சேமிப்பு"}
+{"engword": "Memory Card", "tamilword": "நினைவக அட்டை"}
+{"engword": "Virus", "tamilword": "நச்சுநிரல்"}
+{"engword": "Antivirus", "tamilword": "நச்சுநிரல் முறி"}
+{"engword": "Font", "tamilword": "எழுத்துரு"}
+{"engword": "Key", "tamilword": "விசை"}
+{"engword": "Desktop", "tamilword": "கணினித் திரை / மேசைக்கணினி"}
+{"engword": "Graphics", "tamilword": "வரைகலை"}
+{"engword": "Animation", "tamilword": "இயங்குபடம்"}
+{"engword": "Virtual", "tamilword": "மெய்நிகர்"}
+{"engword": "Simulation", "tamilword": "பாவனை"}
+{"engword": "Cloud Computing", "tamilword": "மேகக் கணிமை"}
+{"engword": "Server", "tamilword": "சேவையகம்"}
+{"engword": "Client", "tamilword": "பயனர் / வாடிக்கையாளர்"}
+{"engword": "Interface", "tamilword": "இடைமுகம்"}
+{"engword": "Protocol", "tamilword": "நெறிமுறை"}
+{"engword": "Algorithm", "tamilword": "படிமுறைத் தீர்வு / நெறிமுறை"}
+{"engword": "Coding", "tamilword": "நிரலாக்கம் / குறியீடு"}
+{"engword": "Bug", "tamilword": "பிழை"}
+{"engword": "Debugging", "tamilword": "பிழை நீக்கம்"}
+{"engword": "E-Book", "tamilword": "மின்-புத்தகம்"}
+{"engword": "E-Magazine", "tamilword": "மின்-இதழ்"}
+{"engword": "E-Library", "tamilword": "மின்-நூலகம்"}
+{"engword": "Compact Disk (CD)", "tamilword": "குறுந்தகடு"}
+{"engword": "Digital Signature", "tamilword": "டிஜிட்டல் கையெழுத்து"}
+{"engword": "Encryption", "tamilword": "மறைக்குறியீடு"}
+{"engword": "Decryption", "tamilword": "மறைக்குறியீடு நீக்கம்"}
+{"engword": "Hacker", "tamilword": "ஊடுருவி"}
+{"engword": "Spam", "tamilword": "தேவையற்ற மின்னஞ்சல்"}
+{"engword": "Link", "tamilword": "இணைப்பு"}
+{"engword": "Hyperlink", "tamilword": "மீயிணைப்பு"}
+{"engword": "Multimedia", "tamilword": "பல்லூடகம்"}
+{"engword": "Audio", "tamilword": "ஒலி"}
+{"engword": "Video", "tamilword": "ஒளி / காணொலி"}
+{"engword": "Image", "tamilword": "படம் / நிழற்படம்"}
+{"engword": "Resolution", "tamilword": "தெளிவுத்திறன்"}
+{"engword": "Pixel", "tamilword": "படப்புள்ளி"}
+{"engword": "Scan", "tamilword": "மின்வருடல்"}
+{"engword": "Printer", "tamilword": "அச்சுப்பொறி"}
+{"engword": "Scanner", "tamilword": "மின்வருடி"}
+{"engword": "Modem", "tamilword": "மாற்றி / மோடம்"}
+{"engword": "Bandwidth", "tamilword": "அலைக்கற்றை"}
+{"engword": "Wi-Fi", "tamilword": "கம்பியில்லா இணைய இணைப்பு"}
